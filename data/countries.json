@@ -1,0 +1,2675 @@
+[
+  {
+    "name": "Albania",
+    "iso_3166_2": "AL",
+    "iso_3166_3": "ALB",
+    "measurement_system": "metric",
+    "default_currency": "ALL",
+    "languages": [
+      "sq"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Algeria",
+    "iso_3166_2": "DZ",
+    "iso_3166_3": "DZA",
+    "measurement_system": "metric",
+    "default_currency": "DZD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "American Samoa",
+    "iso_3166_2": "AS",
+    "iso_3166_3": "ASM",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Andorra",
+    "iso_3166_2": "AD",
+    "iso_3166_3": "AND",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "ca"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Anguilla",
+    "iso_3166_2": "AI",
+    "iso_3166_3": "AIA",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "iso_3166_2": "AG",
+    "iso_3166_3": "ATG",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Argentina",
+    "iso_3166_2": "AR",
+    "iso_3166_3": "ARG",
+    "measurement_system": "metric",
+    "default_currency": "ARS",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Armenia",
+    "iso_3166_2": "AM",
+    "iso_3166_3": "ARM",
+    "measurement_system": "metric",
+    "default_currency": "AMD",
+    "languages": [
+      "hy"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Aruba",
+    "iso_3166_2": "AW",
+    "iso_3166_3": "ABW",
+    "measurement_system": "metric",
+    "default_currency": "AWG",
+    "languages": [
+      "nl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Australia",
+    "iso_3166_2": "AU",
+    "iso_3166_3": "AUS",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [
+      "Australia/ACT"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Austria",
+    "iso_3166_2": "AT",
+    "iso_3166_3": "AUT",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "de"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Azerbaijan",
+    "iso_3166_2": "AZ",
+    "iso_3166_3": "AZE",
+    "measurement_system": "metric",
+    "default_currency": "AZN",
+    "languages": [
+      "az"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bahamas",
+    "iso_3166_2": "BS",
+    "iso_3166_3": "BHS",
+    "measurement_system": "metric",
+    "default_currency": "BSD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bahrain",
+    "iso_3166_2": "BH",
+    "iso_3166_3": "BHR",
+    "measurement_system": "metric",
+    "default_currency": "BHD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bangladesh",
+    "iso_3166_2": "BD",
+    "iso_3166_3": "BGD",
+    "measurement_system": "metric",
+    "default_currency": "BDT",
+    "languages": [
+      "bn"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Barbados",
+    "iso_3166_2": "BB",
+    "iso_3166_3": "BRB",
+    "measurement_system": "metric",
+    "default_currency": "BBD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Belgium",
+    "iso_3166_2": "BE",
+    "iso_3166_3": "BEL",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "de",
+      "fr",
+      "nl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Belize",
+    "iso_3166_2": "BZ",
+    "iso_3166_3": "BLZ",
+    "measurement_system": "metric",
+    "default_currency": "BZD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Benin",
+    "iso_3166_2": "BJ",
+    "iso_3166_3": "BEN",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "ff",
+      "fr",
+      "yo"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bermuda",
+    "iso_3166_2": "BM",
+    "iso_3166_3": "BMU",
+    "measurement_system": "metric",
+    "default_currency": "BMD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bhutan",
+    "iso_3166_2": "BT",
+    "iso_3166_3": "BTN",
+    "measurement_system": "metric",
+    "default_currency": "INR",
+    "languages": [
+      "dz"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bolivia",
+    "iso_3166_2": "BO",
+    "iso_3166_3": "BOL",
+    "measurement_system": "metric",
+    "default_currency": "BOB",
+    "languages": [
+      "ay",
+      "es",
+      "gn",
+      "qu"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "iso_3166_2": "BQ",
+    "iso_3166_3": "BES",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "iso_3166_2": "BA",
+    "iso_3166_3": "BIH",
+    "measurement_system": "metric",
+    "default_currency": "BAM",
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Botswana",
+    "iso_3166_2": "BW",
+    "iso_3166_3": "BWA",
+    "measurement_system": "metric",
+    "default_currency": "BWP",
+    "languages": [
+      "en",
+      "tn"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Brazil",
+    "iso_3166_2": "BR",
+    "iso_3166_3": "BRA",
+    "measurement_system": "metric",
+    "default_currency": "BRL",
+    "languages": [
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "British Virgin Islands",
+    "iso_3166_2": "VG",
+    "iso_3166_3": "VGB",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "iso_3166_2": "BN",
+    "iso_3166_3": "BRN",
+    "measurement_system": "metric",
+    "default_currency": "BND",
+    "languages": [
+      "ms"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Bulgaria",
+    "iso_3166_2": "BG",
+    "iso_3166_3": "BGR",
+    "measurement_system": "metric",
+    "default_currency": "BGN",
+    "languages": [
+      "bg"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Burkina Faso",
+    "iso_3166_2": "BF",
+    "iso_3166_3": "BFA",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "ff",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Cabo Verde",
+    "iso_3166_2": "CV",
+    "iso_3166_3": "CPV",
+    "measurement_system": "metric",
+    "default_currency": "CVE",
+    "languages": [
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Cambodia",
+    "iso_3166_2": "KH",
+    "iso_3166_3": "KHM",
+    "measurement_system": "metric",
+    "default_currency": "KHR",
+    "languages": [
+      "km"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Cameroon",
+    "iso_3166_2": "CM",
+    "iso_3166_3": "CMR",
+    "measurement_system": "metric",
+    "default_currency": "XAF",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Canada",
+    "iso_3166_2": "CA",
+    "iso_3166_3": "CAN",
+    "measurement_system": "metric",
+    "default_currency": "CAD",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "timezones": [
+      "Canada/Eastern"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Cayman Islands",
+    "iso_3166_2": "KY",
+    "iso_3166_3": "CYM",
+    "measurement_system": "metric",
+    "default_currency": "KYD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Central African Republic",
+    "iso_3166_2": "CF",
+    "iso_3166_3": "CAF",
+    "measurement_system": "metric",
+    "default_currency": "XAF",
+    "languages": [
+      "fr",
+      "sg"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Chad",
+    "iso_3166_2": "TD",
+    "iso_3166_3": "TCD",
+    "measurement_system": "metric",
+    "default_currency": "XAF",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Chile",
+    "iso_3166_2": "CL",
+    "iso_3166_3": "CHL",
+    "measurement_system": "metric",
+    "default_currency": "CLP",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "China",
+    "iso_3166_2": "CN",
+    "iso_3166_3": "CHN",
+    "measurement_system": "metric",
+    "default_currency": "CNY",
+    "languages": [
+      "zh"
+    ],
+    "timezones": [
+      "Asia/Chongqing"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "China, Hong Kong Special Administrative Region",
+    "iso_3166_2": "HK",
+    "iso_3166_3": "HKG",
+    "measurement_system": "metric",
+    "default_currency": "HKD",
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "China, Macao Special Administrative Region",
+    "iso_3166_2": "MO",
+    "iso_3166_3": "MAC",
+    "measurement_system": "metric",
+    "default_currency": "MOP",
+    "languages": [
+      "pt",
+      "zh"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Colombia",
+    "iso_3166_2": "CO",
+    "iso_3166_3": "COL",
+    "measurement_system": "metric",
+    "default_currency": "COP",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Comoros",
+    "iso_3166_2": "KM",
+    "iso_3166_3": "COM",
+    "measurement_system": "metric",
+    "default_currency": "KMF",
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Congo",
+    "iso_3166_2": "CG",
+    "iso_3166_3": "COG",
+    "measurement_system": "metric",
+    "default_currency": "XAF",
+    "languages": [
+      "fr",
+      "kg",
+      "ln"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Cook Islands",
+    "iso_3166_2": "CK",
+    "iso_3166_3": "COK",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Costa Rica",
+    "iso_3166_2": "CR",
+    "iso_3166_3": "CRI",
+    "measurement_system": "metric",
+    "default_currency": "CRC",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Croatia",
+    "iso_3166_2": "HR",
+    "iso_3166_3": "HRV",
+    "measurement_system": "metric",
+    "default_currency": "HRK",
+    "languages": [
+      "hr",
+      "it"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Curaçao",
+    "iso_3166_2": "CW",
+    "iso_3166_3": "CUW",
+    "measurement_system": "metric",
+    "default_currency": "ANG",
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Cyprus",
+    "iso_3166_2": "CY",
+    "iso_3166_3": "CYP",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "el",
+      "tr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Czechia",
+    "iso_3166_2": "CZ",
+    "iso_3166_3": "CZE",
+    "measurement_system": "metric",
+    "default_currency": "CZK",
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "iso_3166_2": "CI",
+    "iso_3166_3": "CIV",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Denmark",
+    "iso_3166_2": "DK",
+    "iso_3166_3": "DNK",
+    "measurement_system": "metric",
+    "default_currency": "DKK",
+    "languages": [
+      "da"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Djibouti",
+    "iso_3166_2": "DJ",
+    "iso_3166_3": "DJI",
+    "measurement_system": "metric",
+    "default_currency": "DJF",
+    "languages": [
+      "aa",
+      "ar",
+      "fr",
+      "so"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Dominica",
+    "iso_3166_2": "DM",
+    "iso_3166_3": "DMA",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Dominican Republic",
+    "iso_3166_2": "DO",
+    "iso_3166_3": "DOM",
+    "measurement_system": "metric",
+    "default_currency": "DOP",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Ecuador",
+    "iso_3166_2": "EC",
+    "iso_3166_3": "ECU",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Egypt",
+    "iso_3166_2": "EG",
+    "iso_3166_3": "EGY",
+    "measurement_system": "metric",
+    "default_currency": "EGP",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "El Salvador",
+    "iso_3166_2": "SV",
+    "iso_3166_3": "SLV",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "iso_3166_2": "GQ",
+    "iso_3166_3": "GNQ",
+    "measurement_system": "metric",
+    "default_currency": "XAF",
+    "languages": [
+      "es",
+      "fr",
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Estonia",
+    "iso_3166_2": "EE",
+    "iso_3166_3": "EST",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "et"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Ethiopia",
+    "iso_3166_2": "ET",
+    "iso_3166_3": "ETH",
+    "measurement_system": "metric",
+    "default_currency": "ETB",
+    "languages": [
+      "am"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Falkland Islans",
+    "iso_3166_2": "FK",
+    "iso_3166_3": "FLK",
+    "measurement_system": "metric",
+    "default_currency": "FKP",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Fiji",
+    "iso_3166_2": "FJ",
+    "iso_3166_3": "FJI",
+    "measurement_system": "metric",
+    "default_currency": "FJD",
+    "languages": [
+      "en",
+      "fj",
+      "hi",
+      "ur"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Finland",
+    "iso_3166_2": "FI",
+    "iso_3166_3": "FIN",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "France",
+    "iso_3166_2": "FR",
+    "iso_3166_3": "FRA",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [
+      "Africa/Algiers"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "French Guiana",
+    "iso_3166_2": "GF",
+    "iso_3166_3": "GUF",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "French Polynesia",
+    "iso_3166_2": "PF",
+    "iso_3166_3": "PYF",
+    "measurement_system": "metric",
+    "default_currency": "XPF",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Gabon",
+    "iso_3166_2": "GA",
+    "iso_3166_3": "GAB",
+    "measurement_system": "metric",
+    "default_currency": "XAF",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Gambia",
+    "iso_3166_2": "GM",
+    "iso_3166_3": "GMB",
+    "measurement_system": "metric",
+    "default_currency": "GMD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Georgia",
+    "iso_3166_2": "GE",
+    "iso_3166_3": "GEO",
+    "measurement_system": "metric",
+    "default_currency": "GEL",
+    "languages": [
+      "ka"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Germany",
+    "iso_3166_2": "DE",
+    "iso_3166_3": "DEU",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "de"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Ghana",
+    "iso_3166_2": "GH",
+    "iso_3166_3": "GHA",
+    "measurement_system": "metric",
+    "default_currency": "GHS",
+    "languages": [
+      "ak",
+      "ee",
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Gibraltar",
+    "iso_3166_2": "GI",
+    "iso_3166_3": "GIB",
+    "measurement_system": "metric",
+    "default_currency": "GIP",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Greece",
+    "iso_3166_2": "GR",
+    "iso_3166_3": "GRC",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "el"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Greenland",
+    "iso_3166_2": "GL",
+    "iso_3166_3": "GRL",
+    "measurement_system": "metric",
+    "default_currency": "DKK",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Grenada",
+    "iso_3166_2": "GD",
+    "iso_3166_3": "GRD",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guadeloupe",
+    "iso_3166_2": "GP",
+    "iso_3166_3": "GLP",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guam",
+    "iso_3166_2": "GU",
+    "iso_3166_3": "GUM",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guatemala",
+    "iso_3166_2": "GT",
+    "iso_3166_3": "GTM",
+    "measurement_system": "metric",
+    "default_currency": "GTQ",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guernsey",
+    "iso_3166_2": "GG",
+    "iso_3166_3": "GGY",
+    "measurement_system": "metric",
+    "default_currency": "GBP",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guinea",
+    "iso_3166_2": "GN",
+    "iso_3166_3": "GIN",
+    "measurement_system": "metric",
+    "default_currency": "GNF",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "iso_3166_2": "GW",
+    "iso_3166_3": "GNB",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Guyana",
+    "iso_3166_2": "GY",
+    "iso_3166_3": "GUY",
+    "measurement_system": "metric",
+    "default_currency": "GYD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Haiti",
+    "iso_3166_2": "HT",
+    "iso_3166_3": "HTI",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "fr",
+      "ht"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Holy See",
+    "iso_3166_2": "VA",
+    "iso_3166_3": "VAT",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "it",
+      "la"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Honduras",
+    "iso_3166_2": "HN",
+    "iso_3166_3": "HND",
+    "measurement_system": "metric",
+    "default_currency": "HNL",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Hungary",
+    "iso_3166_2": "HU",
+    "iso_3166_3": "HUN",
+    "measurement_system": "metric",
+    "default_currency": "HUF",
+    "languages": [
+      "hu"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Iceland",
+    "iso_3166_2": "IS",
+    "iso_3166_3": "ISL",
+    "measurement_system": "metric",
+    "default_currency": "ISK",
+    "languages": [
+      "is"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "India",
+    "iso_3166_2": "IN",
+    "iso_3166_3": "IND",
+    "measurement_system": "metric",
+    "default_currency": "INR",
+    "languages": [
+      "bn",
+      "en",
+      "gu",
+      "hi",
+      "pa",
+      "ta",
+      "te"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Indonesia",
+    "iso_3166_2": "ID",
+    "iso_3166_3": "IDN",
+    "measurement_system": "metric",
+    "default_currency": "IDR",
+    "languages": [
+      "id",
+      "ms"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Ireland",
+    "iso_3166_2": "IE",
+    "iso_3166_3": "IRL",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "en",
+      "ga"
+    ],
+    "timezones": [
+      "GMT"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Isle of Man",
+    "iso_3166_2": "IM",
+    "iso_3166_3": "IMN",
+    "measurement_system": "metric",
+    "default_currency": "GBP",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Israel",
+    "iso_3166_2": "IL",
+    "iso_3166_3": "ISR",
+    "measurement_system": "metric",
+    "default_currency": "ILS",
+    "languages": [
+      "ar",
+      "he"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Italy",
+    "iso_3166_2": "IT",
+    "iso_3166_3": "ITA",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Jamaica",
+    "iso_3166_2": "JM",
+    "iso_3166_3": "JAM",
+    "measurement_system": "metric",
+    "default_currency": "JMD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Japan",
+    "iso_3166_2": "JP",
+    "iso_3166_3": "JPN",
+    "measurement_system": "metric",
+    "default_currency": "JPY",
+    "languages": [
+      "ja"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Jersey",
+    "iso_3166_2": "JE",
+    "iso_3166_3": "JEY",
+    "measurement_system": "metric",
+    "default_currency": "GBP",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Jordan",
+    "iso_3166_2": "JO",
+    "iso_3166_3": "JOR",
+    "measurement_system": "metric",
+    "default_currency": "JOD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Kazakhstan",
+    "iso_3166_2": "KZ",
+    "iso_3166_3": "KAZ",
+    "measurement_system": "metric",
+    "default_currency": "KZT",
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Kenya",
+    "iso_3166_2": "KE",
+    "iso_3166_3": "KEN",
+    "measurement_system": "metric",
+    "default_currency": "KES",
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Kiribati",
+    "iso_3166_2": "KI",
+    "iso_3166_3": "KIR",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Kuwait",
+    "iso_3166_2": "KW",
+    "iso_3166_3": "KWT",
+    "measurement_system": "metric",
+    "default_currency": "KWD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "iso_3166_2": "KG",
+    "iso_3166_3": "KGZ",
+    "measurement_system": "metric",
+    "default_currency": "KGS",
+    "languages": [
+      "ky",
+      "ru"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "iso_3166_2": "LA",
+    "iso_3166_3": "LAO",
+    "measurement_system": "metric",
+    "default_currency": "LAK",
+    "languages": [
+      "lo"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Latvia",
+    "iso_3166_2": "LV",
+    "iso_3166_3": "LVA",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "lv"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Lebanon",
+    "iso_3166_2": "LB",
+    "iso_3166_3": "LBN",
+    "measurement_system": "metric",
+    "default_currency": "LBP",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Lesotho",
+    "iso_3166_2": "LS",
+    "iso_3166_3": "LSO",
+    "measurement_system": "metric",
+    "default_currency": "ZAR",
+    "languages": [
+      "en",
+      "st"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Libya",
+    "iso_3166_2": "LY",
+    "iso_3166_3": "LBY",
+    "measurement_system": "metric",
+    "default_currency": "LYD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Liechtenstein",
+    "iso_3166_2": "LI",
+    "iso_3166_3": "LIE",
+    "measurement_system": "metric",
+    "default_currency": "CHF",
+    "languages": [
+      "de"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Lithuania",
+    "iso_3166_2": "LT",
+    "iso_3166_3": "LTU",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "lt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Luxembourg",
+    "iso_3166_2": "LU",
+    "iso_3166_3": "LUX",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "de",
+      "fr",
+      "lb"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Malawi",
+    "iso_3166_2": "MW",
+    "iso_3166_3": "MWI",
+    "measurement_system": "metric",
+    "default_currency": "MWK",
+    "languages": [
+      "en",
+      "ny"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Malaysia",
+    "iso_3166_2": "MY",
+    "iso_3166_3": "MYS",
+    "measurement_system": "metric",
+    "default_currency": "MYR",
+    "languages": [
+      "en",
+      "ms",
+      "ta"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Maldives",
+    "iso_3166_2": "MV",
+    "iso_3166_3": "MDV",
+    "measurement_system": "metric",
+    "default_currency": "MVR",
+    "languages": [
+      "dv"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mali",
+    "iso_3166_2": "ML",
+    "iso_3166_3": "MLI",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "bm",
+      "ff",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Malta",
+    "iso_3166_2": "MT",
+    "iso_3166_3": "MLT",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "en",
+      "mt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Marshall Islands",
+    "iso_3166_2": "MH",
+    "iso_3166_3": "MHL",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "en",
+      "mh"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Martinique",
+    "iso_3166_2": "MQ",
+    "iso_3166_3": "MTQ",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mauritania",
+    "iso_3166_2": "MR",
+    "iso_3166_3": "MRT",
+    "measurement_system": "metric",
+    "default_currency": "MRO",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mauritius",
+    "iso_3166_2": "MU",
+    "iso_3166_3": "MUS",
+    "measurement_system": "metric",
+    "default_currency": "MUR",
+    "languages": [
+      "en",
+      "fr",
+      "ta"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mayotte",
+    "iso_3166_2": "YT",
+    "iso_3166_3": "MYT",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mexico",
+    "iso_3166_2": "MX",
+    "iso_3166_3": "MEX",
+    "measurement_system": "metric",
+    "default_currency": "MXN",
+    "languages": [
+      "es"
+    ],
+    "timezones": [
+      "Mexico/General"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Micronesia",
+    "iso_3166_2": "FM",
+    "iso_3166_3": "FSM",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Monaco",
+    "iso_3166_2": "MC",
+    "iso_3166_3": "MCO",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mongolia",
+    "iso_3166_2": "MN",
+    "iso_3166_3": "MNG",
+    "measurement_system": "metric",
+    "default_currency": "MNT",
+    "languages": [
+      "mn"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Montenegro",
+    "iso_3166_2": "ME",
+    "iso_3166_3": "MNE",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Montserrat",
+    "iso_3166_2": "MS",
+    "iso_3166_3": "MSR",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Morocco",
+    "iso_3166_2": "MA",
+    "iso_3166_3": "MAR",
+    "measurement_system": "metric",
+    "default_currency": "MAD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Namibia",
+    "iso_3166_2": "NA",
+    "iso_3166_3": "NAM",
+    "measurement_system": "metric",
+    "default_currency": "ZAR",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Nauru",
+    "iso_3166_2": "NR",
+    "iso_3166_3": "NRU",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Nepal",
+    "iso_3166_2": "NP",
+    "iso_3166_3": "NPL",
+    "measurement_system": "metric",
+    "default_currency": "NPR",
+    "languages": [
+      "ne"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Netherlands",
+    "iso_3166_2": "NL",
+    "iso_3166_3": "NLD",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "nl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "New Caledonia",
+    "iso_3166_2": "NC",
+    "iso_3166_3": "NCL",
+    "measurement_system": "metric",
+    "default_currency": "XPF",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "New Zealand",
+    "iso_3166_2": "NZ",
+    "iso_3166_3": "NZL",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Nicaragua",
+    "iso_3166_2": "NI",
+    "iso_3166_3": "NIC",
+    "measurement_system": "metric",
+    "default_currency": "NIO",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Niger",
+    "iso_3166_2": "NE",
+    "iso_3166_3": "NER",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "ar",
+      "ff",
+      "fr",
+      "ha",
+      "kr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Nigeria",
+    "iso_3166_2": "NG",
+    "iso_3166_3": "NGA",
+    "measurement_system": "metric",
+    "default_currency": "NGN",
+    "languages": [
+      "en",
+      "ha",
+      "ig",
+      "yo"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Niue",
+    "iso_3166_2": "NU",
+    "iso_3166_3": "NIU",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Norfolk Island",
+    "iso_3166_2": "NF",
+    "iso_3166_3": "NFK",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "iso_3166_2": "MP",
+    "iso_3166_3": "MNP",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Norway",
+    "iso_3166_2": "NO",
+    "iso_3166_3": "NOR",
+    "measurement_system": "metric",
+    "default_currency": "NOK",
+    "languages": [
+      "nb",
+      "nn",
+      "no"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Oman",
+    "iso_3166_2": "OM",
+    "iso_3166_3": "OMN",
+    "measurement_system": "metric",
+    "default_currency": "OMR",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Pakistan",
+    "iso_3166_2": "PK",
+    "iso_3166_3": "PAK",
+    "measurement_system": "metric",
+    "default_currency": "PKR",
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Palau",
+    "iso_3166_2": "PW",
+    "iso_3166_3": "PLW",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Panama",
+    "iso_3166_2": "PA",
+    "iso_3166_3": "PAN",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Papua New Guinea",
+    "iso_3166_2": "PG",
+    "iso_3166_3": "PNG",
+    "measurement_system": "metric",
+    "default_currency": "PGK",
+    "languages": [
+      "en",
+      "ho"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Paraguay",
+    "iso_3166_2": "PY",
+    "iso_3166_3": "PRY",
+    "measurement_system": "metric",
+    "default_currency": "PYG",
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Peru",
+    "iso_3166_2": "PE",
+    "iso_3166_3": "PER",
+    "measurement_system": "metric",
+    "default_currency": "PEN",
+    "languages": [
+      "ay",
+      "es",
+      "qu"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Philippines",
+    "iso_3166_2": "PH",
+    "iso_3166_3": "PHL",
+    "measurement_system": "metric",
+    "default_currency": "PHP",
+    "languages": [
+      "en",
+      "tl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Pitcairn",
+    "iso_3166_2": "PN",
+    "iso_3166_3": "PCN",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Poland",
+    "iso_3166_2": "PL",
+    "iso_3166_3": "POL",
+    "measurement_system": "metric",
+    "default_currency": "PLN",
+    "languages": [
+      "pl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Portugal",
+    "iso_3166_2": "PT",
+    "iso_3166_3": "PRT",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Puerto Rico",
+    "iso_3166_2": "PR",
+    "iso_3166_3": "PRI",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Qatar",
+    "iso_3166_2": "QA",
+    "iso_3166_3": "QAT",
+    "measurement_system": "metric",
+    "default_currency": "QAR",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Republic of Korea",
+    "iso_3166_2": "KR",
+    "iso_3166_3": "KOR",
+    "measurement_system": "metric",
+    "default_currency": "KRW",
+    "languages": [
+      "ko"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Republic of Moldova",
+    "iso_3166_2": "MD",
+    "iso_3166_3": "MDA",
+    "measurement_system": "metric",
+    "default_currency": "MDL",
+    "languages": [
+      "ro"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Romania",
+    "iso_3166_2": "RO",
+    "iso_3166_3": "ROU",
+    "measurement_system": "metric",
+    "default_currency": "RON",
+    "languages": [
+      "ro"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Russian Federation",
+    "iso_3166_2": "RU",
+    "iso_3166_3": "RUS",
+    "measurement_system": "metric",
+    "default_currency": "RUB",
+    "languages": [
+      "ru"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Rwanda",
+    "iso_3166_2": "RW",
+    "iso_3166_3": "RWA",
+    "measurement_system": "metric",
+    "default_currency": "RWF",
+    "languages": [
+      "en",
+      "fr",
+      "rw"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Réunion",
+    "iso_3166_2": "RE",
+    "iso_3166_3": "REU",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "iso_3166_2": "BL",
+    "iso_3166_3": "BLM",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Helena",
+    "iso_3166_2": "SH",
+    "iso_3166_3": "SHN",
+    "measurement_system": "metric",
+    "default_currency": "SHP",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "iso_3166_2": "KN",
+    "iso_3166_3": "KNA",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Lucia",
+    "iso_3166_2": "LC",
+    "iso_3166_3": "LCA",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Martin",
+    "iso_3166_2": "MF",
+    "iso_3166_3": "MAF",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "iso_3166_2": "PM",
+    "iso_3166_3": "SPM",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "iso_3166_2": "VC",
+    "iso_3166_3": "VCT",
+    "measurement_system": "metric",
+    "default_currency": "XCD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Samoa",
+    "iso_3166_2": "WS",
+    "iso_3166_3": "WSM",
+    "measurement_system": "metric",
+    "default_currency": "WST",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "San Marino",
+    "iso_3166_2": "SM",
+    "iso_3166_3": "SMR",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "it"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "iso_3166_2": "ST",
+    "iso_3166_3": "STP",
+    "measurement_system": "metric",
+    "default_currency": "STD",
+    "languages": [
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Saudi Arabia",
+    "iso_3166_2": "SA",
+    "iso_3166_3": "SAU",
+    "measurement_system": "metric",
+    "default_currency": "SAR",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Senegal",
+    "iso_3166_2": "SN",
+    "iso_3166_3": "SEN",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "ff",
+      "fr",
+      "wo"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Serbia",
+    "iso_3166_2": "RS",
+    "iso_3166_3": "SRB",
+    "measurement_system": "metric",
+    "default_currency": "RSD",
+    "languages": [
+      "sr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Seychelles",
+    "iso_3166_2": "SC",
+    "iso_3166_3": "SYC",
+    "measurement_system": "metric",
+    "default_currency": "SCR",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Sierra Leone",
+    "iso_3166_2": "SL",
+    "iso_3166_3": "SLE",
+    "measurement_system": "metric",
+    "default_currency": "SLL",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Singapore",
+    "iso_3166_2": "SG",
+    "iso_3166_3": "SGP",
+    "measurement_system": "metric",
+    "default_currency": "SGD",
+    "languages": [
+      "en",
+      "ms",
+      "ta",
+      "zh"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Sint Maarten",
+    "iso_3166_2": "SX",
+    "iso_3166_3": "SXM",
+    "measurement_system": "metric",
+    "default_currency": "ANG",
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Slovakia",
+    "iso_3166_2": "SK",
+    "iso_3166_3": "SVK",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Slovenia",
+    "iso_3166_2": "SI",
+    "iso_3166_3": "SVN",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "it",
+      "sl"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Solomon Islands",
+    "iso_3166_2": "SB",
+    "iso_3166_3": "SLB",
+    "measurement_system": "metric",
+    "default_currency": "SBD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Somalia",
+    "iso_3166_2": "SO",
+    "iso_3166_3": "SOM",
+    "measurement_system": "metric",
+    "default_currency": "SOS",
+    "languages": [
+      "ar",
+      "so"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "South Africa",
+    "iso_3166_2": "ZA",
+    "iso_3166_3": "ZAF",
+    "measurement_system": "metric",
+    "default_currency": "ZAR",
+    "languages": [
+      "af",
+      "en",
+      "nd",
+      "nr",
+      "ss",
+      "st",
+      "tn",
+      "ts",
+      "ve",
+      "xh",
+      "zu"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Spain",
+    "iso_3166_2": "ES",
+    "iso_3166_3": "ESP",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Sri Lanka",
+    "iso_3166_2": "LK",
+    "iso_3166_3": "LKA",
+    "measurement_system": "metric",
+    "default_currency": "LKR",
+    "languages": [
+      "en",
+      "si",
+      "ta"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Svalbard and Jan Mayen Islands",
+    "iso_3166_2": "SJ",
+    "iso_3166_3": "SJM",
+    "measurement_system": "metric",
+    "default_currency": "NOK",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Swaziland",
+    "iso_3166_2": "SZ",
+    "iso_3166_3": "SWZ",
+    "measurement_system": "metric",
+    "default_currency": "SZL",
+    "languages": [
+      "en",
+      "ss"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Sweden",
+    "iso_3166_2": "SE",
+    "iso_3166_3": "SWE",
+    "measurement_system": "metric",
+    "default_currency": "SEK",
+    "languages": [
+      "sv"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Switzerland",
+    "iso_3166_2": "CH",
+    "iso_3166_3": "CHE",
+    "measurement_system": "metric",
+    "default_currency": "CHF",
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "rm"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Taiwan",
+    "iso_3166_2": "TW",
+    "iso_3166_3": "TWN",
+    "measurement_system": "metric",
+    "default_currency": "TWD",
+    "languages": [
+      "zh"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Thailand",
+    "iso_3166_2": "TH",
+    "iso_3166_3": "THA",
+    "measurement_system": "metric",
+    "default_currency": "THB",
+    "languages": [
+      "th"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Timor-Leste",
+    "iso_3166_2": "TL",
+    "iso_3166_3": "TLS",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [
+      "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Togo",
+    "iso_3166_2": "TG",
+    "iso_3166_3": "TGO",
+    "measurement_system": "metric",
+    "default_currency": "XOF",
+    "languages": [
+      "ee",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tokelau",
+    "iso_3166_2": "TK",
+    "iso_3166_3": "TKL",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tonga",
+    "iso_3166_2": "TO",
+    "iso_3166_3": "TON",
+    "measurement_system": "metric",
+    "default_currency": "TOP",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "iso_3166_2": "TT",
+    "iso_3166_3": "TTO",
+    "measurement_system": "metric",
+    "default_currency": "TTD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tunisia",
+    "iso_3166_2": "TN",
+    "iso_3166_3": "TUN",
+    "measurement_system": "metric",
+    "default_currency": "TND",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Turkey",
+    "iso_3166_2": "TR",
+    "iso_3166_3": "TUR",
+    "measurement_system": "metric",
+    "default_currency": "TRY",
+    "languages": [
+      "tr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "iso_3166_2": "TC",
+    "iso_3166_3": "TCA",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tuvalu",
+    "iso_3166_2": "TV",
+    "iso_3166_3": "TUV",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Uganda",
+    "iso_3166_2": "UG",
+    "iso_3166_3": "UGA",
+    "measurement_system": "metric",
+    "default_currency": "UGX",
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Ukraine",
+    "iso_3166_2": "UA",
+    "iso_3166_3": "UKR",
+    "measurement_system": "metric",
+    "default_currency": "UAH",
+    "languages": [
+      "uk"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "United Arab Emirates",
+    "iso_3166_2": "AE",
+    "iso_3166_3": "ARE",
+    "measurement_system": "metric",
+    "default_currency": "AED",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "United Kingdom",
+    "iso_3166_2": "GB",
+    "iso_3166_3": "GBR",
+    "measurement_system": "metric",
+    "default_currency": "GBP",
+    "languages": [
+      "cy",
+      "en"
+    ],
+    "timezones": [
+      "GMT"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "United Republic of Tanzania",
+    "iso_3166_2": "TZ",
+    "iso_3166_3": "TZA",
+    "measurement_system": "metric",
+    "default_currency": "TZS",
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "United States of America",
+    "iso_3166_2": "US",
+    "iso_3166_3": "USA",
+    "measurement_system": "imperial",
+    "default_currency": "USD",
+    "languages": [
+      "en"
+    ],
+    "timezones": [
+      "America/Chicago",
+      "America/Los_Angeles",
+      "America/New_York"
+    ],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "iso_3166_2": "VI",
+    "iso_3166_3": "VIR",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Uruguay",
+    "iso_3166_2": "UY",
+    "iso_3166_3": "URY",
+    "measurement_system": "metric",
+    "default_currency": "UYU",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Uzbekistan",
+    "iso_3166_2": "UZ",
+    "iso_3166_3": "UZB",
+    "measurement_system": "metric",
+    "default_currency": "UZS",
+    "languages": [
+      "uz"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Vanuatu",
+    "iso_3166_2": "VU",
+    "iso_3166_3": "VUT",
+    "measurement_system": "metric",
+    "default_currency": "VUV",
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Venezuela",
+    "iso_3166_2": "VE",
+    "iso_3166_3": "VEN",
+    "measurement_system": "metric",
+    "default_currency": "VEF",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Viet Nam",
+    "iso_3166_2": "VN",
+    "iso_3166_3": "VNM",
+    "measurement_system": "metric",
+    "default_currency": "VND",
+    "languages": [
+      "vi"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Wallis and Futuna Islands",
+    "iso_3166_2": "WF",
+    "iso_3166_3": "WLF",
+    "measurement_system": "metric",
+    "default_currency": "XPF",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Western Sahara",
+    "iso_3166_2": "EH",
+    "iso_3166_3": "ESH",
+    "measurement_system": "metric",
+    "default_currency": "MAD",
+    "languages": [
+      "es"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Yemen",
+    "iso_3166_2": "YE",
+    "iso_3166_3": "YEM",
+    "measurement_system": "metric",
+    "default_currency": "YER",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Zambia",
+    "iso_3166_2": "ZM",
+    "iso_3166_3": "ZMB",
+    "measurement_system": "metric",
+    "default_currency": "ZMW",
+    "languages": [
+      "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Åland Islands",
+    "iso_3166_2": "AX",
+    "iso_3166_3": "ALA",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "sv"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  }
+]

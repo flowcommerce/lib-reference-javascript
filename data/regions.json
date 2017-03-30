@@ -1,0 +1,4880 @@
+[
+  {
+    "id": "africa",
+    "name": "Africa",
+    "countries": [
+      "BEN",
+      "BFA",
+      "BWA",
+      "CAF",
+      "CIV",
+      "CMR",
+      "COG",
+      "COM",
+      "CPV",
+      "DJI",
+      "DZA",
+      "EGY",
+      "ESH",
+      "ETH",
+      "GAB",
+      "GHA",
+      "GIN",
+      "GMB",
+      "GNB",
+      "GNQ",
+      "KEN",
+      "LBY",
+      "LSO",
+      "MAR",
+      "MLI",
+      "MRT",
+      "MUS",
+      "MWI",
+      "MYT",
+      "NAM",
+      "NER",
+      "NGA",
+      "REU",
+      "RWA",
+      "SEN",
+      "SHN",
+      "SLE",
+      "SOM",
+      "STP",
+      "SWZ",
+      "SYC",
+      "TCD",
+      "TGO",
+      "TUN",
+      "TZA",
+      "UGA",
+      "ZAF",
+      "ZMB"
+    ],
+    "currencies": [
+      "BWP",
+      "CVE",
+      "DJF",
+      "DZD",
+      "EGP",
+      "ETB",
+      "EUR",
+      "GHS",
+      "GMD",
+      "GNF",
+      "KES",
+      "KMF",
+      "LYD",
+      "MAD",
+      "MRO",
+      "MUR",
+      "MWK",
+      "NGN",
+      "RWF",
+      "SCR",
+      "SHP",
+      "SLL",
+      "SOS",
+      "STD",
+      "SZL",
+      "TND",
+      "TZS",
+      "UGX",
+      "XAF",
+      "XOF",
+      "ZAR",
+      "ZMW"
+    ],
+    "languages": [
+      "aa",
+      "af",
+      "ak",
+      "am",
+      "ar",
+      "bm",
+      "ee",
+      "en",
+      "es",
+      "ff",
+      "fr",
+      "ha",
+      "ig",
+      "kg",
+      "kr",
+      "ln",
+      "nd",
+      "nr",
+      "ny",
+      "pt",
+      "rw",
+      "sg",
+      "so",
+      "ss",
+      "st",
+      "sw",
+      "ta",
+      "tn",
+      "ts",
+      "ve",
+      "wo",
+      "xh",
+      "yo",
+      "zu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "alb",
+    "name": "Albania",
+    "countries": [
+      "ALB"
+    ],
+    "currencies": [
+      "ALL"
+    ],
+    "languages": [
+      "sq"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "dza",
+    "name": "Algeria",
+    "countries": [
+      "DZA"
+    ],
+    "currencies": [
+      "DZD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "asm",
+    "name": "American Samoa",
+    "countries": [
+      "ASM"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "and",
+    "name": "Andorra",
+    "countries": [
+      "AND"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "ca"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "aia",
+    "name": "Anguilla",
+    "countries": [
+      "AIA"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "atg",
+    "name": "Antigua and Barbuda",
+    "countries": [
+      "ATG"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "arg",
+    "name": "Argentina",
+    "countries": [
+      "ARG"
+    ],
+    "currencies": [
+      "ARS"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "arm",
+    "name": "Armenia",
+    "countries": [
+      "ARM"
+    ],
+    "currencies": [
+      "AMD"
+    ],
+    "languages": [
+      "hy"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "abw",
+    "name": "Aruba",
+    "countries": [
+      "ABW"
+    ],
+    "currencies": [
+      "AWG"
+    ],
+    "languages": [
+      "nl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "asia",
+    "name": "Asia",
+    "countries": [
+      "ARE",
+      "ARM",
+      "AZE",
+      "BGD",
+      "BHR",
+      "BRN",
+      "BTN",
+      "CHN",
+      "GEO",
+      "HKG",
+      "IDN",
+      "IND",
+      "ISR",
+      "JOR",
+      "JPN",
+      "KAZ",
+      "KGZ",
+      "KHM",
+      "KOR",
+      "KWT",
+      "LAO",
+      "LBN",
+      "LKA",
+      "MAC",
+      "MDV",
+      "MNG",
+      "MYS",
+      "NPL",
+      "OMN",
+      "PAK",
+      "PHL",
+      "QAT",
+      "SAU",
+      "SGP",
+      "THA",
+      "TUR",
+      "TWN",
+      "UZB",
+      "VNM",
+      "YEM"
+    ],
+    "currencies": [
+      "AED",
+      "AMD",
+      "AZN",
+      "BDT",
+      "BHD",
+      "BND",
+      "CNY",
+      "GEL",
+      "HKD",
+      "IDR",
+      "ILS",
+      "INR",
+      "JOD",
+      "JPY",
+      "KGS",
+      "KHR",
+      "KRW",
+      "KWD",
+      "KZT",
+      "LAK",
+      "LBP",
+      "LKR",
+      "MNT",
+      "MOP",
+      "MVR",
+      "MYR",
+      "NPR",
+      "OMR",
+      "PHP",
+      "PKR",
+      "QAR",
+      "SAR",
+      "SGD",
+      "THB",
+      "TRY",
+      "TWD",
+      "UZS",
+      "VND",
+      "YER"
+    ],
+    "languages": [
+      "ar",
+      "az",
+      "bn",
+      "dv",
+      "dz",
+      "en",
+      "gu",
+      "he",
+      "hi",
+      "hy",
+      "id",
+      "ja",
+      "ka",
+      "kk",
+      "km",
+      "ko",
+      "ky",
+      "lo",
+      "mn",
+      "ms",
+      "ne",
+      "pa",
+      "pt",
+      "ru",
+      "si",
+      "ta",
+      "te",
+      "th",
+      "tl",
+      "tr",
+      "ur",
+      "uz",
+      "vi",
+      "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Asia/Chongqing"
+    ]
+  },
+  {
+    "id": "aus",
+    "name": "Australia",
+    "countries": [
+      "AUS"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Australia/ACT"
+    ]
+  },
+  {
+    "id": "aut",
+    "name": "Austria",
+    "countries": [
+      "AUT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "de"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "aze",
+    "name": "Azerbaijan",
+    "countries": [
+      "AZE"
+    ],
+    "currencies": [
+      "AZN"
+    ],
+    "languages": [
+      "az"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bhs",
+    "name": "Bahamas",
+    "countries": [
+      "BHS"
+    ],
+    "currencies": [
+      "BSD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bhr",
+    "name": "Bahrain",
+    "countries": [
+      "BHR"
+    ],
+    "currencies": [
+      "BHD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bgd",
+    "name": "Bangladesh",
+    "countries": [
+      "BGD"
+    ],
+    "currencies": [
+      "BDT"
+    ],
+    "languages": [
+      "bn"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "brb",
+    "name": "Barbados",
+    "countries": [
+      "BRB"
+    ],
+    "currencies": [
+      "BBD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bel",
+    "name": "Belgium",
+    "countries": [
+      "BEL"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "de",
+      "fr",
+      "nl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "blz",
+    "name": "Belize",
+    "countries": [
+      "BLZ"
+    ],
+    "currencies": [
+      "BZD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ben",
+    "name": "Benin",
+    "countries": [
+      "BEN"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "ff",
+      "fr",
+      "yo"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bmu",
+    "name": "Bermuda",
+    "countries": [
+      "BMU"
+    ],
+    "currencies": [
+      "BMD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "btn",
+    "name": "Bhutan",
+    "countries": [
+      "BTN"
+    ],
+    "currencies": [
+      "INR"
+    ],
+    "languages": [
+      "dz"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bol",
+    "name": "Bolivia",
+    "countries": [
+      "BOL"
+    ],
+    "currencies": [
+      "BOB"
+    ],
+    "languages": [
+      "ay",
+      "es",
+      "gn",
+      "qu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bes",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "countries": [
+      "BES"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bih",
+    "name": "Bosnia and Herzegovina",
+    "countries": [
+      "BIH"
+    ],
+    "currencies": [
+      "BAM"
+    ],
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bwa",
+    "name": "Botswana",
+    "countries": [
+      "BWA"
+    ],
+    "currencies": [
+      "BWP"
+    ],
+    "languages": [
+      "en",
+      "tn"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bra",
+    "name": "Brazil",
+    "countries": [
+      "BRA"
+    ],
+    "currencies": [
+      "BRL"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "vgb",
+    "name": "British Virgin Islands",
+    "countries": [
+      "VGB"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "brn",
+    "name": "Brunei Darussalam",
+    "countries": [
+      "BRN"
+    ],
+    "currencies": [
+      "BND"
+    ],
+    "languages": [
+      "ms"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bgr",
+    "name": "Bulgaria",
+    "countries": [
+      "BGR"
+    ],
+    "currencies": [
+      "BGN"
+    ],
+    "languages": [
+      "bg"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "bfa",
+    "name": "Burkina Faso",
+    "countries": [
+      "BFA"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "ff",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cpv",
+    "name": "Cabo Verde",
+    "countries": [
+      "CPV"
+    ],
+    "currencies": [
+      "CVE"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "khm",
+    "name": "Cambodia",
+    "countries": [
+      "KHM"
+    ],
+    "currencies": [
+      "KHR"
+    ],
+    "languages": [
+      "km"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cmr",
+    "name": "Cameroon",
+    "countries": [
+      "CMR"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "can",
+    "name": "Canada",
+    "countries": [
+      "CAN"
+    ],
+    "currencies": [
+      "CAD"
+    ],
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Canada/Eastern"
+    ]
+  },
+  {
+    "id": "cym",
+    "name": "Cayman Islands",
+    "countries": [
+      "CYM"
+    ],
+    "currencies": [
+      "KYD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "caf",
+    "name": "Central African Republic",
+    "countries": [
+      "CAF"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "languages": [
+      "fr",
+      "sg"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tcd",
+    "name": "Chad",
+    "countries": [
+      "TCD"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "chl",
+    "name": "Chile",
+    "countries": [
+      "CHL"
+    ],
+    "currencies": [
+      "CLP"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "chn",
+    "name": "China",
+    "countries": [
+      "CHN"
+    ],
+    "currencies": [
+      "CNY"
+    ],
+    "languages": [
+      "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Asia/Chongqing"
+    ]
+  },
+  {
+    "id": "hkg",
+    "name": "China, Hong Kong Special Administrative Region",
+    "countries": [
+      "HKG"
+    ],
+    "currencies": [
+      "HKD"
+    ],
+    "languages": [
+      "en",
+      "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mac",
+    "name": "China, Macao Special Administrative Region",
+    "countries": [
+      "MAC"
+    ],
+    "currencies": [
+      "MOP"
+    ],
+    "languages": [
+      "pt",
+      "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "col",
+    "name": "Colombia",
+    "countries": [
+      "COL"
+    ],
+    "currencies": [
+      "COP"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "com",
+    "name": "Comoros",
+    "countries": [
+      "COM"
+    ],
+    "currencies": [
+      "KMF"
+    ],
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cog",
+    "name": "Congo",
+    "countries": [
+      "COG"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "languages": [
+      "fr",
+      "kg",
+      "ln"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cok",
+    "name": "Cook Islands",
+    "countries": [
+      "COK"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cri",
+    "name": "Costa Rica",
+    "countries": [
+      "CRI"
+    ],
+    "currencies": [
+      "CRC"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "hrv",
+    "name": "Croatia",
+    "countries": [
+      "HRV"
+    ],
+    "currencies": [
+      "HRK"
+    ],
+    "languages": [
+      "hr",
+      "it"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cuw",
+    "name": "Curaçao",
+    "countries": [
+      "CUW"
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cyp",
+    "name": "Cyprus",
+    "countries": [
+      "CYP"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "el",
+      "tr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "cze",
+    "name": "Czechia",
+    "countries": [
+      "CZE"
+    ],
+    "currencies": [
+      "CZK"
+    ],
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "civ",
+    "name": "Côte d'Ivoire",
+    "countries": [
+      "CIV"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "dnk",
+    "name": "Denmark",
+    "countries": [
+      "DNK"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "languages": [
+      "da"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "dji",
+    "name": "Djibouti",
+    "countries": [
+      "DJI"
+    ],
+    "currencies": [
+      "DJF"
+    ],
+    "languages": [
+      "aa",
+      "ar",
+      "fr",
+      "so"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "dma",
+    "name": "Dominica",
+    "countries": [
+      "DMA"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "dom",
+    "name": "Dominican Republic",
+    "countries": [
+      "DOM"
+    ],
+    "currencies": [
+      "DOP"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ecu",
+    "name": "Ecuador",
+    "countries": [
+      "ECU"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "egy",
+    "name": "Egypt",
+    "countries": [
+      "EGY"
+    ],
+    "currencies": [
+      "EGP"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "slv",
+    "name": "El Salvador",
+    "countries": [
+      "SLV"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gnq",
+    "name": "Equatorial Guinea",
+    "countries": [
+      "GNQ"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "languages": [
+      "es",
+      "fr",
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "est",
+    "name": "Estonia",
+    "countries": [
+      "EST"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "et"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "eth",
+    "name": "Ethiopia",
+    "countries": [
+      "ETH"
+    ],
+    "currencies": [
+      "ETB"
+    ],
+    "languages": [
+      "am"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "europe",
+    "name": "Europe",
+    "countries": [
+      "ALA",
+      "ALB",
+      "AND",
+      "AUT",
+      "BEL",
+      "BGR",
+      "BIH",
+      "CHE",
+      "CYP",
+      "CZE",
+      "DEU",
+      "DNK",
+      "ESP",
+      "EST",
+      "FIN",
+      "FRA",
+      "GBR",
+      "GGY",
+      "GIB",
+      "GRC",
+      "HRV",
+      "HUN",
+      "IMN",
+      "IRL",
+      "ISL",
+      "ITA",
+      "JEY",
+      "LIE",
+      "LTU",
+      "LUX",
+      "LVA",
+      "MCO",
+      "MDA",
+      "MLT",
+      "MNE",
+      "NLD",
+      "NOR",
+      "POL",
+      "PRT",
+      "ROU",
+      "RUS",
+      "SJM",
+      "SMR",
+      "SRB",
+      "SVK",
+      "SVN",
+      "SWE",
+      "UKR",
+      "VAT"
+    ],
+    "currencies": [
+      "ALL",
+      "BAM",
+      "BGN",
+      "CHF",
+      "CZK",
+      "DKK",
+      "EUR",
+      "GBP",
+      "GIP",
+      "HRK",
+      "HUF",
+      "ISK",
+      "MDL",
+      "NOK",
+      "PLN",
+      "RON",
+      "RSD",
+      "RUB",
+      "SEK",
+      "UAH"
+    ],
+    "languages": [
+      "bg",
+      "bs",
+      "ca",
+      "cs",
+      "cy",
+      "da",
+      "de",
+      "el",
+      "en",
+      "es",
+      "et",
+      "fi",
+      "fr",
+      "ga",
+      "hr",
+      "hu",
+      "is",
+      "it",
+      "la",
+      "lb",
+      "lt",
+      "lv",
+      "mt",
+      "nb",
+      "nl",
+      "nn",
+      "no",
+      "pl",
+      "pt",
+      "rm",
+      "ro",
+      "ru",
+      "sk",
+      "sl",
+      "sq",
+      "sr",
+      "sv",
+      "tr",
+      "uk"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Africa/Algiers",
+      "GMT"
+    ]
+  },
+  {
+    "id": "eurozone",
+    "name": "Eurozone",
+    "countries": [
+      "ALA",
+      "AND",
+      "AUT",
+      "BEL",
+      "BLM",
+      "CYP",
+      "DEU",
+      "ESP",
+      "EST",
+      "FIN",
+      "FRA",
+      "GLP",
+      "GRC",
+      "GUF",
+      "IRL",
+      "ITA",
+      "LTU",
+      "LUX",
+      "LVA",
+      "MAF",
+      "MCO",
+      "MLT",
+      "MNE",
+      "MTQ",
+      "MYT",
+      "NLD",
+      "PRT",
+      "REU",
+      "SMR",
+      "SPM",
+      "SVK",
+      "SVN",
+      "VAT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "ca",
+      "cs",
+      "de",
+      "el",
+      "en",
+      "es",
+      "et",
+      "fi",
+      "fr",
+      "ga",
+      "it",
+      "la",
+      "lb",
+      "lt",
+      "lv",
+      "mt",
+      "nl",
+      "pt",
+      "sk",
+      "sl",
+      "sv",
+      "tr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Africa/Algiers",
+      "GMT"
+    ]
+  },
+  {
+    "id": "flk",
+    "name": "Falkland Islans",
+    "countries": [
+      "FLK"
+    ],
+    "currencies": [
+      "FKP"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "fji",
+    "name": "Fiji",
+    "countries": [
+      "FJI"
+    ],
+    "currencies": [
+      "FJD"
+    ],
+    "languages": [
+      "en",
+      "fj",
+      "hi",
+      "ur"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "fin",
+    "name": "Finland",
+    "countries": [
+      "FIN"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "fra",
+    "name": "France",
+    "countries": [
+      "FRA"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Africa/Algiers"
+    ]
+  },
+  {
+    "id": "guf",
+    "name": "French Guiana",
+    "countries": [
+      "GUF"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pyf",
+    "name": "French Polynesia",
+    "countries": [
+      "PYF"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gab",
+    "name": "Gabon",
+    "countries": [
+      "GAB"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gmb",
+    "name": "Gambia",
+    "countries": [
+      "GMB"
+    ],
+    "currencies": [
+      "GMD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "geo",
+    "name": "Georgia",
+    "countries": [
+      "GEO"
+    ],
+    "currencies": [
+      "GEL"
+    ],
+    "languages": [
+      "ka"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "deu",
+    "name": "Germany",
+    "countries": [
+      "DEU"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "de"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gha",
+    "name": "Ghana",
+    "countries": [
+      "GHA"
+    ],
+    "currencies": [
+      "GHS"
+    ],
+    "languages": [
+      "ak",
+      "ee",
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gib",
+    "name": "Gibraltar",
+    "countries": [
+      "GIB"
+    ],
+    "currencies": [
+      "GIP"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "grc",
+    "name": "Greece",
+    "countries": [
+      "GRC"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "el"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "grl",
+    "name": "Greenland",
+    "countries": [
+      "GRL"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "grd",
+    "name": "Grenada",
+    "countries": [
+      "GRD"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "glp",
+    "name": "Guadeloupe",
+    "countries": [
+      "GLP"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gum",
+    "name": "Guam",
+    "countries": [
+      "GUM"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gtm",
+    "name": "Guatemala",
+    "countries": [
+      "GTM"
+    ],
+    "currencies": [
+      "GTQ"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ggy",
+    "name": "Guernsey",
+    "countries": [
+      "GGY"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gin",
+    "name": "Guinea",
+    "countries": [
+      "GIN"
+    ],
+    "currencies": [
+      "GNF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gnb",
+    "name": "Guinea-Bissau",
+    "countries": [
+      "GNB"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "guy",
+    "name": "Guyana",
+    "countries": [
+      "GUY"
+    ],
+    "currencies": [
+      "GYD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "hti",
+    "name": "Haiti",
+    "countries": [
+      "HTI"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "fr",
+      "ht"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "vat",
+    "name": "Holy See",
+    "countries": [
+      "VAT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "it",
+      "la"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "hnd",
+    "name": "Honduras",
+    "countries": [
+      "HND"
+    ],
+    "currencies": [
+      "HNL"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "hun",
+    "name": "Hungary",
+    "countries": [
+      "HUN"
+    ],
+    "currencies": [
+      "HUF"
+    ],
+    "languages": [
+      "hu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "isl",
+    "name": "Iceland",
+    "countries": [
+      "ISL"
+    ],
+    "currencies": [
+      "ISK"
+    ],
+    "languages": [
+      "is"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ind",
+    "name": "India",
+    "countries": [
+      "IND"
+    ],
+    "currencies": [
+      "INR"
+    ],
+    "languages": [
+      "bn",
+      "en",
+      "gu",
+      "hi",
+      "pa",
+      "ta",
+      "te"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "idn",
+    "name": "Indonesia",
+    "countries": [
+      "IDN"
+    ],
+    "currencies": [
+      "IDR"
+    ],
+    "languages": [
+      "id",
+      "ms"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "irl",
+    "name": "Ireland",
+    "countries": [
+      "IRL"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "en",
+      "ga"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "GMT"
+    ]
+  },
+  {
+    "id": "imn",
+    "name": "Isle of Man",
+    "countries": [
+      "IMN"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "isr",
+    "name": "Israel",
+    "countries": [
+      "ISR"
+    ],
+    "currencies": [
+      "ILS"
+    ],
+    "languages": [
+      "ar",
+      "he"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ita",
+    "name": "Italy",
+    "countries": [
+      "ITA"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "jam",
+    "name": "Jamaica",
+    "countries": [
+      "JAM"
+    ],
+    "currencies": [
+      "JMD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "jpn",
+    "name": "Japan",
+    "countries": [
+      "JPN"
+    ],
+    "currencies": [
+      "JPY"
+    ],
+    "languages": [
+      "ja"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "jey",
+    "name": "Jersey",
+    "countries": [
+      "JEY"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "jor",
+    "name": "Jordan",
+    "countries": [
+      "JOR"
+    ],
+    "currencies": [
+      "JOD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "kaz",
+    "name": "Kazakhstan",
+    "countries": [
+      "KAZ"
+    ],
+    "currencies": [
+      "KZT"
+    ],
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ken",
+    "name": "Kenya",
+    "countries": [
+      "KEN"
+    ],
+    "currencies": [
+      "KES"
+    ],
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "kir",
+    "name": "Kiribati",
+    "countries": [
+      "KIR"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "kwt",
+    "name": "Kuwait",
+    "countries": [
+      "KWT"
+    ],
+    "currencies": [
+      "KWD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "kgz",
+    "name": "Kyrgyzstan",
+    "countries": [
+      "KGZ"
+    ],
+    "currencies": [
+      "KGS"
+    ],
+    "languages": [
+      "ky",
+      "ru"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lao",
+    "name": "Lao People's Democratic Republic",
+    "countries": [
+      "LAO"
+    ],
+    "currencies": [
+      "LAK"
+    ],
+    "languages": [
+      "lo"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lva",
+    "name": "Latvia",
+    "countries": [
+      "LVA"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "lv"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lbn",
+    "name": "Lebanon",
+    "countries": [
+      "LBN"
+    ],
+    "currencies": [
+      "LBP"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lso",
+    "name": "Lesotho",
+    "countries": [
+      "LSO"
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "languages": [
+      "en",
+      "st"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lby",
+    "name": "Libya",
+    "countries": [
+      "LBY"
+    ],
+    "currencies": [
+      "LYD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lie",
+    "name": "Liechtenstein",
+    "countries": [
+      "LIE"
+    ],
+    "currencies": [
+      "CHF"
+    ],
+    "languages": [
+      "de"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ltu",
+    "name": "Lithuania",
+    "countries": [
+      "LTU"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "lt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lux",
+    "name": "Luxembourg",
+    "countries": [
+      "LUX"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "de",
+      "fr",
+      "lb"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mwi",
+    "name": "Malawi",
+    "countries": [
+      "MWI"
+    ],
+    "currencies": [
+      "MWK"
+    ],
+    "languages": [
+      "en",
+      "ny"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mys",
+    "name": "Malaysia",
+    "countries": [
+      "MYS"
+    ],
+    "currencies": [
+      "MYR"
+    ],
+    "languages": [
+      "en",
+      "ms",
+      "ta"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mdv",
+    "name": "Maldives",
+    "countries": [
+      "MDV"
+    ],
+    "currencies": [
+      "MVR"
+    ],
+    "languages": [
+      "dv"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mli",
+    "name": "Mali",
+    "countries": [
+      "MLI"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "bm",
+      "ff",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mlt",
+    "name": "Malta",
+    "countries": [
+      "MLT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "en",
+      "mt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mhl",
+    "name": "Marshall Islands",
+    "countries": [
+      "MHL"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "en",
+      "mh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mtq",
+    "name": "Martinique",
+    "countries": [
+      "MTQ"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mrt",
+    "name": "Mauritania",
+    "countries": [
+      "MRT"
+    ],
+    "currencies": [
+      "MRO"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mus",
+    "name": "Mauritius",
+    "countries": [
+      "MUS"
+    ],
+    "currencies": [
+      "MUR"
+    ],
+    "languages": [
+      "en",
+      "fr",
+      "ta"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "myt",
+    "name": "Mayotte",
+    "countries": [
+      "MYT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mex",
+    "name": "Mexico",
+    "countries": [
+      "MEX"
+    ],
+    "currencies": [
+      "MXN"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Mexico/General"
+    ]
+  },
+  {
+    "id": "fsm",
+    "name": "Micronesia",
+    "countries": [
+      "FSM"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mco",
+    "name": "Monaco",
+    "countries": [
+      "MCO"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mng",
+    "name": "Mongolia",
+    "countries": [
+      "MNG"
+    ],
+    "currencies": [
+      "MNT"
+    ],
+    "languages": [
+      "mn"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mne",
+    "name": "Montenegro",
+    "countries": [
+      "MNE"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "msr",
+    "name": "Montserrat",
+    "countries": [
+      "MSR"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mar",
+    "name": "Morocco",
+    "countries": [
+      "MAR"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nam",
+    "name": "Namibia",
+    "countries": [
+      "NAM"
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nru",
+    "name": "Nauru",
+    "countries": [
+      "NRU"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "npl",
+    "name": "Nepal",
+    "countries": [
+      "NPL"
+    ],
+    "currencies": [
+      "NPR"
+    ],
+    "languages": [
+      "ne"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nld",
+    "name": "Netherlands",
+    "countries": [
+      "NLD"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "nl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ncl",
+    "name": "New Caledonia",
+    "countries": [
+      "NCL"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nzl",
+    "name": "New Zealand",
+    "countries": [
+      "NZL"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nic",
+    "name": "Nicaragua",
+    "countries": [
+      "NIC"
+    ],
+    "currencies": [
+      "NIO"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ner",
+    "name": "Niger",
+    "countries": [
+      "NER"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "ar",
+      "ff",
+      "fr",
+      "ha",
+      "kr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nga",
+    "name": "Nigeria",
+    "countries": [
+      "NGA"
+    ],
+    "currencies": [
+      "NGN"
+    ],
+    "languages": [
+      "en",
+      "ha",
+      "ig",
+      "yo"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "niu",
+    "name": "Niue",
+    "countries": [
+      "NIU"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nfk",
+    "name": "Norfolk Island",
+    "countries": [
+      "NFK"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "north-america",
+    "name": "North America",
+    "countries": [
+      "ABW",
+      "AIA",
+      "ATG",
+      "BES",
+      "BHS",
+      "BLM",
+      "BLZ",
+      "BMU",
+      "BRB",
+      "CAN",
+      "CRI",
+      "CUW",
+      "CYM",
+      "DMA",
+      "DOM",
+      "GLP",
+      "GRD",
+      "GRL",
+      "GTM",
+      "HND",
+      "HTI",
+      "JAM",
+      "KNA",
+      "LCA",
+      "MAF",
+      "MEX",
+      "MSR",
+      "MTQ",
+      "NIC",
+      "PAN",
+      "PRI",
+      "SLV",
+      "SPM",
+      "SXM",
+      "TCA",
+      "TTO",
+      "USA",
+      "VCT",
+      "VGB",
+      "VIR"
+    ],
+    "currencies": [
+      "ANG",
+      "AWG",
+      "BBD",
+      "BMD",
+      "BSD",
+      "BZD",
+      "CAD",
+      "CRC",
+      "DKK",
+      "DOP",
+      "EUR",
+      "GTQ",
+      "HNL",
+      "JMD",
+      "KYD",
+      "MXN",
+      "NIO",
+      "TTD",
+      "USD",
+      "XCD"
+    ],
+    "languages": [
+      "en",
+      "es",
+      "fr",
+      "ht",
+      "nl"
+    ],
+    "measurement_systems": [
+      "imperial",
+      "metric"
+    ],
+    "timezones": [
+      "America/Chicago",
+      "America/Los_Angeles",
+      "America/New_York",
+      "Canada/Eastern",
+      "Mexico/General"
+    ]
+  },
+  {
+    "id": "mnp",
+    "name": "Northern Mariana Islands",
+    "countries": [
+      "MNP"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "nor",
+    "name": "Norway",
+    "countries": [
+      "NOR"
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "languages": [
+      "nb",
+      "nn",
+      "no"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "oceania",
+    "name": "Oceania",
+    "countries": [
+      "ASM",
+      "AUS",
+      "COK",
+      "FJI",
+      "FSM",
+      "GUM",
+      "KIR",
+      "MHL",
+      "MNP",
+      "NCL",
+      "NFK",
+      "NIU",
+      "NRU",
+      "NZL",
+      "PCN",
+      "PLW",
+      "PNG",
+      "PYF",
+      "SLB",
+      "TKL",
+      "TLS",
+      "TON",
+      "TUV",
+      "VUT",
+      "WLF",
+      "WSM"
+    ],
+    "currencies": [
+      "AUD",
+      "FJD",
+      "NZD",
+      "PGK",
+      "SBD",
+      "TOP",
+      "USD",
+      "VUV",
+      "WST",
+      "XPF"
+    ],
+    "languages": [
+      "bi",
+      "en",
+      "fj",
+      "fr",
+      "hi",
+      "ho",
+      "mh",
+      "mi",
+      "pt",
+      "ur"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "Australia/ACT"
+    ]
+  },
+  {
+    "id": "omn",
+    "name": "Oman",
+    "countries": [
+      "OMN"
+    ],
+    "currencies": [
+      "OMR"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pak",
+    "name": "Pakistan",
+    "countries": [
+      "PAK"
+    ],
+    "currencies": [
+      "PKR"
+    ],
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "plw",
+    "name": "Palau",
+    "countries": [
+      "PLW"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pan",
+    "name": "Panama",
+    "countries": [
+      "PAN"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "png",
+    "name": "Papua New Guinea",
+    "countries": [
+      "PNG"
+    ],
+    "currencies": [
+      "PGK"
+    ],
+    "languages": [
+      "en",
+      "ho"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pry",
+    "name": "Paraguay",
+    "countries": [
+      "PRY"
+    ],
+    "currencies": [
+      "PYG"
+    ],
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "per",
+    "name": "Peru",
+    "countries": [
+      "PER"
+    ],
+    "currencies": [
+      "PEN"
+    ],
+    "languages": [
+      "ay",
+      "es",
+      "qu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "phl",
+    "name": "Philippines",
+    "countries": [
+      "PHL"
+    ],
+    "currencies": [
+      "PHP"
+    ],
+    "languages": [
+      "en",
+      "tl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pcn",
+    "name": "Pitcairn",
+    "countries": [
+      "PCN"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pol",
+    "name": "Poland",
+    "countries": [
+      "POL"
+    ],
+    "currencies": [
+      "PLN"
+    ],
+    "languages": [
+      "pl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "prt",
+    "name": "Portugal",
+    "countries": [
+      "PRT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "pri",
+    "name": "Puerto Rico",
+    "countries": [
+      "PRI"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "qat",
+    "name": "Qatar",
+    "countries": [
+      "QAT"
+    ],
+    "currencies": [
+      "QAR"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "kor",
+    "name": "Republic of Korea",
+    "countries": [
+      "KOR"
+    ],
+    "currencies": [
+      "KRW"
+    ],
+    "languages": [
+      "ko"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "mda",
+    "name": "Republic of Moldova",
+    "countries": [
+      "MDA"
+    ],
+    "currencies": [
+      "MDL"
+    ],
+    "languages": [
+      "ro"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "rou",
+    "name": "Romania",
+    "countries": [
+      "ROU"
+    ],
+    "currencies": [
+      "RON"
+    ],
+    "languages": [
+      "ro"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "rus",
+    "name": "Russian Federation",
+    "countries": [
+      "RUS"
+    ],
+    "currencies": [
+      "RUB"
+    ],
+    "languages": [
+      "ru"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "rwa",
+    "name": "Rwanda",
+    "countries": [
+      "RWA"
+    ],
+    "currencies": [
+      "RWF"
+    ],
+    "languages": [
+      "en",
+      "fr",
+      "rw"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "reu",
+    "name": "Réunion",
+    "countries": [
+      "REU"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "blm",
+    "name": "Saint Barthélemy",
+    "countries": [
+      "BLM"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "shn",
+    "name": "Saint Helena",
+    "countries": [
+      "SHN"
+    ],
+    "currencies": [
+      "SHP"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "kna",
+    "name": "Saint Kitts and Nevis",
+    "countries": [
+      "KNA"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lca",
+    "name": "Saint Lucia",
+    "countries": [
+      "LCA"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "maf",
+    "name": "Saint Martin",
+    "countries": [
+      "MAF"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "spm",
+    "name": "Saint Pierre and Miquelon",
+    "countries": [
+      "SPM"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "vct",
+    "name": "Saint Vincent and the Grenadines",
+    "countries": [
+      "VCT"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "wsm",
+    "name": "Samoa",
+    "countries": [
+      "WSM"
+    ],
+    "currencies": [
+      "WST"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "smr",
+    "name": "San Marino",
+    "countries": [
+      "SMR"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "it"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "stp",
+    "name": "Sao Tome and Principe",
+    "countries": [
+      "STP"
+    ],
+    "currencies": [
+      "STD"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sau",
+    "name": "Saudi Arabia",
+    "countries": [
+      "SAU"
+    ],
+    "currencies": [
+      "SAR"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sen",
+    "name": "Senegal",
+    "countries": [
+      "SEN"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "ff",
+      "fr",
+      "wo"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "srb",
+    "name": "Serbia",
+    "countries": [
+      "SRB"
+    ],
+    "currencies": [
+      "RSD"
+    ],
+    "languages": [
+      "sr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "syc",
+    "name": "Seychelles",
+    "countries": [
+      "SYC"
+    ],
+    "currencies": [
+      "SCR"
+    ],
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sle",
+    "name": "Sierra Leone",
+    "countries": [
+      "SLE"
+    ],
+    "currencies": [
+      "SLL"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sgp",
+    "name": "Singapore",
+    "countries": [
+      "SGP"
+    ],
+    "currencies": [
+      "SGD"
+    ],
+    "languages": [
+      "en",
+      "ms",
+      "ta",
+      "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sxm",
+    "name": "Sint Maarten",
+    "countries": [
+      "SXM"
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "languages": [
+      "en",
+      "nl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "svk",
+    "name": "Slovakia",
+    "countries": [
+      "SVK"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "svn",
+    "name": "Slovenia",
+    "countries": [
+      "SVN"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "it",
+      "sl"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "slb",
+    "name": "Solomon Islands",
+    "countries": [
+      "SLB"
+    ],
+    "currencies": [
+      "SBD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "som",
+    "name": "Somalia",
+    "countries": [
+      "SOM"
+    ],
+    "currencies": [
+      "SOS"
+    ],
+    "languages": [
+      "ar",
+      "so"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "zaf",
+    "name": "South Africa",
+    "countries": [
+      "ZAF"
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "languages": [
+      "af",
+      "en",
+      "nd",
+      "nr",
+      "ss",
+      "st",
+      "tn",
+      "ts",
+      "ve",
+      "xh",
+      "zu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "south-america",
+    "name": "South America",
+    "countries": [
+      "ARG",
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU",
+      "FLK",
+      "GUF",
+      "GUY",
+      "PER",
+      "PRY",
+      "URY",
+      "VEN"
+    ],
+    "currencies": [
+      "ARS",
+      "BOB",
+      "BRL",
+      "CLP",
+      "COP",
+      "EUR",
+      "FKP",
+      "GYD",
+      "PEN",
+      "PYG",
+      "USD",
+      "UYU",
+      "VEF"
+    ],
+    "languages": [
+      "ay",
+      "en",
+      "es",
+      "fr",
+      "gn",
+      "pt",
+      "qu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "esp",
+    "name": "Spain",
+    "countries": [
+      "ESP"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "lka",
+    "name": "Sri Lanka",
+    "countries": [
+      "LKA"
+    ],
+    "currencies": [
+      "LKR"
+    ],
+    "languages": [
+      "en",
+      "si",
+      "ta"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sjm",
+    "name": "Svalbard and Jan Mayen Islands",
+    "countries": [
+      "SJM"
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "swz",
+    "name": "Swaziland",
+    "countries": [
+      "SWZ"
+    ],
+    "currencies": [
+      "SZL"
+    ],
+    "languages": [
+      "en",
+      "ss"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "swe",
+    "name": "Sweden",
+    "countries": [
+      "SWE"
+    ],
+    "currencies": [
+      "SEK"
+    ],
+    "languages": [
+      "sv"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "che",
+    "name": "Switzerland",
+    "countries": [
+      "CHE"
+    ],
+    "currencies": [
+      "CHF"
+    ],
+    "languages": [
+      "de",
+      "fr",
+      "it",
+      "rm"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "twn",
+    "name": "Taiwan",
+    "countries": [
+      "TWN"
+    ],
+    "currencies": [
+      "TWD"
+    ],
+    "languages": [
+      "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tha",
+    "name": "Thailand",
+    "countries": [
+      "THA"
+    ],
+    "currencies": [
+      "THB"
+    ],
+    "languages": [
+      "th"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tls",
+    "name": "Timor-Leste",
+    "countries": [
+      "TLS"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "pt"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tgo",
+    "name": "Togo",
+    "countries": [
+      "TGO"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "languages": [
+      "ee",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tkl",
+    "name": "Tokelau",
+    "countries": [
+      "TKL"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ton",
+    "name": "Tonga",
+    "countries": [
+      "TON"
+    ],
+    "currencies": [
+      "TOP"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tto",
+    "name": "Trinidad and Tobago",
+    "countries": [
+      "TTO"
+    ],
+    "currencies": [
+      "TTD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tun",
+    "name": "Tunisia",
+    "countries": [
+      "TUN"
+    ],
+    "currencies": [
+      "TND"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tur",
+    "name": "Turkey",
+    "countries": [
+      "TUR"
+    ],
+    "currencies": [
+      "TRY"
+    ],
+    "languages": [
+      "tr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tca",
+    "name": "Turks and Caicos Islands",
+    "countries": [
+      "TCA"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tuv",
+    "name": "Tuvalu",
+    "countries": [
+      "TUV"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "uga",
+    "name": "Uganda",
+    "countries": [
+      "UGA"
+    ],
+    "currencies": [
+      "UGX"
+    ],
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ukr",
+    "name": "Ukraine",
+    "countries": [
+      "UKR"
+    ],
+    "currencies": [
+      "UAH"
+    ],
+    "languages": [
+      "uk"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "are",
+    "name": "United Arab Emirates",
+    "countries": [
+      "ARE"
+    ],
+    "currencies": [
+      "AED"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "gbr",
+    "name": "United Kingdom",
+    "countries": [
+      "GBR"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "languages": [
+      "cy",
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": [
+      "GMT"
+    ]
+  },
+  {
+    "id": "tza",
+    "name": "United Republic of Tanzania",
+    "countries": [
+      "TZA"
+    ],
+    "currencies": [
+      "TZS"
+    ],
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "usa",
+    "name": "United States of America",
+    "countries": [
+      "USA"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "imperial"
+    ],
+    "timezones": [
+      "America/Chicago",
+      "America/Los_Angeles",
+      "America/New_York"
+    ]
+  },
+  {
+    "id": "vir",
+    "name": "United States Virgin Islands",
+    "countries": [
+      "VIR"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ury",
+    "name": "Uruguay",
+    "countries": [
+      "URY"
+    ],
+    "currencies": [
+      "UYU"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "uzb",
+    "name": "Uzbekistan",
+    "countries": [
+      "UZB"
+    ],
+    "currencies": [
+      "UZS"
+    ],
+    "languages": [
+      "uz"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "vut",
+    "name": "Vanuatu",
+    "countries": [
+      "VUT"
+    ],
+    "currencies": [
+      "VUV"
+    ],
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ven",
+    "name": "Venezuela",
+    "countries": [
+      "VEN"
+    ],
+    "currencies": [
+      "VEF"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "vnm",
+    "name": "Viet Nam",
+    "countries": [
+      "VNM"
+    ],
+    "currencies": [
+      "VND"
+    ],
+    "languages": [
+      "vi"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "wlf",
+    "name": "Wallis and Futuna Islands",
+    "countries": [
+      "WLF"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "esh",
+    "name": "Western Sahara",
+    "countries": [
+      "ESH"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "languages": [
+      "es"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "world",
+    "name": "World",
+    "countries": [
+      "ABW",
+      "AIA",
+      "ALA",
+      "ALB",
+      "AND",
+      "ARE",
+      "ARG",
+      "ARM",
+      "ASM",
+      "ATG",
+      "AUS",
+      "AUT",
+      "AZE",
+      "BEL",
+      "BEN",
+      "BES",
+      "BFA",
+      "BGD",
+      "BGR",
+      "BHR",
+      "BHS",
+      "BIH",
+      "BLM",
+      "BLZ",
+      "BMU",
+      "BOL",
+      "BRA",
+      "BRB",
+      "BRN",
+      "BTN",
+      "BWA",
+      "CAF",
+      "CAN",
+      "CHE",
+      "CHL",
+      "CHN",
+      "CIV",
+      "CMR",
+      "COG",
+      "COK",
+      "COL",
+      "COM",
+      "CPV",
+      "CRI",
+      "CUW",
+      "CYM",
+      "CYP",
+      "CZE",
+      "DEU",
+      "DJI",
+      "DMA",
+      "DNK",
+      "DOM",
+      "DZA",
+      "ECU",
+      "EGY",
+      "ESH",
+      "ESP",
+      "EST",
+      "ETH",
+      "FIN",
+      "FJI",
+      "FLK",
+      "FRA",
+      "FSM",
+      "GAB",
+      "GBR",
+      "GEO",
+      "GGY",
+      "GHA",
+      "GIB",
+      "GIN",
+      "GLP",
+      "GMB",
+      "GNB",
+      "GNQ",
+      "GRC",
+      "GRD",
+      "GRL",
+      "GTM",
+      "GUF",
+      "GUM",
+      "GUY",
+      "HKG",
+      "HND",
+      "HRV",
+      "HTI",
+      "HUN",
+      "IDN",
+      "IMN",
+      "IND",
+      "IRL",
+      "ISL",
+      "ISR",
+      "ITA",
+      "JAM",
+      "JEY",
+      "JOR",
+      "JPN",
+      "KAZ",
+      "KEN",
+      "KGZ",
+      "KHM",
+      "KIR",
+      "KNA",
+      "KOR",
+      "KWT",
+      "LAO",
+      "LBN",
+      "LBY",
+      "LCA",
+      "LIE",
+      "LKA",
+      "LSO",
+      "LTU",
+      "LUX",
+      "LVA",
+      "MAC",
+      "MAF",
+      "MAR",
+      "MCO",
+      "MDA",
+      "MDV",
+      "MEX",
+      "MHL",
+      "MLI",
+      "MLT",
+      "MNE",
+      "MNG",
+      "MNP",
+      "MRT",
+      "MSR",
+      "MTQ",
+      "MUS",
+      "MWI",
+      "MYS",
+      "MYT",
+      "NAM",
+      "NCL",
+      "NER",
+      "NFK",
+      "NGA",
+      "NIC",
+      "NIU",
+      "NLD",
+      "NOR",
+      "NPL",
+      "NRU",
+      "NZL",
+      "OMN",
+      "PAK",
+      "PAN",
+      "PCN",
+      "PER",
+      "PHL",
+      "PLW",
+      "PNG",
+      "POL",
+      "PRI",
+      "PRT",
+      "PRY",
+      "PYF",
+      "QAT",
+      "REU",
+      "ROU",
+      "RUS",
+      "RWA",
+      "SAU",
+      "SEN",
+      "SGP",
+      "SHN",
+      "SJM",
+      "SLB",
+      "SLE",
+      "SLV",
+      "SMR",
+      "SOM",
+      "SPM",
+      "SRB",
+      "STP",
+      "SVK",
+      "SVN",
+      "SWE",
+      "SWZ",
+      "SXM",
+      "SYC",
+      "TCA",
+      "TCD",
+      "TGO",
+      "THA",
+      "TKL",
+      "TLS",
+      "TON",
+      "TTO",
+      "TUN",
+      "TUR",
+      "TUV",
+      "TWN",
+      "TZA",
+      "UGA",
+      "UKR",
+      "URY",
+      "USA",
+      "UZB",
+      "VAT",
+      "VCT",
+      "VEN",
+      "VGB",
+      "VIR",
+      "VNM",
+      "VUT",
+      "WLF",
+      "WSM",
+      "YEM",
+      "ZAF",
+      "ZMB"
+    ],
+    "currencies": [
+      "AED",
+      "ALL",
+      "AMD",
+      "ANG",
+      "ARS",
+      "AUD",
+      "AWG",
+      "AZN",
+      "BAM",
+      "BBD",
+      "BDT",
+      "BGN",
+      "BHD",
+      "BMD",
+      "BND",
+      "BOB",
+      "BRL",
+      "BSD",
+      "BWP",
+      "BZD",
+      "CAD",
+      "CHF",
+      "CLP",
+      "CNY",
+      "COP",
+      "CRC",
+      "CVE",
+      "CZK",
+      "DJF",
+      "DKK",
+      "DOP",
+      "DZD",
+      "EGP",
+      "ETB",
+      "EUR",
+      "FJD",
+      "FKP",
+      "GBP",
+      "GEL",
+      "GHS",
+      "GIP",
+      "GMD",
+      "GNF",
+      "GTQ",
+      "GYD",
+      "HKD",
+      "HNL",
+      "HRK",
+      "HUF",
+      "IDR",
+      "ILS",
+      "INR",
+      "ISK",
+      "JMD",
+      "JOD",
+      "JPY",
+      "KES",
+      "KGS",
+      "KHR",
+      "KMF",
+      "KRW",
+      "KWD",
+      "KYD",
+      "KZT",
+      "LAK",
+      "LBP",
+      "LKR",
+      "LYD",
+      "MAD",
+      "MDL",
+      "MNT",
+      "MOP",
+      "MRO",
+      "MUR",
+      "MVR",
+      "MWK",
+      "MXN",
+      "MYR",
+      "NGN",
+      "NIO",
+      "NOK",
+      "NPR",
+      "NZD",
+      "OMR",
+      "PEN",
+      "PGK",
+      "PHP",
+      "PKR",
+      "PLN",
+      "PYG",
+      "QAR",
+      "RON",
+      "RSD",
+      "RUB",
+      "RWF",
+      "SAR",
+      "SBD",
+      "SCR",
+      "SEK",
+      "SGD",
+      "SHP",
+      "SLL",
+      "SOS",
+      "STD",
+      "SZL",
+      "THB",
+      "TND",
+      "TOP",
+      "TRY",
+      "TTD",
+      "TWD",
+      "TZS",
+      "UAH",
+      "UGX",
+      "USD",
+      "UYU",
+      "UZS",
+      "VEF",
+      "VND",
+      "VUV",
+      "WST",
+      "XAF",
+      "XCD",
+      "XOF",
+      "XPF",
+      "YER",
+      "ZAR",
+      "ZMW"
+    ],
+    "languages": [
+      "aa",
+      "af",
+      "ak",
+      "am",
+      "ar",
+      "ay",
+      "az",
+      "bg",
+      "bi",
+      "bm",
+      "bn",
+      "bs",
+      "ca",
+      "cs",
+      "cy",
+      "da",
+      "de",
+      "dv",
+      "dz",
+      "ee",
+      "el",
+      "en",
+      "es",
+      "et",
+      "ff",
+      "fi",
+      "fj",
+      "fr",
+      "ga",
+      "gn",
+      "gu",
+      "ha",
+      "he",
+      "hi",
+      "ho",
+      "hr",
+      "ht",
+      "hu",
+      "hy",
+      "id",
+      "ig",
+      "is",
+      "it",
+      "ja",
+      "ka",
+      "kg",
+      "kk",
+      "km",
+      "ko",
+      "kr",
+      "ky",
+      "la",
+      "lb",
+      "ln",
+      "lo",
+      "lt",
+      "lv",
+      "mh",
+      "mi",
+      "mn",
+      "ms",
+      "mt",
+      "nb",
+      "nd",
+      "ne",
+      "nl",
+      "nn",
+      "no",
+      "nr",
+      "ny",
+      "pa",
+      "pl",
+      "pt",
+      "qu",
+      "rm",
+      "ro",
+      "ru",
+      "rw",
+      "sg",
+      "si",
+      "sk",
+      "sl",
+      "so",
+      "sq",
+      "sr",
+      "ss",
+      "st",
+      "sv",
+      "sw",
+      "ta",
+      "te",
+      "th",
+      "tl",
+      "tn",
+      "tr",
+      "ts",
+      "uk",
+      "ur",
+      "uz",
+      "ve",
+      "vi",
+      "wo",
+      "xh",
+      "yo",
+      "zh",
+      "zu"
+    ],
+    "measurement_systems": [
+      "metric",
+      "imperial"
+    ],
+    "timezones": [
+      "Africa/Algiers",
+      "America/Chicago",
+      "America/Los_Angeles",
+      "America/New_York",
+      "Asia/Chongqing",
+      "Australia/ACT",
+      "Canada/Eastern",
+      "GMT",
+      "Mexico/General"
+    ]
+  },
+  {
+    "id": "yem",
+    "name": "Yemen",
+    "countries": [
+      "YEM"
+    ],
+    "currencies": [
+      "YER"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "zmb",
+    "name": "Zambia",
+    "countries": [
+      "ZMB"
+    ],
+    "currencies": [
+      "ZMW"
+    ],
+    "languages": [
+      "en"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ala",
+    "name": "Åland Islands",
+    "countries": [
+      "ALA"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "sv"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  }
+]

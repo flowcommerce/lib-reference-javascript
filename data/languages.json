@@ -1,0 +1,1318 @@
+[
+  {
+    "name": "Afar",
+    "iso_639_2": "aa",
+    "countries": [
+      "DJI"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Afrikaans",
+    "iso_639_2": "af",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": [
+      "af-ZA"
+    ]
+  },
+  {
+    "name": "Akan",
+    "iso_639_2": "ak",
+    "countries": [
+      "GHA"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Albanian",
+    "iso_639_2": "sq",
+    "countries": [
+      "ALB"
+    ],
+    "locales": [
+      "sq-AL"
+    ]
+  },
+  {
+    "name": "Amharic",
+    "iso_639_2": "am",
+    "countries": [
+      "ETH"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Arabic",
+    "iso_639_2": "ar",
+    "countries": [
+      "ARE",
+      "BHR",
+      "COM",
+      "DJI",
+      "DZA",
+      "EGY",
+      "ISR",
+      "JOR",
+      "KWT",
+      "LBN",
+      "LBY",
+      "MAR",
+      "MRT",
+      "NER",
+      "OMN",
+      "QAT",
+      "SAU",
+      "SOM",
+      "TCD",
+      "TUN",
+      "YEM"
+    ],
+    "locales": [
+      "ar-AE",
+      "ar-BH",
+      "ar-DZ",
+      "ar-EG",
+      "ar-IQ",
+      "ar-JO",
+      "ar-KW",
+      "ar-LB",
+      "ar-LY",
+      "ar-MA",
+      "ar-OM",
+      "ar-QA",
+      "ar-SA",
+      "ar-SY",
+      "ar-TN",
+      "ar-YE"
+    ]
+  },
+  {
+    "name": "Armenian",
+    "iso_639_2": "hy",
+    "countries": [
+      "ARM"
+    ],
+    "locales": [
+      "hy-AM"
+    ]
+  },
+  {
+    "name": "Aymara",
+    "iso_639_2": "ay",
+    "countries": [
+      "BOL",
+      "PER"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Azerbaijani",
+    "iso_639_2": "az",
+    "countries": [
+      "AZE"
+    ],
+    "locales": [
+      "Cy-az",
+      "Lt-az"
+    ]
+  },
+  {
+    "name": "Bambara",
+    "iso_639_2": "bm",
+    "countries": [
+      "MLI"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Belarusian",
+    "iso_639_2": "be",
+    "countries": [],
+    "locales": [
+      "be-BY"
+    ]
+  },
+  {
+    "name": "Bengali",
+    "iso_639_2": "bn",
+    "countries": [
+      "BGD",
+      "IND"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Bislama",
+    "iso_639_2": "bi",
+    "countries": [
+      "VUT"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Bosnian",
+    "iso_639_2": "bs",
+    "countries": [
+      "BIH"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Bulgarian",
+    "iso_639_2": "bg",
+    "countries": [
+      "BGR"
+    ],
+    "locales": [
+      "bg"
+    ]
+  },
+  {
+    "name": "Burmese",
+    "iso_639_2": "my",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Catalan",
+    "iso_639_2": "ca",
+    "countries": [
+      "AND"
+    ],
+    "locales": [
+      "ca-ES"
+    ]
+  },
+  {
+    "name": "Chichewa",
+    "iso_639_2": "ny",
+    "countries": [
+      "MWI"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Chinese",
+    "iso_639_2": "zh",
+    "countries": [
+      "CHN",
+      "HKG",
+      "MAC",
+      "SGP",
+      "TWN"
+    ],
+    "locales": [
+      "zh-CHS",
+      "zh-CHT",
+      "zh-CN",
+      "zh-HK",
+      "zh-MO",
+      "zh-SG",
+      "zh-TW"
+    ]
+  },
+  {
+    "name": "Croatian",
+    "iso_639_2": "hr",
+    "countries": [
+      "BIH",
+      "HRV"
+    ],
+    "locales": [
+      "hr"
+    ]
+  },
+  {
+    "name": "Czech",
+    "iso_639_2": "cs",
+    "countries": [
+      "CZE",
+      "SVK"
+    ],
+    "locales": [
+      "cs-CZ"
+    ]
+  },
+  {
+    "name": "Danish",
+    "iso_639_2": "da",
+    "countries": [
+      "DNK"
+    ],
+    "locales": [
+      "da-DK"
+    ]
+  },
+  {
+    "name": "Divehi",
+    "iso_639_2": "dv",
+    "countries": [
+      "MDV"
+    ],
+    "locales": [
+      "div-MV"
+    ]
+  },
+  {
+    "name": "Dutch",
+    "iso_639_2": "nl",
+    "countries": [
+      "ABW",
+      "BEL",
+      "CUW",
+      "NLD",
+      "SXM"
+    ],
+    "locales": [
+      "nl",
+      "nl-BE"
+    ]
+  },
+  {
+    "name": "Dzongkha",
+    "iso_639_2": "dz",
+    "countries": [
+      "BTN"
+    ],
+    "locales": []
+  },
+  {
+    "name": "English",
+    "iso_639_2": "en",
+    "countries": [
+      "ATG",
+      "AUS",
+      "BHS",
+      "BLZ",
+      "BRB",
+      "BWA",
+      "CAN",
+      "CMR",
+      "CUW",
+      "DMA",
+      "FJI",
+      "FSM",
+      "GBR",
+      "GHA",
+      "GMB",
+      "GRD",
+      "GUY",
+      "HKG",
+      "IND",
+      "IRL",
+      "JAM",
+      "KEN",
+      "KIR",
+      "KNA",
+      "LCA",
+      "LKA",
+      "LSO",
+      "MHL",
+      "MLT",
+      "MUS",
+      "MWI",
+      "MYS",
+      "NAM",
+      "NGA",
+      "NRU",
+      "NZL",
+      "PAK",
+      "PHL",
+      "PLW",
+      "PNG",
+      "RWA",
+      "SGP",
+      "SLB",
+      "SLE",
+      "SWZ",
+      "SXM",
+      "SYC",
+      "TON",
+      "TTO",
+      "TUV",
+      "TZA",
+      "UGA",
+      "USA",
+      "VCT",
+      "VUT",
+      "WSM",
+      "ZAF",
+      "ZMB"
+    ],
+    "locales": [
+      "en-AU",
+      "en-BZ",
+      "en-CA",
+      "en-CB",
+      "en-GB",
+      "en-IE",
+      "en-JM",
+      "en-NZ",
+      "en-PH",
+      "en-TT",
+      "en-US",
+      "en-ZA",
+      "en-ZW"
+    ]
+  },
+  {
+    "name": "Estonian",
+    "iso_639_2": "et",
+    "countries": [
+      "EST"
+    ],
+    "locales": [
+      "et-EE"
+    ]
+  },
+  {
+    "name": "Ewe",
+    "iso_639_2": "ee",
+    "countries": [
+      "GHA",
+      "TGO"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Fijian",
+    "iso_639_2": "fj",
+    "countries": [
+      "FJI"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Finnish",
+    "iso_639_2": "fi",
+    "countries": [
+      "FIN"
+    ],
+    "locales": [
+      "fi"
+    ]
+  },
+  {
+    "name": "French",
+    "iso_639_2": "fr",
+    "countries": [
+      "BEL",
+      "BEN",
+      "BFA",
+      "BLM",
+      "CAF",
+      "CAN",
+      "CHE",
+      "CIV",
+      "CMR",
+      "COG",
+      "COM",
+      "DJI",
+      "FRA",
+      "GAB",
+      "GIN",
+      "GLP",
+      "GNQ",
+      "GUF",
+      "HTI",
+      "ITA",
+      "JEY",
+      "LUX",
+      "MCO",
+      "MLI",
+      "MTQ",
+      "MUS",
+      "MYT",
+      "NCL",
+      "NER",
+      "PYF",
+      "REU",
+      "RWA",
+      "SEN",
+      "SPM",
+      "SYC",
+      "TCD",
+      "TGO",
+      "VUT",
+      "WLF"
+    ],
+    "locales": [
+      "fr",
+      "fr-BE",
+      "fr-CA",
+      "fr-CH",
+      "fr-LU",
+      "fr-MC"
+    ]
+  },
+  {
+    "name": "Fula",
+    "iso_639_2": "ff",
+    "countries": [
+      "BEN",
+      "BFA",
+      "MLI",
+      "NER",
+      "SEN"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Georgian",
+    "iso_639_2": "ka",
+    "countries": [
+      "GEO"
+    ],
+    "locales": [
+      "ka-GE"
+    ]
+  },
+  {
+    "name": "German",
+    "iso_639_2": "de",
+    "countries": [
+      "AUT",
+      "BEL",
+      "CHE",
+      "DEU",
+      "ITA",
+      "LIE",
+      "LUX"
+    ],
+    "locales": [
+      "de",
+      "de-AT",
+      "de-CH",
+      "de-LI",
+      "de-LU"
+    ]
+  },
+  {
+    "name": "Greek",
+    "iso_639_2": "el",
+    "countries": [
+      "CYP",
+      "GRC"
+    ],
+    "locales": [
+      "el-GR"
+    ]
+  },
+  {
+    "name": "Guaraní",
+    "iso_639_2": "gn",
+    "countries": [
+      "BOL",
+      "PRY"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Gujarati",
+    "iso_639_2": "gu",
+    "countries": [
+      "IND"
+    ],
+    "locales": [
+      "gu-IN"
+    ]
+  },
+  {
+    "name": "Haitian",
+    "iso_639_2": "ht",
+    "countries": [
+      "HTI"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Hausa",
+    "iso_639_2": "ha",
+    "countries": [
+      "NER",
+      "NGA"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Hebrew",
+    "iso_639_2": "he",
+    "countries": [
+      "ISR"
+    ],
+    "locales": [
+      "he-IL"
+    ]
+  },
+  {
+    "name": "Hindi",
+    "iso_639_2": "hi",
+    "countries": [
+      "FJI",
+      "IND"
+    ],
+    "locales": [
+      "hi-IN"
+    ]
+  },
+  {
+    "name": "Hiri Motu",
+    "iso_639_2": "ho",
+    "countries": [
+      "PNG"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Hungarian",
+    "iso_639_2": "hu",
+    "countries": [
+      "HUN"
+    ],
+    "locales": [
+      "hu"
+    ]
+  },
+  {
+    "name": "Icelandic",
+    "iso_639_2": "is",
+    "countries": [
+      "ISL"
+    ],
+    "locales": [
+      "is"
+    ]
+  },
+  {
+    "name": "Igbo",
+    "iso_639_2": "ig",
+    "countries": [
+      "NGA"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Indonesian",
+    "iso_639_2": "id",
+    "countries": [
+      "IDN"
+    ],
+    "locales": [
+      "id"
+    ]
+  },
+  {
+    "name": "Irish",
+    "iso_639_2": "ga",
+    "countries": [
+      "IRL"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Italian",
+    "iso_639_2": "it",
+    "countries": [
+      "CHE",
+      "HRV",
+      "ITA",
+      "SMR",
+      "SVN",
+      "VAT"
+    ],
+    "locales": [
+      "it",
+      "it-CH"
+    ]
+  },
+  {
+    "name": "Japanese",
+    "iso_639_2": "ja",
+    "countries": [
+      "JPN"
+    ],
+    "locales": [
+      "ja-JP"
+    ]
+  },
+  {
+    "name": "Kanuri",
+    "iso_639_2": "kr",
+    "countries": [
+      "NER"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Kazakh",
+    "iso_639_2": "kk",
+    "countries": [
+      "KAZ"
+    ],
+    "locales": [
+      "kk-KZ"
+    ]
+  },
+  {
+    "name": "Khmer",
+    "iso_639_2": "km",
+    "countries": [
+      "KHM"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Kinyarwanda",
+    "iso_639_2": "rw",
+    "countries": [
+      "RWA"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Kirundi",
+    "iso_639_2": "rn",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Kongo",
+    "iso_639_2": "kg",
+    "countries": [
+      "COG"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Korean",
+    "iso_639_2": "ko",
+    "countries": [
+      "KOR"
+    ],
+    "locales": [
+      "ko-KR"
+    ]
+  },
+  {
+    "name": "Kurdish",
+    "iso_639_2": "ku",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Kwanyama",
+    "iso_639_2": "kj",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Kyrgyz",
+    "iso_639_2": "ky",
+    "countries": [
+      "KGZ"
+    ],
+    "locales": [
+      "ky-KZ"
+    ]
+  },
+  {
+    "name": "Lao",
+    "iso_639_2": "lo",
+    "countries": [
+      "LAO"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Latin",
+    "iso_639_2": "la",
+    "countries": [
+      "VAT"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Latvian",
+    "iso_639_2": "lv",
+    "countries": [
+      "LVA"
+    ],
+    "locales": [
+      "lv"
+    ]
+  },
+  {
+    "name": "Lingala",
+    "iso_639_2": "ln",
+    "countries": [
+      "COG"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Lithuanian",
+    "iso_639_2": "lt",
+    "countries": [
+      "LTU"
+    ],
+    "locales": [
+      "lt"
+    ]
+  },
+  {
+    "name": "Luba-Katanga",
+    "iso_639_2": "lu",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Luxembourgish",
+    "iso_639_2": "lb",
+    "countries": [
+      "LUX"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Macedonian",
+    "iso_639_2": "mk",
+    "countries": [],
+    "locales": [
+      "mk"
+    ]
+  },
+  {
+    "name": "Malagasy",
+    "iso_639_2": "mg",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Malay",
+    "iso_639_2": "ms",
+    "countries": [
+      "BRN",
+      "IDN",
+      "MYS",
+      "SGP"
+    ],
+    "locales": [
+      "ms-BN",
+      "ms-MY"
+    ]
+  },
+  {
+    "name": "Maltese",
+    "iso_639_2": "mt",
+    "countries": [
+      "MLT"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Marshallese",
+    "iso_639_2": "mh",
+    "countries": [
+      "MHL"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Mongolian",
+    "iso_639_2": "mn",
+    "countries": [
+      "MNG"
+    ],
+    "locales": [
+      "mn"
+    ]
+  },
+  {
+    "name": "Māori",
+    "iso_639_2": "mi",
+    "countries": [
+      "NZL"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Nepali",
+    "iso_639_2": "ne",
+    "countries": [
+      "NPL"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Northern Ndebele",
+    "iso_639_2": "nd",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Norwegian",
+    "iso_639_2": "no",
+    "countries": [
+      "NOR"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Norwegian Bokmål",
+    "iso_639_2": "nb",
+    "countries": [
+      "NOR"
+    ],
+    "locales": [
+      "nb-NO"
+    ]
+  },
+  {
+    "name": "Norwegian Nynorsk",
+    "iso_639_2": "nn",
+    "countries": [
+      "NOR"
+    ],
+    "locales": [
+      "nn-NO"
+    ]
+  },
+  {
+    "name": "Panjabi",
+    "iso_639_2": "pa",
+    "countries": [
+      "IND"
+    ],
+    "locales": [
+      "pa-IN"
+    ]
+  },
+  {
+    "name": "Pashto",
+    "iso_639_2": "ps",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Persian",
+    "iso_639_2": "fa",
+    "countries": [],
+    "locales": [
+      "fa-IR"
+    ]
+  },
+  {
+    "name": "Polish",
+    "iso_639_2": "pl",
+    "countries": [
+      "POL"
+    ],
+    "locales": [
+      "pl"
+    ]
+  },
+  {
+    "name": "Portuguese",
+    "iso_639_2": "pt",
+    "countries": [
+      "BRA",
+      "CPV",
+      "GNB",
+      "GNQ",
+      "MAC",
+      "PRT",
+      "STP",
+      "TLS"
+    ],
+    "locales": [
+      "pt",
+      "pt-BR"
+    ]
+  },
+  {
+    "name": "Quechua",
+    "iso_639_2": "qu",
+    "countries": [
+      "BOL",
+      "PER"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Romanian",
+    "iso_639_2": "ro",
+    "countries": [
+      "MDA",
+      "ROU"
+    ],
+    "locales": [
+      "ro"
+    ]
+  },
+  {
+    "name": "Romansh",
+    "iso_639_2": "rm",
+    "countries": [
+      "CHE"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Russian",
+    "iso_639_2": "ru",
+    "countries": [
+      "KAZ",
+      "KGZ",
+      "RUS"
+    ],
+    "locales": [
+      "ru"
+    ]
+  },
+  {
+    "name": "Sango",
+    "iso_639_2": "sg",
+    "countries": [
+      "CAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Serbian",
+    "iso_639_2": "sr",
+    "countries": [
+      "BIH",
+      "SRB"
+    ],
+    "locales": [
+      "Cy-sr-SP",
+      "Lt-sr-SP"
+    ]
+  },
+  {
+    "name": "Shona",
+    "iso_639_2": "sn",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Sinhala",
+    "iso_639_2": "si",
+    "countries": [
+      "LKA"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Slovak",
+    "iso_639_2": "sk",
+    "countries": [
+      "CZE",
+      "SVK"
+    ],
+    "locales": [
+      "sk"
+    ]
+  },
+  {
+    "name": "Slovene",
+    "iso_639_2": "sl",
+    "countries": [
+      "SVN"
+    ],
+    "locales": [
+      "sl-SI"
+    ]
+  },
+  {
+    "name": "Somali",
+    "iso_639_2": "so",
+    "countries": [
+      "DJI",
+      "SOM"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Southern Ndebele",
+    "iso_639_2": "nr",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Southern Sotho",
+    "iso_639_2": "st",
+    "countries": [
+      "LSO",
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Spanish",
+    "iso_639_2": "es",
+    "countries": [
+      "ARG",
+      "BOL",
+      "CHL",
+      "COL",
+      "CRI",
+      "DOM",
+      "ECU",
+      "ESH",
+      "ESP",
+      "GNQ",
+      "GTM",
+      "HND",
+      "MEX",
+      "NIC",
+      "PAN",
+      "PER",
+      "PRI",
+      "PRY",
+      "SLV",
+      "URY",
+      "VEN"
+    ],
+    "locales": [
+      "es",
+      "es-AR",
+      "es-BO",
+      "es-CL",
+      "es-CO",
+      "es-CR",
+      "es-DO",
+      "es-EC",
+      "es-GT",
+      "es-HN",
+      "es-MX",
+      "es-NI",
+      "es-PA",
+      "es-PE",
+      "es-PR",
+      "es-PY",
+      "es-SV",
+      "es-UY",
+      "es-VE"
+    ]
+  },
+  {
+    "name": "Swahili",
+    "iso_639_2": "sw",
+    "countries": [
+      "KEN",
+      "TZA",
+      "UGA"
+    ],
+    "locales": [
+      "sw-KE"
+    ]
+  },
+  {
+    "name": "Swati",
+    "iso_639_2": "ss",
+    "countries": [
+      "SWZ",
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Swedish",
+    "iso_639_2": "sv",
+    "countries": [
+      "ALA",
+      "FIN",
+      "SWE"
+    ],
+    "locales": [
+      "sv-FI",
+      "sv-SE"
+    ]
+  },
+  {
+    "name": "Tagalog",
+    "iso_639_2": "tl",
+    "countries": [
+      "PHL"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Tajik",
+    "iso_639_2": "tg",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Tamil",
+    "iso_639_2": "ta",
+    "countries": [
+      "IND",
+      "LKA",
+      "MUS",
+      "MYS",
+      "SGP"
+    ],
+    "locales": [
+      "ta-IN"
+    ]
+  },
+  {
+    "name": "Telugu",
+    "iso_639_2": "te",
+    "countries": [
+      "IND"
+    ],
+    "locales": [
+      "te-IN"
+    ]
+  },
+  {
+    "name": "Thai",
+    "iso_639_2": "th",
+    "countries": [
+      "THA"
+    ],
+    "locales": [
+      "th"
+    ]
+  },
+  {
+    "name": "Tigrinya",
+    "iso_639_2": "ti",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Tsonga",
+    "iso_639_2": "ts",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Tswana",
+    "iso_639_2": "tn",
+    "countries": [
+      "BWA",
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Turkish",
+    "iso_639_2": "tr",
+    "countries": [
+      "CYP",
+      "TUR"
+    ],
+    "locales": [
+      "tr"
+    ]
+  },
+  {
+    "name": "Turkmen",
+    "iso_639_2": "tk",
+    "countries": [],
+    "locales": []
+  },
+  {
+    "name": "Ukrainian",
+    "iso_639_2": "uk",
+    "countries": [
+      "UKR"
+    ],
+    "locales": [
+      "uk-UA"
+    ]
+  },
+  {
+    "name": "Urdu",
+    "iso_639_2": "ur",
+    "countries": [
+      "FJI",
+      "PAK"
+    ],
+    "locales": [
+      "ur-PK"
+    ]
+  },
+  {
+    "name": "Uzbek",
+    "iso_639_2": "uz",
+    "countries": [
+      "UZB"
+    ],
+    "locales": [
+      "Cy-uz",
+      "Lt-uz"
+    ]
+  },
+  {
+    "name": "Venda",
+    "iso_639_2": "ve",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Vietnamese",
+    "iso_639_2": "vi",
+    "countries": [
+      "VNM"
+    ],
+    "locales": [
+      "vi-VN"
+    ]
+  },
+  {
+    "name": "Welsh",
+    "iso_639_2": "cy",
+    "countries": [
+      "GBR"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Wolof",
+    "iso_639_2": "wo",
+    "countries": [
+      "SEN"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Xhosa",
+    "iso_639_2": "xh",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Yoruba",
+    "iso_639_2": "yo",
+    "countries": [
+      "BEN",
+      "NGA"
+    ],
+    "locales": []
+  },
+  {
+    "name": "Zulu",
+    "iso_639_2": "zu",
+    "countries": [
+      "ZAF"
+    ],
+    "locales": []
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "id": "american_express",
+    "type": "card",
+    "name": "American Express",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/american_express/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/american_express/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/american_express/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "cartes_bancaires",
+    "type": "card",
+    "name": "Cartes Bancaires",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/cartes_bancaires/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/cartes_bancaires/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/cartes_bancaires/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "fra"
+    ]
+  },
+  {
+    "id": "china_union_pay",
+    "type": "card",
+    "name": "China Union Pay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/china_union_pay/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/china_union_pay/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/china_union_pay/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "chn"
+    ]
+  },
+  {
+    "id": "dankort",
+    "type": "card",
+    "name": "Dankort",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/dankort/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/dankort/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/dankort/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "europe"
+    ]
+  },
+  {
+    "id": "diners_club",
+    "type": "card",
+    "name": "Diners Club",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/diners_club/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/diners_club/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/diners_club/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "europe",
+      "north-america"
+    ]
+  },
+  {
+    "id": "discover",
+    "type": "card",
+    "name": "Discover",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/discover/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/discover/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/discover/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "europe",
+      "north-america"
+    ]
+  },
+  {
+    "id": "jcb",
+    "type": "card",
+    "name": "Jcb",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/jcb/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/jcb/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/jcb/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "jpn"
+    ]
+  },
+  {
+    "id": "maestro",
+    "type": "card",
+    "name": "Maestro",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/maestro/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/maestro/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/maestro/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "europe",
+      "north-america"
+    ]
+  },
+  {
+    "id": "mastercard",
+    "type": "card",
+    "name": "Mastercard",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/mastercard/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/mastercard/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/mastercard/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "paypal",
+    "type": "online",
+    "name": "Paypal",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/76x48.png",
+        "width": 76,
+        "height": 48
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/150x94.png",
+        "width": 150,
+        "height": 94
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/266x142.png",
+        "width": 266,
+        "height": 142
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "visa",
+    "type": "card",
+    "name": "VISA",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/visa/64x64.png",
+        "width": 64,
+        "height": 64
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/visa/128x128.png",
+        "width": 128,
+        "height": 128
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/visa/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  }
+]

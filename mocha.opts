@@ -1,0 +1,6 @@
+--ui bdd
+--require babel-register
+--require ./mocha.js
+--colors
+--check-leaks
+--reporter dot
