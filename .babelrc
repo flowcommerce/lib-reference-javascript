@@ -1,8 +1,8 @@
 {
   "presets": ["@flowio/babel-preset-flowio"],
-  "only": [
-    "mocha.js",
-    "**/src/**",
-    "**/test/**",
-  ]
+  "env": {
+    "test": {
+      "plugins": ["istanbul"]
+    }
+  }
 }
