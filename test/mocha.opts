@@ -1,0 +1,6 @@
+--ui bdd
+--colors
+--check-leaks
+--reporter dot
+--require babel-register
+--require ./test/setup.js

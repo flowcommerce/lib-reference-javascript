@@ -1,22 +1,8 @@
 {
     "parser": "babel-eslint",
-    "env": {
-        "browser": true,
-        "mocha": true,
-        "node": true
-    },
     "extends": "@flowio/flowio",
-    "globals": {
-      "NREUM": true,
-      "chai": true,
-      "expect": true,
-      "sinon": true
-    },
-    "rules": {
-      "import/no-extraneous-dependencies": ["error", {
-        "devDependencies": [
-          "**/mocha.js"
-        ]
-      }]
+    "env": {
+      "browser": true,
+      "node": true
     }
 }
