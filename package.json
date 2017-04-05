@@ -22,7 +22,7 @@
     "download:payment-methods": "curl -s -o data/payment-methods.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/payment-methods.json",
     "download:regions": "curl -s -o data/regions.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/regions.json",
     "download:timezones": "curl -s -o data/timezones.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/timezones.json",
-    "lint": "eslint src",
+    "lint": "eslint .",
     "postpublish": "rm -rf lib",
     "test": "cross-env NODE_ENV=test nyc mocha --opts ./test/mocha.opts ./test/specs/**/*.js"
   },
