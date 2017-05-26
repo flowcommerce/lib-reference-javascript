@@ -8,8 +8,7 @@
   {
     "name": "Algerian Dinar",
     "iso_4217_3": "DZD",
-    "number_decimals": 2,
-    "default_locale": "ar-DZ"
+    "number_decimals": 2
   },
   {
     "name": "Antillian Guilder",
@@ -497,8 +496,7 @@
   {
     "name": "Moroccan Dirham",
     "iso_4217_3": "MAD",
-    "number_decimals": 2,
-    "default_locale": "ar-MA"
+    "number_decimals": 2
   },
   {
     "name": "Namibian Dollar",
@@ -551,7 +549,7 @@
   {
     "name": "New Taiwan Dollar",
     "iso_4217_3": "TWD",
-    "number_decimals": 2,
+    "number_decimals": 0,
     "symbols": {
       "primary": "NT$",
       "narrow": "$"
@@ -781,8 +779,7 @@
   {
     "name": "Tunisian Dinar",
     "iso_4217_3": "TND",
-    "number_decimals": 3,
-    "default_locale": "ar-TN"
+    "number_decimals": 3
   },
   {
     "name": "UAE Dirham",
@@ -835,7 +832,8 @@
     "number_decimals": 0,
     "symbols": {
       "primary": "₫"
-    }
+    },
+    "default_locale": "vi-VN"
   },
   {
     "name": "Yemeni Rial",

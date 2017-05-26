@@ -51,14 +51,12 @@
       "BHR",
       "COM",
       "DJI",
-      "DZA",
       "EGY",
       "ISR",
       "JOR",
       "KWT",
       "LBN",
       "LBY",
-      "MAR",
       "MRT",
       "NER",
       "OMN",
@@ -66,7 +64,6 @@
       "SAU",
       "SOM",
       "TCD",
-      "TUN",
       "YEM"
     ],
     "locales": [
@@ -262,8 +259,7 @@
       "ABW",
       "BEL",
       "CUW",
-      "NLD",
-      "SXM"
+      "NLD"
     ],
     "locales": [
       "nl",
@@ -327,7 +323,6 @@
       "SLB",
       "SLE",
       "SWZ",
-      "SXM",
       "SYC",
       "TON",
       "TTO",
@@ -431,12 +426,10 @@
       "REU",
       "RWA",
       "SEN",
-      "SPM",
       "SYC",
       "TCD",
       "TGO",
-      "VUT",
-      "WLF"
+      "VUT"
     ],
     "locales": [
       "fr",
@@ -619,8 +612,7 @@
       "HRV",
       "ITA",
       "SMR",
-      "SVN",
-      "VAT"
+      "SVN"
     ],
     "locales": [
       "it",
@@ -728,9 +720,7 @@
   {
     "name": "Latin",
     "iso_639_2": "la",
-    "countries": [
-      "VAT"
-    ],
+    "countries": [],
     "locales": []
   },
   {
@@ -1065,7 +1055,6 @@
       "CRI",
       "DOM",
       "ECU",
-      "ESH",
       "ESP",
       "GNQ",
       "GTM",
@@ -1074,7 +1063,6 @@
       "NIC",
       "PAN",
       "PER",
-      "PRI",
       "PRY",
       "SLV",
       "URY",
@@ -1127,7 +1115,6 @@
     "name": "Swedish",
     "iso_639_2": "sv",
     "countries": [
-      "ALA",
       "FIN",
       "SWE"
     ],
