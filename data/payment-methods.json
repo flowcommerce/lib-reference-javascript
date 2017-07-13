@@ -10,9 +10,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/american_express/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/american_express/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/american_express/256x256.png",
@@ -35,9 +35,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/cartes_bancaires/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/cartes_bancaires/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/cartes_bancaires/256x256.png",
@@ -60,9 +60,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/china_union_pay/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/china_union_pay/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/china_union_pay/256x256.png",
@@ -85,9 +85,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/dankort/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/dankort/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/dankort/256x256.png",
@@ -110,9 +110,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/diners_club/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/diners_club/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/diners_club/256x256.png",
@@ -136,9 +136,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/discover/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/discover/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/discover/256x256.png",
@@ -162,9 +162,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/jcb/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/jcb/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/jcb/256x256.png",
@@ -187,9 +187,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/maestro/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/maestro/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/maestro/256x256.png",
@@ -213,9 +213,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/mastercard/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/mastercard/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/mastercard/256x256.png",
@@ -238,14 +238,14 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/150x94.png",
-        "width": 150,
-        "height": 94
+        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/266x142.png",
-        "width": 266,
-        "height": 142
+        "url": "https://flowcdn.io/util/icons/payment-methods/paypal/180x60.png",
+        "width": 180,
+        "height": 60
       }
     },
     "regions": [
@@ -263,9 +263,9 @@
         "height": 41
       },
       "medium": {
-        "url": "https://flowcdn.io/util/icons/payment-methods/visa/128x128.png",
-        "width": 128,
-        "height": 128
+        "url": "https://flowcdn.io/util/icons/payment-methods/visa/100x60.png",
+        "width": 100,
+        "height": 60
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/visa/256x256.png",

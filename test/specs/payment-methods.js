@@ -7,10 +7,10 @@ describe('payment methods', () => {
   });
 
   it('should find one by identifier', () => {
-    expect(findById('paypal')).to.have.property('name', 'Paypal');
+    expect(findById('paypal')).to.have.property('name', 'PayPal');
   });
 
   it('should find one by name (case-insensitive)', () => {
-    expect(findByName('pAyPaL')).to.have.property('name', 'Paypal');
+    expect(findByName('pAyPaL')).to.have.property('name', 'PayPal');
   });
 });
