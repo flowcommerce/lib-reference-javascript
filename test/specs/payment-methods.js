@@ -2,7 +2,7 @@ import { all, findById, findByName } from '../../src/payment-methods';
 
 describe('payment methods', () => {
   it('should export all payment methods', () => {
-    expect(all).to.be.an.array;
+    expect(all).to.be.an('array');
     expect(all).to.not.be.empty;
   });
 

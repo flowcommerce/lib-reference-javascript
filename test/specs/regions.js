@@ -2,7 +2,7 @@ import { all, findById, findByName } from '../../src/regions';
 
 describe('regions', () => {
   it('should export all regions', () => {
-    expect(all).to.be.an.array;
+    expect(all).to.be.an('array');
     expect(all).to.not.be.empty;
   });
 

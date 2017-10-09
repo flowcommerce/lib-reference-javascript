@@ -1,6 +1,6 @@
 const findWhere = (array, predicate) => {
   let index = -1;
-  const length = array.length;
+  const { length } = array;
 
   // eslint-disable-next-line no-plusplus
   while (++index < length) {
