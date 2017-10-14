@@ -22,6 +22,7 @@
     "download:payment-methods": "curl -s -o data/payment-methods.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/payment-methods.json",
     "download:regions": "curl -s -o data/regions.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/regions.json",
     "download:timezones": "curl -s -o data/timezones.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/timezones.json",
+    "fix": "eslint . --fix",
     "lint": "eslint .",
     "postpublish": "rm -rf lib",
     "test": "cross-env NODE_ENV=test nyc mocha --opts ./test/mocha.opts ./test/specs/**/*.js"
@@ -38,22 +39,22 @@
   },
   "homepage": "https://github.com/flowcommerce/lib-reference-javascript#readme",
   "devDependencies": {
-    "@flowio/babel-preset-flowio": "^1.3.0",
-    "@flowio/eslint-config-flowio": "^8.1.0",
-    "babel-eslint": "^7.2.1",
-    "babel-plugin-istanbul": "^4.1.1",
-    "babel-register": "^6.24.0",
-    "chai": "^3.5.0",
-    "cross-env": "^4.0.0",
-    "eslint": "^3.18.0",
-    "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.3",
-    "mocha": "^3.2.0",
-    "npm-run-all": "^4.0.2",
-    "nyc": "^10.2.0"
+    "@flowio/babel-preset-flowio": "^1.4.1",
+    "@flowio/eslint-config-flowio": "^11.0.2",
+    "babel-eslint": "^8.0.1",
+    "babel-plugin-istanbul": "^4.1.5",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "cross-env": "^5.0.5",
+    "eslint": "^4.8.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "mocha": "^4.0.1",
+    "npm-run-all": "^4.1.1",
+    "nyc": "^11.2.1"
   },
   "dependencies": {
-    "babel-cli": "^6.24.1"
+    "babel-cli": "^6.26.0"
   }
 }

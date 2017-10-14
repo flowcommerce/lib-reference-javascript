@@ -2,7 +2,7 @@ import { all, find } from '../../src/currencies';
 
 describe('currencies', () => {
   it('should export all currencies', () => {
-    expect(all).to.be.an.array;
+    expect(all).to.be.an('array');
     expect(all).to.not.be.empty;
   });
 

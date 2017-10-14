@@ -2,7 +2,7 @@ import { all, find } from '../../src/languages';
 
 describe('languages', () => {
   it('should export all languages', () => {
-    expect(all).to.be.an.array;
+    expect(all).to.be.an('array');
     expect(all).to.not.be.empty;
   });
 

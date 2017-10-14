@@ -2,7 +2,7 @@ import { all, find } from '../../src/continents';
 
 describe('continents', () => {
   it('should export all continents', () => {
-    expect(all).to.be.an.array;
+    expect(all).to.be.an('array');
     expect(all).to.not.be.empty;
   });
 
