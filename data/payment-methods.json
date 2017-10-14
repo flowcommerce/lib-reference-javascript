@@ -1,5 +1,30 @@
 [
   {
+    "id": "alipay",
+    "type": "online",
+    "name": "Alipay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/alipay/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/alipay/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/alipay/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "american_express",
     "type": "card",
     "name": "American Express",
@@ -126,6 +151,31 @@
     ]
   },
   {
+    "id": "directEbanking",
+    "type": "online",
+    "name": "Sofortüberweisung",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/directEbanking/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/directEbanking/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/directEbanking/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "discover",
     "type": "card",
     "name": "Discover",
@@ -149,6 +199,56 @@
     "regions": [
       "europe",
       "north-america"
+    ]
+  },
+  {
+    "id": "giropay",
+    "type": "online",
+    "name": "GiroPay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/giropay/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/giropay/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/giropay/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "ideal",
+    "type": "online",
+    "name": "iDEAL",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/ideal/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/ideal/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/ideal/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
     ]
   },
   {
@@ -253,6 +353,81 @@
     ]
   },
   {
+    "id": "qiwiwallet",
+    "type": "online",
+    "name": "Qiwi Wallet",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/qiwiwallet/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/qiwiwallet/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/qiwiwallet/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "sepadirectdebit",
+    "type": "online",
+    "name": "SEPA Direct Debit",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/sepadirectdebit/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/sepadirectdebit/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/sepadirectdebit/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "unionpay",
+    "type": "online",
+    "name": "UnionPay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/unionpay/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/unionpay/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/unionpay/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "visa",
     "type": "card",
     "name": "VISA",
@@ -269,6 +444,31 @@
       },
       "large": {
         "url": "https://flowcdn.io/util/icons/payment-methods/visa/256x256.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "wechatpay",
+    "type": "online",
+    "name": "WeChat Pay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/wechatpay/65x41.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/wechatpay/100x60.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/icons/payment-methods/wechatpay/256x256.png",
         "width": 256,
         "height": 256
       }
