@@ -804,7 +804,8 @@
     "iso_4217_3": "USD",
     "number_decimals": 2,
     "symbols": {
-      "primary": "$"
+      "primary": "US$",
+      "narrow": "$"
     },
     "default_locale": "en-US"
   },
