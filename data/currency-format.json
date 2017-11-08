@@ -147,7 +147,7 @@
     "format": "%s%v"
   },
   "en-AS": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -224,7 +224,7 @@
     "format": "%s%v"
   },
   "en-FM": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -252,7 +252,7 @@
     "format": "%s%v"
   },
   "en-GU": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -315,14 +315,14 @@
     "format": "%s%v"
   },
   "en-MH": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
     "format": "%s%v"
   },
   "en-MP": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -371,7 +371,7 @@
     "format": "%s%v"
   },
   "en-PW": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -385,7 +385,7 @@
     "format": "%s%v"
   },
   "en-TC": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -399,7 +399,7 @@
     "format": "%s%v"
   },
   "en-US": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -413,7 +413,7 @@
     "format": "%s%v"
   },
   "en-VG": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -434,7 +434,7 @@
     "format": "%s%v"
   },
   "es-EC": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ",",
     "group": ".",
     "precision": 2,
@@ -455,21 +455,21 @@
     "format": "%s%v"
   },
   "es-PA": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
     "format": "%s%v"
   },
   "es-SV": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
     "format": "%s%v"
   },
   "es-US": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -588,7 +588,7 @@
     "format": "%s%v"
   },
   "fr-HT": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ",",
     "group": " ",
     "precision": 2,
@@ -693,7 +693,7 @@
     "format": "%s%v"
   },
   "gu": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -812,14 +812,14 @@
     "format": "%s%v"
   },
   "nl-BQ": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ",",
     "group": ".",
     "precision": 2,
     "format": "%s%v"
   },
   "pa": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -861,14 +861,14 @@
     "format": "%s%v"
   },
   "pt-TL": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ",",
     "group": " ",
     "precision": 2,
     "format": "%s%v"
   },
   "qu-EC": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -903,7 +903,7 @@
     "format": "%s%v"
   },
   "sv": {
-    "symbol": "$",
+    "symbol": "US$",
     "decimal": ",",
     "group": " ",
     "precision": 2,
