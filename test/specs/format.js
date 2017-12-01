@@ -21,7 +21,8 @@ describe('format', () => {
       symbol: 'narrow',
       label_formatters: ['strip_trailing_zeros'],
     };
-    const result = currency(1200.00, 'en-AU', options);
-    expect(result).to.equal('$1,200');
+
+    expect(currency(1200.00, 'en-AU', options)).to.equal('$1,200');
+    expect(currency(1200.00, 'de', options)).to.equal('€1,200');
   });
 });
