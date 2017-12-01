@@ -4,7 +4,7 @@ import accounting from './vendor/accounting';
 
 const formatters = {
   strip_trailing_zeros: (value) => {
-    if (value && value.endsWith('.00')) {
+    if (value && (value.endsWith('.00') || value.endsWith(',00'))) {
       return value.substring(0, value.length - 3);
     }
 
