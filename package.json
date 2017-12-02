@@ -1,6 +1,6 @@
 {
   "name": "@flowio/lib-reference-javascript",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Utilities for accessing flow.io reference data",
   "main": "lib/index.js",
   "files": [
