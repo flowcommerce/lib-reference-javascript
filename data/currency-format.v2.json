@@ -501,7 +501,7 @@
   },
   "en-AS": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -711,7 +711,7 @@
   },
   "en-FM": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -791,7 +791,7 @@
   },
   "en-GU": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -931,7 +931,7 @@
   },
   "en-MH": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -951,7 +951,7 @@
   },
   "en-MP": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1101,7 +1101,7 @@
   },
   "en-PW": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1201,7 +1201,7 @@
   },
   "en-TC": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1261,7 +1261,7 @@
   },
   "en-US": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1281,7 +1281,7 @@
   },
   "en-VG": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1411,7 +1411,7 @@
   },
   "es-EC": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ",",
@@ -1471,7 +1471,7 @@
   },
   "es-PA": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1511,7 +1511,7 @@
   },
   "es-SV": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1521,7 +1521,7 @@
   },
   "es-US": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -1771,7 +1771,7 @@
   },
   "fr-HT": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ",",
@@ -1981,7 +1981,7 @@
   },
   "gu": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -2361,7 +2361,7 @@
   },
   "nl-BQ": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ",",
@@ -2391,7 +2391,7 @@
   },
   "pa": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -2501,7 +2501,7 @@
   },
   "pt-TL": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ",",
@@ -2521,7 +2521,7 @@
   },
   "qu-EC": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ".",
@@ -2741,7 +2741,7 @@
   },
   "sv": {
     "symbol": {
-      "primary": "$",
+      "primary": "US$",
       "narrow": "$"
     },
     "decimal": ",",
