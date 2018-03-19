@@ -2,9 +2,13 @@
 import currencyFormat from '../data/currency-format.v2.json';
 import accounting from './vendor/accounting';
 
+export function endsWith(baseString, searchString) {
+  return baseString.substring(baseString.length - searchString.length) === searchString;
+}
+
 const formatters = {
   strip_trailing_zeros: (value) => {
-    if (value && (value.endsWith('.00') || value.endsWith(',00'))) {
+    if (value && (endsWith(value, '.00') || endsWith(value, ',00'))) {
       return value.substring(0, value.length - 3);
     }
 
