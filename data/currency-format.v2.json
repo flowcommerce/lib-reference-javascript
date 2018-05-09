@@ -2492,7 +2492,7 @@
   "pt-ST": {
     "symbol": {
       "primary": "STD",
-      "narrow": "Db"
+      "narrow": "STD"
     },
     "decimal": ",",
     "group": " ",
