@@ -1890,6 +1890,16 @@
     }
   },
   {
+    "id": "el-GR",
+    "name": "Greek - Greece",
+    "country": "GRC",
+    "language": "el",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "gu",
     "name": "Gujarati - Guam",
     "country": "GUM",
