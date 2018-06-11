@@ -1,6 +1,6 @@
 {
   "af-NA": {
-    "symbol": "ZAR",
+    "symbol": "NAD",
     "decimal": ",",
     "group": " ",
     "precision": 2,
@@ -707,7 +707,7 @@
     "format": "%s%v"
   },
   "en-NA": {
-    "symbol": "ZAR",
+    "symbol": "NAD",
     "decimal": ".",
     "group": ",",
     "precision": 2,

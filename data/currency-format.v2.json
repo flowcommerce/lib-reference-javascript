@@ -1,8 +1,8 @@
 {
   "af-NA": {
     "symbol": {
-      "primary": "ZAR",
-      "narrow": "R"
+      "primary": "NAD",
+      "narrow": "$"
     },
     "decimal": ",",
     "group": " ",
@@ -1011,8 +1011,8 @@
   },
   "en-NA": {
     "symbol": {
-      "primary": "ZAR",
-      "narrow": "R"
+      "primary": "NAD",
+      "narrow": "$"
     },
     "decimal": ".",
     "group": ",",
