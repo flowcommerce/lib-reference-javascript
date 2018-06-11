@@ -335,6 +335,13 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "el-GR": {
+    "symbol": "€",
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "en-AG": {
     "symbol": "EC$",
     "decimal": ".",

@@ -479,6 +479,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "el-GR": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "en-AG": {
     "symbol": {
       "primary": "EC$",
