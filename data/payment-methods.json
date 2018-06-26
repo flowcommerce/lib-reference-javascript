@@ -75,6 +75,31 @@
     ]
   },
   {
+    "id": "bankTransfer_IBAN",
+    "type": "online",
+    "name": "International Bank Transfer (IBAN)",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bankTransfer_IBAN/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bankTransfer_IBAN/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bankTransfer_IBAN/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "bitcoin",
     "type": "online",
     "name": "Bitcoin",
@@ -91,6 +116,31 @@
       },
       "large": {
         "url": "https://flowcdn.io/util/logos/payment-methods/bitcoin/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "bitpay",
+    "type": "online",
+    "name": "BitPay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bitpay/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bitpay/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bitpay/120/original.png",
         "width": 256,
         "height": 256
       }
@@ -252,6 +302,131 @@
     ]
   },
   {
+    "id": "dotpay",
+    "type": "online",
+    "name": "Dotpay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dotpay/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dotpay/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dotpay/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "dragonpay_ebanking",
+    "type": "online",
+    "name": "Dragonpay eBanking",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_ebanking/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_ebanking/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_ebanking/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "dragonpay_gcash",
+    "type": "online",
+    "name": "GCash via Dragonpay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_gcash/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_gcash/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_gcash/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "dragonpay_otc_banking",
+    "type": "online",
+    "name": "Dragonpay OTC",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_otc_banking/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_otc_banking/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/dragonpay_otc_banking/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "ebanking_FI",
+    "type": "online",
+    "name": "Finnish E-Banking",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/ebanking_FI/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/ebanking_FI/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/ebanking_FI/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "giropay",
     "type": "online",
     "name": "GiroPay",
@@ -302,6 +477,31 @@
     ]
   },
   {
+    "id": "interac",
+    "type": "online",
+    "name": "Interac Online",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/interac/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/interac/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/interac/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "jcb",
     "type": "card",
     "name": "Jcb",
@@ -324,6 +524,81 @@
     },
     "regions": [
       "jpn"
+    ]
+  },
+  {
+    "id": "kcp_banktransfer",
+    "type": "online",
+    "name": "Bank Transfer via KCP",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_banktransfer/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_banktransfer/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_banktransfer/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "kcp_creditcard",
+    "type": "online",
+    "name": "Credit Card via KCP",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_creditcard/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_creditcard/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_creditcard/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "kcp_payco",
+    "type": "online",
+    "name": "PayCo",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_payco/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_payco/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/kcp_payco/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
     ]
   },
   {
@@ -403,6 +678,56 @@
     ]
   },
   {
+    "id": "molpay_points",
+    "type": "online",
+    "name": "MOLPoints via MOLPay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/molpay_points/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/molpay_points/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/molpay_points/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "multibanco",
+    "type": "online",
+    "name": "Multibanco",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/multibanco/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/multibanco/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/multibanco/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
     "id": "paypal",
     "type": "online",
     "name": "PayPal",
@@ -469,6 +794,56 @@
       },
       "large": {
         "url": "https://flowcdn.io/util/logos/payment-methods/sepadirectdebit/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "trustly",
+    "type": "online",
+    "name": "Trustly",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/trustly/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/trustly/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/trustly/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ]
+  },
+  {
+    "id": "trustpay",
+    "type": "online",
+    "name": "TrustPay",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/trustpay/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/trustpay/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/trustpay/120/original.png",
         "width": 256,
         "height": 256
       }
