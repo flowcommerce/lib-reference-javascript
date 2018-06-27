@@ -13,6 +13,7 @@
       "COM",
       "CPV",
       "DJI",
+      "DZA",
       "EGY",
       "ETH",
       "GAB",
@@ -24,6 +25,7 @@
       "KEN",
       "LBY",
       "LSO",
+      "MAR",
       "MLI",
       "MRT",
       "MUS",
@@ -52,6 +54,7 @@
       "BWP",
       "CVE",
       "DJF",
+      "DZD",
       "EGP",
       "ETB",
       "EUR",
@@ -61,6 +64,7 @@
       "KES",
       "KMF",
       "LYD",
+      "MAD",
       "MRO",
       "MUR",
       "MWK",
@@ -132,6 +136,23 @@
     ],
     "languages": [
       "sq"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "dza",
+    "name": "Algeria",
+    "countries": [
+      "DZA"
+    ],
+    "currencies": [
+      "DZD"
+    ],
+    "languages": [
+      "ar"
     ],
     "measurement_systems": [
       "metric"
@@ -1274,6 +1295,7 @@
       "EST",
       "FIN",
       "FRA",
+      "FRO",
       "GBR",
       "GGY",
       "GIB",
@@ -1581,6 +1603,7 @@
       "PRT",
       "REU",
       "SMR",
+      "SPM",
       "SVK",
       "SVN"
     ],
@@ -1628,6 +1651,23 @@
       "FKP"
     ],
     "languages": [],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "fro",
+    "name": "Faroe Islands",
+    "countries": [
+      "FRO"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "languages": [
+      "da"
+    ],
     "measurement_systems": [
       "metric"
     ],
@@ -2768,6 +2808,23 @@
     "timezones": []
   },
   {
+    "id": "mar",
+    "name": "Morocco",
+    "countries": [
+      "MAR"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "languages": [
+      "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
     "id": "nam",
     "name": "Namibia",
     "countries": [
@@ -2978,6 +3035,8 @@
       "NIC",
       "PAN",
       "SLV",
+      "SPM",
+      "SXM",
       "TCA",
       "TTO",
       "USA",
@@ -3084,6 +3143,7 @@
       "TON",
       "TUV",
       "VUT",
+      "WLF",
       "WSM"
     ],
     "currencies": [
@@ -3496,6 +3556,23 @@
     "timezones": []
   },
   {
+    "id": "spm",
+    "name": "Saint Pierre and Miquelon",
+    "countries": [
+      "SPM"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
     "id": "vct",
     "name": "Saint Vincent and the Grenadines",
     "countries": [
@@ -3665,6 +3742,24 @@
       "ms",
       "ta",
       "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sxm",
+    "name": "Sint Maarten",
+    "countries": [
+      "SXM"
+    ],
+    "currencies": [
+      "ANG"
+    ],
+    "languages": [
+      "en",
+      "nl"
     ],
     "measurement_systems": [
       "metric"
@@ -4258,6 +4353,23 @@
     "timezones": []
   },
   {
+    "id": "wlf",
+    "name": "Wallis and Futuna Islands",
+    "countries": [
+      "WLF"
+    ],
+    "currencies": [
+      "XPF"
+    ],
+    "languages": [
+      "fr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
     "id": "world",
     "name": "World",
     "countries": [
@@ -4313,6 +4425,7 @@
       "DMA",
       "DNK",
       "DOM",
+      "DZA",
       "ECU",
       "EGY",
       "ESP",
@@ -4322,6 +4435,7 @@
       "FJI",
       "FLK",
       "FRA",
+      "FRO",
       "FSM",
       "GAB",
       "GBR",
@@ -4376,6 +4490,7 @@
       "LVA",
       "MAC",
       "MAF",
+      "MAR",
       "MCO",
       "MDA",
       "MDV",
@@ -4429,12 +4544,14 @@
       "SLV",
       "SMR",
       "SOM",
+      "SPM",
       "SRB",
       "STP",
       "SVK",
       "SVN",
       "SWE",
       "SWZ",
+      "SXM",
       "SYC",
       "TCA",
       "TCD",
@@ -4457,6 +4574,7 @@
       "VGB",
       "VNM",
       "VUT",
+      "WLF",
       "WSM",
       "YEM",
       "ZAF",
@@ -4494,6 +4612,7 @@
       "DJF",
       "DKK",
       "DOP",
+      "DZD",
       "EGP",
       "ETB",
       "EUR",
@@ -4530,6 +4649,7 @@
       "LBP",
       "LKR",
       "LYD",
+      "MAD",
       "MDL",
       "MNT",
       "MOP",

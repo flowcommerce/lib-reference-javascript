@@ -12,6 +12,18 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Algeria",
+    "iso_3166_2": "DZ",
+    "iso_3166_3": "DZA",
+    "measurement_system": "metric",
+    "default_currency": "DZD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "American Samoa",
     "iso_3166_2": "AS",
     "iso_3166_3": "ASM",
@@ -723,6 +735,17 @@
     "languages": [],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Faroe Islands",
+    "iso_3166_2": "FO",
+    "iso_3166_3": "FRO",
+    "measurement_system": "metric",
+    "default_currency": "DKK",
+    "languages": [
+      "da"
+    ],
+    "timezones": []
   },
   {
     "name": "Fiji",
@@ -1534,6 +1557,18 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Morocco",
+    "iso_3166_2": "MA",
+    "iso_3166_3": "MAR",
+    "measurement_system": "metric",
+    "default_currency": "MAD",
+    "languages": [
+      "ar"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "Namibia",
     "iso_3166_2": "NA",
     "iso_3166_3": "NAM",
@@ -1952,6 +1987,18 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Saint Pierre and Miquelon",
+    "iso_3166_2": "PM",
+    "iso_3166_3": "SPM",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "Saint Vincent and the Grenadines",
     "iso_3166_2": "VC",
     "iso_3166_3": "VCT",
@@ -2073,6 +2120,19 @@
       "ms",
       "ta",
       "zh"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Sint Maarten",
+    "iso_3166_2": "SX",
+    "iso_3166_3": "SXM",
+    "measurement_system": "metric",
+    "default_currency": "ANG",
+    "languages": [
+      "en",
+      "nl"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
@@ -2462,6 +2522,18 @@
     "default_currency": "VND",
     "languages": [
       "vi"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Wallis and Futuna Islands",
+    "iso_3166_2": "WF",
+    "iso_3166_3": "WLF",
+    "measurement_system": "metric",
+    "default_currency": "XPF",
+    "languages": [
+      "fr"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"

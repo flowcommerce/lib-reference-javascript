@@ -14,7 +14,8 @@
     "number_decimals": 2,
     "symbols": {
       "primary": "DZD"
-    }
+    },
+    "default_locale": "ar-DZ"
   },
   {
     "name": "Antillian Guilder",
@@ -742,7 +743,8 @@
     "number_decimals": 2,
     "symbols": {
       "primary": "MAD"
-    }
+    },
+    "default_locale": "ar-MA"
   },
   {
     "name": "Namibian Dollar",

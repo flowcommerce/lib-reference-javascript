@@ -51,12 +51,14 @@
       "BHR",
       "COM",
       "DJI",
+      "DZA",
       "EGY",
       "ISR",
       "JOR",
       "KWT",
       "LBN",
       "LBY",
+      "MAR",
       "MRT",
       "NER",
       "OMN",
@@ -236,7 +238,8 @@
     "name": "Danish",
     "iso_639_2": "da",
     "countries": [
-      "DNK"
+      "DNK",
+      "FRO"
     ],
     "locales": [
       "da-DK"
@@ -259,7 +262,8 @@
       "ABW",
       "BEL",
       "CUW",
-      "NLD"
+      "NLD",
+      "SXM"
     ],
     "locales": [
       "nl",
@@ -323,6 +327,7 @@
       "SLB",
       "SLE",
       "SWZ",
+      "SXM",
       "SYC",
       "TON",
       "TTO",
@@ -426,10 +431,12 @@
       "REU",
       "RWA",
       "SEN",
+      "SPM",
       "SYC",
       "TCD",
       "TGO",
-      "VUT"
+      "VUT",
+      "WLF"
     ],
     "locales": [
       "fr",

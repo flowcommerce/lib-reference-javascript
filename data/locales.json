@@ -40,6 +40,16 @@
     }
   },
   {
+    "id": "ar-DZ",
+    "name": "Arabic - Algeria",
+    "country": "DZA",
+    "language": "ar",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "ar",
     "name": "Arabic - Argentina",
     "country": "ARG",
@@ -163,6 +173,16 @@
     "id": "ar-MR",
     "name": "Arabic - Mauritania",
     "country": "MRT",
+    "language": "ar",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
+    "id": "ar-MA",
+    "name": "Arabic - Morocco",
+    "country": "MAR",
     "language": "ar",
     "numbers": {
       "decimal": ",",
@@ -440,6 +460,16 @@
     }
   },
   {
+    "id": "da-FO",
+    "name": "Danish - Faroe Islands",
+    "country": "FRO",
+    "language": "da",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "da-GL",
     "name": "Danish - Greenland",
     "country": "GRL",
@@ -490,6 +520,16 @@
     }
   },
   {
+    "id": "nl-SX",
+    "name": "Dutch - Sint Maarten",
+    "country": "SXM",
+    "language": "nl",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "nl",
     "name": "Dutch - The Netherlands",
     "country": "NLD",
@@ -500,9 +540,9 @@
     }
   },
   {
-    "id": "dz-BT",
-    "name": "Dzongkha - Bhutan",
-    "country": "BTN",
+    "id": "dz",
+    "name": "Dzongkha - Algeria",
+    "country": "DZA",
     "language": "dz",
     "numbers": {
       "decimal": ".",
@@ -1200,6 +1240,16 @@
     }
   },
   {
+    "id": "en-SX",
+    "name": "English - Sint Maarten",
+    "country": "SXM",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "en-SI",
     "name": "English - Slovenia",
     "country": "SVN",
@@ -1394,6 +1444,16 @@
     "name": "Finnish - Finland",
     "country": "FIN",
     "language": "fi",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
+    "id": "fr-DZ",
+    "name": "French - Algeria",
+    "country": "DZA",
+    "language": "fr",
     "numbers": {
       "decimal": ",",
       "group": " "
@@ -1660,6 +1720,16 @@
     }
   },
   {
+    "id": "fr-MA",
+    "name": "French - Morocco",
+    "country": "MAR",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "fr-NC",
     "name": "French - New Caledonia",
     "country": "NCL",
@@ -1720,6 +1790,16 @@
     }
   },
   {
+    "id": "fr-PM",
+    "name": "French - Saint Pierre and Miquelon",
+    "country": "SPM",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
     "id": "fr-SN",
     "name": "French - Senegal",
     "country": "SEN",
@@ -1763,6 +1843,16 @@
     "id": "fr-VU",
     "name": "French - Vanuatu",
     "country": "VUT",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
+    "id": "fr-WF",
+    "name": "French - Wallis and Futuna Islands",
+    "country": "WLF",
     "language": "fr",
     "numbers": {
       "decimal": ",",
