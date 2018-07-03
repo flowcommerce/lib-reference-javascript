@@ -3,6 +3,7 @@
     "id": "africa",
     "name": "Africa",
     "countries": [
+      "AGO",
       "BEN",
       "BFA",
       "BWA",
@@ -26,7 +27,9 @@
       "LBY",
       "LSO",
       "MAR",
+      "MDG",
       "MLI",
+      "MOZ",
       "MRT",
       "MUS",
       "MWI",
@@ -40,6 +43,7 @@
       "SHN",
       "SLE",
       "SOM",
+      "SSD",
       "STP",
       "SWZ",
       "SYC",
@@ -51,6 +55,7 @@
       "ZMB"
     ],
     "currencies": [
+      "AOA",
       "BWP",
       "CVE",
       "DJF",
@@ -99,8 +104,10 @@
       "ha",
       "ig",
       "kg",
+      "kj",
       "kr",
       "ln",
+      "mg",
       "nd",
       "nr",
       "ny",
@@ -185,6 +192,25 @@
     ],
     "languages": [
       "ca"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ago",
+    "name": "Angola",
+    "countries": [
+      "AGO"
+    ],
+    "currencies": [
+      "AOA"
+    ],
+    "languages": [
+      "kg",
+      "kj",
+      "pt"
     ],
     "measurement_systems": [
       "metric"
@@ -309,10 +335,13 @@
       "OMN",
       "PAK",
       "PHL",
+      "PRK",
       "QAT",
       "SAU",
       "SGP",
       "THA",
+      "TJK",
+      "TKM",
       "TUR",
       "TWN",
       "UZB",
@@ -327,6 +356,7 @@
       "BHD",
       "BND",
       "CNY",
+      "EUR",
       "GEL",
       "HKD",
       "IDR",
@@ -367,6 +397,7 @@
       "dv",
       "dz",
       "en",
+      "fa",
       "gu",
       "he",
       "hi",
@@ -388,7 +419,9 @@
       "si",
       "ta",
       "te",
+      "tg",
       "th",
+      "tk",
       "tl",
       "tr",
       "ur",
@@ -1102,6 +1135,23 @@
     "timezones": []
   },
   {
+    "id": "prk",
+    "name": "Democratic People's Republic of Korea",
+    "countries": [
+      "PRK"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "ko"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
     "id": "dnk",
     "name": "Denmark",
     "countries": [
@@ -1595,17 +1645,24 @@
       "LVA",
       "MAF",
       "MCO",
+      "MDG",
       "MLT",
       "MNE",
+      "MOZ",
       "MTQ",
       "MYT",
       "NLD",
+      "PRK",
       "PRT",
       "REU",
       "SMR",
       "SPM",
+      "SSD",
+      "SUR",
       "SVK",
-      "SVN"
+      "SVN",
+      "TJK",
+      "TKM"
     ],
     "currencies": [
       "EUR"
@@ -1618,19 +1675,25 @@
       "en",
       "es",
       "et",
+      "fa",
       "fi",
       "fr",
       "ga",
       "it",
+      "ko",
       "lb",
       "lt",
       "lv",
+      "mg",
       "mt",
       "nl",
       "pt",
+      "ru",
       "sk",
       "sl",
       "sv",
+      "tg",
+      "tk",
       "tr"
     ],
     "measurement_systems": [
@@ -2529,6 +2592,24 @@
     "timezones": []
   },
   {
+    "id": "mdg",
+    "name": "Madagascar",
+    "countries": [
+      "MDG"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fr",
+      "mg"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
     "id": "mwi",
     "name": "Malawi",
     "countries": [
@@ -2818,6 +2899,23 @@
     ],
     "languages": [
       "ar"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "moz",
+    "name": "Mozambique",
+    "countries": [
+      "MOZ"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "pt"
     ],
     "measurement_systems": [
       "metric"
@@ -3879,6 +3977,7 @@
       "GUY",
       "PER",
       "PRY",
+      "SUR",
       "URY",
       "VEN"
     ],
@@ -3903,8 +4002,26 @@
       "es",
       "fr",
       "gn",
+      "nl",
       "pt",
       "qu"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "ssd",
+    "name": "South Sudan",
+    "countries": [
+      "SSD"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "en"
     ],
     "measurement_systems": [
       "metric"
@@ -3941,6 +4058,23 @@
       "en",
       "si",
       "ta"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "sur",
+    "name": "Suriname",
+    "countries": [
+      "SUR"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "nl"
     ],
     "measurement_systems": [
       "metric"
@@ -4013,6 +4147,25 @@
     ],
     "languages": [
       "zh"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tjk",
+    "name": "Tajikistan",
+    "countries": [
+      "TJK"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "fa",
+      "ru",
+      "tg"
     ],
     "measurement_systems": [
       "metric"
@@ -4116,6 +4269,23 @@
     ],
     "languages": [
       "tr"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "tkm",
+    "name": "Turkmenistan",
+    "countries": [
+      "TKM"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "tk"
     ],
     "measurement_systems": [
       "metric"
@@ -4374,6 +4544,7 @@
     "name": "World",
     "countries": [
       "ABW",
+      "AGO",
       "AIA",
       "ALB",
       "AND",
@@ -4493,6 +4664,7 @@
       "MAR",
       "MCO",
       "MDA",
+      "MDG",
       "MDV",
       "MEX",
       "MHL",
@@ -4501,6 +4673,7 @@
       "MNE",
       "MNG",
       "MNP",
+      "MOZ",
       "MRT",
       "MSR",
       "MTQ",
@@ -4527,6 +4700,7 @@
       "PLW",
       "PNG",
       "POL",
+      "PRK",
       "PRT",
       "PRY",
       "PYF",
@@ -4546,7 +4720,9 @@
       "SOM",
       "SPM",
       "SRB",
+      "SSD",
       "STP",
+      "SUR",
       "SVK",
       "SVN",
       "SWE",
@@ -4557,6 +4733,8 @@
       "TCD",
       "TGO",
       "THA",
+      "TJK",
+      "TKM",
       "TLS",
       "TON",
       "TTO",
@@ -4585,6 +4763,7 @@
       "ALL",
       "AMD",
       "ANG",
+      "AOA",
       "ARS",
       "AUD",
       "AWG",
@@ -4735,6 +4914,7 @@
       "en",
       "es",
       "et",
+      "fa",
       "ff",
       "fi",
       "fj",
@@ -4757,6 +4937,7 @@
       "ja",
       "ka",
       "kg",
+      "kj",
       "kk",
       "km",
       "ko",
@@ -4767,6 +4948,7 @@
       "lo",
       "lt",
       "lv",
+      "mg",
       "mh",
       "mi",
       "mn",
@@ -4801,7 +4983,9 @@
       "sw",
       "ta",
       "te",
+      "tg",
       "th",
+      "tk",
       "tl",
       "tn",
       "tr",

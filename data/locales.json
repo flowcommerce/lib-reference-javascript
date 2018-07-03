@@ -970,6 +970,16 @@
     }
   },
   {
+    "id": "en-MG",
+    "name": "English - Madagascar",
+    "country": "MDG",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "en-MW",
     "name": "English - Malawi",
     "country": "MWI",
@@ -1660,6 +1670,16 @@
     }
   },
   {
+    "id": "fr-MG",
+    "name": "French - Madagascar",
+    "country": "MDG",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
     "id": "fr-ML",
     "name": "French - Mali",
     "country": "MLI",
@@ -2150,6 +2170,16 @@
     }
   },
   {
+    "id": "ko-KP",
+    "name": "Korean - Democratic People's Republic of Korea",
+    "country": "PRK",
+    "language": "ko",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "ky",
     "name": "Kyrgyz - Cayman Islands",
     "country": "CYM",
@@ -2177,6 +2207,16 @@
     "numbers": {
       "decimal": ",",
       "group": " "
+    }
+  },
+  {
+    "id": "ln-AO",
+    "name": "Lingala - Angola",
+    "country": "AGO",
+    "language": "ln",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
     }
   },
   {
@@ -2227,6 +2267,16 @@
     "numbers": {
       "decimal": ",",
       "group": "."
+    }
+  },
+  {
+    "id": "mg",
+    "name": "Malagasy - Madagascar",
+    "country": "MDG",
+    "language": "mg",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
     }
   },
   {
@@ -2340,6 +2390,16 @@
     }
   },
   {
+    "id": "pt-AO",
+    "name": "Portuguese - Angola",
+    "country": "AGO",
+    "language": "pt",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
     "id": "pt-BR",
     "name": "Portuguese - Brazil",
     "country": "BRA",
@@ -2393,6 +2453,16 @@
     "id": "pt-MO",
     "name": "Portuguese - Macau",
     "country": "MAC",
+    "language": "pt",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
+    "id": "pt-MZ",
+    "name": "Portuguese - Mozambique",
+    "country": "MOZ",
     "language": "pt",
     "numbers": {
       "decimal": ",",
@@ -2997,6 +3067,16 @@
     "numbers": {
       "decimal": ",",
       "group": "."
+    }
+  },
+  {
+    "id": "tk-TM",
+    "name": "Turkmen - Turkmenistan",
+    "country": "TKM",
+    "language": "tk",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
     }
   },
   {

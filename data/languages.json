@@ -263,6 +263,7 @@
       "BEL",
       "CUW",
       "NLD",
+      "SUR",
       "SXM"
     ],
     "locales": [
@@ -326,6 +327,7 @@
       "SGP",
       "SLB",
       "SLE",
+      "SSD",
       "SWZ",
       "SXM",
       "SYC",
@@ -421,6 +423,7 @@
       "JEY",
       "LUX",
       "MCO",
+      "MDG",
       "MLI",
       "MTQ",
       "MUS",
@@ -680,6 +683,7 @@
     "name": "Kongo",
     "iso_639_2": "kg",
     "countries": [
+      "AGO",
       "COG"
     ],
     "locales": []
@@ -688,7 +692,8 @@
     "name": "Korean",
     "iso_639_2": "ko",
     "countries": [
-      "KOR"
+      "KOR",
+      "PRK"
     ],
     "locales": [
       "ko-KR"
@@ -703,7 +708,9 @@
   {
     "name": "Kwanyama",
     "iso_639_2": "kj",
-    "countries": [],
+    "countries": [
+      "AGO"
+    ],
     "locales": []
   },
   {
@@ -783,7 +790,9 @@
   {
     "name": "Malagasy",
     "iso_639_2": "mg",
-    "countries": [],
+    "countries": [
+      "MDG"
+    ],
     "locales": []
   },
   {
@@ -897,7 +906,9 @@
   {
     "name": "Persian",
     "iso_639_2": "fa",
-    "countries": [],
+    "countries": [
+      "TJK"
+    ],
     "locales": [
       "fa-IR"
     ]
@@ -916,11 +927,13 @@
     "name": "Portuguese",
     "iso_639_2": "pt",
     "countries": [
+      "AGO",
       "BRA",
       "CPV",
       "GNB",
       "GNQ",
       "MAC",
+      "MOZ",
       "PRT",
       "STP",
       "TLS"
@@ -964,7 +977,8 @@
     "countries": [
       "KAZ",
       "KGZ",
-      "RUS"
+      "RUS",
+      "TJK"
     ],
     "locales": [
       "ru"
@@ -1141,7 +1155,9 @@
   {
     "name": "Tajik",
     "iso_639_2": "tg",
-    "countries": [],
+    "countries": [
+      "TJK"
+    ],
     "locales": []
   },
   {
@@ -1215,7 +1231,9 @@
   {
     "name": "Turkmen",
     "iso_639_2": "tk",
-    "countries": [],
+    "countries": [
+      "TKM"
+    ],
     "locales": []
   },
   {

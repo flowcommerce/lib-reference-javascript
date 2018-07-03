@@ -46,6 +46,19 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Angola",
+    "iso_3166_2": "AO",
+    "iso_3166_3": "AGO",
+    "measurement_system": "metric",
+    "default_currency": "AOA",
+    "languages": [
+      "kg",
+      "kj",
+      "pt"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Anguilla",
     "iso_3166_2": "AI",
     "iso_3166_3": "AIA",
@@ -600,6 +613,17 @@
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Democratic People's Republic of Korea",
+    "iso_3166_2": "KP",
+    "iso_3166_3": "PRK",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "ko"
+    ],
+    "timezones": []
   },
   {
     "name": "Denmark",
@@ -1358,6 +1382,18 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Madagascar",
+    "iso_3166_2": "MG",
+    "iso_3166_3": "MDG",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fr",
+      "mg"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Malawi",
     "iso_3166_2": "MW",
     "iso_3166_3": "MWI",
@@ -1567,6 +1603,17 @@
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Mozambique",
+    "iso_3166_2": "MZ",
+    "iso_3166_3": "MOZ",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "pt"
+    ],
+    "timezones": []
   },
   {
     "name": "Namibia",
@@ -2211,6 +2258,17 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "South Sudan",
+    "iso_3166_2": "SS",
+    "iso_3166_3": "SSD",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "en"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Spain",
     "iso_3166_2": "ES",
     "iso_3166_3": "ESP",
@@ -2235,6 +2293,17 @@
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Suriname",
+    "iso_3166_2": "SR",
+    "iso_3166_3": "SUR",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "nl"
+    ],
+    "timezones": []
   },
   {
     "name": "Swaziland",
@@ -2287,6 +2356,19 @@
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tajikistan",
+    "iso_3166_2": "TJ",
+    "iso_3166_3": "TJK",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "fa",
+      "ru",
+      "tg"
+    ],
+    "timezones": []
   },
   {
     "name": "Thailand",
@@ -2360,6 +2442,17 @@
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Turkmenistan",
+    "iso_3166_2": "TM",
+    "iso_3166_3": "TKM",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "tk"
+    ],
+    "timezones": []
   },
   {
     "name": "Turks and Caicos Islands",

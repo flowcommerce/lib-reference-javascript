@@ -598,6 +598,16 @@
     "default_locale": "ar-KW"
   },
   {
+    "name": "Kwanza",
+    "iso_4217_3": "AOA",
+    "number_decimals": 2,
+    "symbols": {
+      "primary": "AOA",
+      "narrow": "Kz"
+    },
+    "default_locale": "pt-AO"
+  },
+  {
     "name": "Kyrgyzstan Som",
     "iso_4217_3": "KGS",
     "number_decimals": 2,
@@ -661,6 +671,15 @@
       "primary": "MOP"
     },
     "default_locale": "zh-MO"
+  },
+  {
+    "name": "Malagasy Ariary",
+    "iso_4217_3": "MGA",
+    "number_decimals": 2,
+    "symbols": {
+      "primary": "MGA",
+      "narrow": "Ar"
+    }
   },
   {
     "name": "Malawi Kwacha",
@@ -745,6 +764,14 @@
       "primary": "MAD"
     },
     "default_locale": "ar-MA"
+  },
+  {
+    "name": "Mozambique Metical",
+    "iso_4217_3": "MZN",
+    "number_decimals": 2,
+    "symbols": {
+      "primary": "MZN"
+    }
   },
   {
     "name": "Namibian Dollar",
@@ -1069,6 +1096,14 @@
     "default_locale": "ar-SO"
   },
   {
+    "name": "Somoni",
+    "iso_4217_3": "TJS",
+    "number_decimals": 2,
+    "symbols": {
+      "primary": "TJS"
+    }
+  },
+  {
     "name": "South African Rand",
     "iso_4217_3": "ZAR",
     "number_decimals": 2,
@@ -1104,6 +1139,15 @@
     "symbols": {
       "primary": "SHP",
       "narrow": "£"
+    }
+  },
+  {
+    "name": "Surinam Dollar",
+    "iso_4217_3": "SRD",
+    "number_decimals": 2,
+    "symbols": {
+      "primary": "SRD",
+      "narrow": "$"
     }
   },
   {
@@ -1178,6 +1222,14 @@
     "number_decimals": 3,
     "symbols": {
       "primary": "TND"
+    }
+  },
+  {
+    "name": "Turkmenistan New Manat",
+    "iso_4217_3": "TMT",
+    "number_decimals": 2,
+    "symbols": {
+      "primary": "TMT"
     }
   },
   {

@@ -48,6 +48,13 @@
     "precision": 0,
     "format": "%s%v"
   },
+  "ar-DZ": {
+    "symbol": "DZD",
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "ar-EG": {
     "symbol": "EGP",
     "decimal": ".",
@@ -102,6 +109,13 @@
     "decimal": ",",
     "group": ".",
     "precision": 3,
+    "format": "%s%v"
+  },
+  "ar-MA": {
+    "symbol": "MAD",
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
     "format": "%s%v"
   },
   "ar-MR": {
@@ -251,6 +265,13 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "da-FO": {
+    "symbol": "DKK",
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "da-GL": {
     "symbol": "DKK",
     "decimal": ",",
@@ -307,8 +328,8 @@
     "precision": 2,
     "format": "%s%v"
   },
-  "dz-BT": {
-    "symbol": "₹",
+  "dz": {
+    "symbol": "DZD",
     "decimal": ".",
     "group": ",",
     "precision": 2,
@@ -839,6 +860,13 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "en-SX": {
+    "symbol": "ANG",
+    "decimal": ".",
+    "group": ",",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "en-SZ": {
     "symbol": "SZL",
     "decimal": ".",
@@ -1210,6 +1238,13 @@
     "precision": 0,
     "format": "%s%v"
   },
+  "fr-DZ": {
+    "symbol": "DZD",
+    "decimal": ",",
+    "group": " ",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "fr-GA": {
     "symbol": "FCFA",
     "decimal": ",",
@@ -1261,6 +1296,13 @@
   },
   "fr-LU": {
     "symbol": "€",
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "fr-MA": {
+    "symbol": "MAD",
     "decimal": ",",
     "group": ".",
     "precision": 2,
@@ -1329,6 +1371,13 @@
     "precision": 0,
     "format": "%s%v"
   },
+  "fr-PM": {
+    "symbol": "€",
+    "decimal": ",",
+    "group": " ",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "fr-RE": {
     "symbol": "€",
     "decimal": ",",
@@ -1373,6 +1422,13 @@
   },
   "fr-VU": {
     "symbol": "VUV",
+    "decimal": ",",
+    "group": " ",
+    "precision": 0,
+    "format": "%s%v"
+  },
+  "fr-WF": {
+    "symbol": "CFPF",
     "decimal": ",",
     "group": " ",
     "precision": 0,
@@ -1666,6 +1722,13 @@
     "format": "%s%v"
   },
   "nl-CW": {
+    "symbol": "ANG",
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "nl-SX": {
     "symbol": "ANG",
     "decimal": ",",
     "group": ".",
