@@ -622,7 +622,8 @@
       "HRV",
       "ITA",
       "SMR",
-      "SVN"
+      "SVN",
+      "VAT"
     ],
     "locales": [
       "it",
@@ -734,7 +735,9 @@
   {
     "name": "Latin",
     "iso_639_2": "la",
-    "countries": [],
+    "countries": [
+      "VAT"
+    ],
     "locales": []
   },
   {

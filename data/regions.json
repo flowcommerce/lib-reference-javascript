@@ -1375,7 +1375,8 @@
       "SVK",
       "SVN",
       "SWE",
-      "UKR"
+      "UKR",
+      "VAT"
     ],
     "currencies": [
       "ALL",
@@ -1418,6 +1419,7 @@
       "hu",
       "is",
       "it",
+      "la",
       "lb",
       "lt",
       "lv",
@@ -1662,7 +1664,8 @@
       "SVK",
       "SVN",
       "TJK",
-      "TKM"
+      "TKM",
+      "VAT"
     ],
     "currencies": [
       "EUR"
@@ -1681,6 +1684,7 @@
       "ga",
       "it",
       "ko",
+      "la",
       "lb",
       "lt",
       "lv",
@@ -2105,6 +2109,24 @@
     "languages": [
       "fr",
       "ht"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "vat",
+    "name": "Holy See",
+    "countries": [
+      "VAT"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "it",
+      "la"
     ],
     "measurement_systems": [
       "metric"
@@ -4747,6 +4769,7 @@
       "URY",
       "USA",
       "UZB",
+      "VAT",
       "VCT",
       "VEN",
       "VGB",
@@ -4943,6 +4966,7 @@
       "ko",
       "kr",
       "ky",
+      "la",
       "lb",
       "ln",
       "lo",

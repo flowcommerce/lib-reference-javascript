@@ -1037,6 +1037,19 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Holy See",
+    "iso_3166_2": "VA",
+    "iso_3166_3": "VAT",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [
+      "it",
+      "la"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "Honduras",
     "iso_3166_2": "HN",
     "iso_3166_3": "HND",
