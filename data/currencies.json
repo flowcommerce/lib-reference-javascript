@@ -503,7 +503,7 @@
   {
     "name": "Hungarian Forint",
     "iso_4217_3": "HUF",
-    "number_decimals": 2,
+    "number_decimals": 0,
     "symbols": {
       "primary": "HUF",
       "narrow": "Ft"
@@ -714,8 +714,7 @@
     "number_decimals": 1,
     "symbols": {
       "primary": "MRO"
-    },
-    "default_locale": "ar-MR"
+    }
   },
   {
     "name": "Mauritius Rupee",
@@ -799,7 +798,8 @@
     "symbols": {
       "primary": "BYN",
       "narrow": "р."
-    }
+    },
+    "default_locale": "ru-BY"
   },
   {
     "name": "New Bulgarian Lev",
@@ -996,7 +996,7 @@
   {
     "name": "Russian Ruble",
     "iso_4217_3": "RUB",
-    "number_decimals": 2,
+    "number_decimals": 0,
     "symbols": {
       "primary": "RUB",
       "narrow": "₽"
@@ -1028,8 +1028,7 @@
     "number_decimals": 2,
     "symbols": {
       "primary": "STD"
-    },
-    "default_locale": "pt-ST"
+    }
   },
   {
     "name": "Saudi Riyal",
@@ -1120,7 +1119,8 @@
     "symbols": {
       "primary": "₩",
       "narrow": "₩"
-    }
+    },
+    "default_locale": "ko-KR"
   },
   {
     "name": "Sri Lanka Rupee",
@@ -1222,7 +1222,8 @@
     "number_decimals": 3,
     "symbols": {
       "primary": "TND"
-    }
+    },
+    "default_locale": "ar-TN"
   },
   {
     "name": "Turkmenistan New Manat",
@@ -1305,8 +1306,7 @@
     "symbols": {
       "primary": "₫",
       "narrow": "₫"
-    },
-    "default_locale": "vi-VN"
+    }
   },
   {
     "name": "Yemeni Rial",

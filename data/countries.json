@@ -1,10 +1,24 @@
 [
   {
+    "name": "Afghanistan",
+    "iso_3166_2": "AF",
+    "iso_3166_3": "AFG",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "ps",
+    "languages": [
+      "fa",
+      "ps"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Albania",
     "iso_3166_2": "AL",
     "iso_3166_3": "ALB",
     "measurement_system": "metric",
     "default_currency": "ALL",
+    "default_language": "sq",
     "languages": [
       "sq"
     ],
@@ -17,6 +31,7 @@
     "iso_3166_3": "DZA",
     "measurement_system": "metric",
     "default_currency": "DZD",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -39,6 +54,7 @@
     "iso_3166_3": "AND",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "ca",
     "languages": [
       "ca"
     ],
@@ -51,6 +67,7 @@
     "iso_3166_3": "AGO",
     "measurement_system": "metric",
     "default_currency": "AOA",
+    "default_language": "kg",
     "languages": [
       "kg",
       "kj",
@@ -69,11 +86,21 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Antarctica",
+    "iso_3166_2": "AQ",
+    "iso_3166_3": "ATA",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "Antigua and Barbuda",
     "iso_3166_2": "AG",
     "iso_3166_3": "ATG",
     "measurement_system": "metric",
     "default_currency": "XCD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -86,6 +113,7 @@
     "iso_3166_3": "ARG",
     "measurement_system": "metric",
     "default_currency": "ARS",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -98,6 +126,7 @@
     "iso_3166_3": "ARM",
     "measurement_system": "metric",
     "default_currency": "AMD",
+    "default_language": "hy",
     "languages": [
       "hy"
     ],
@@ -110,6 +139,7 @@
     "iso_3166_3": "ABW",
     "measurement_system": "metric",
     "default_currency": "AWG",
+    "default_language": "nl",
     "languages": [
       "nl"
     ],
@@ -122,6 +152,7 @@
     "iso_3166_3": "AUS",
     "measurement_system": "metric",
     "default_currency": "AUD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -136,6 +167,7 @@
     "iso_3166_3": "AUT",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "de",
     "languages": [
       "de"
     ],
@@ -148,6 +180,7 @@
     "iso_3166_3": "AZE",
     "measurement_system": "metric",
     "default_currency": "AZN",
+    "default_language": "az",
     "languages": [
       "az"
     ],
@@ -160,6 +193,7 @@
     "iso_3166_3": "BHS",
     "measurement_system": "metric",
     "default_currency": "BSD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -172,6 +206,7 @@
     "iso_3166_3": "BHR",
     "measurement_system": "metric",
     "default_currency": "BHD",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -184,6 +219,7 @@
     "iso_3166_3": "BGD",
     "measurement_system": "metric",
     "default_currency": "BDT",
+    "default_language": "bn",
     "languages": [
       "bn"
     ],
@@ -196,6 +232,7 @@
     "iso_3166_3": "BRB",
     "measurement_system": "metric",
     "default_currency": "BBD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -203,11 +240,25 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Belarus",
+    "iso_3166_2": "BY",
+    "iso_3166_3": "BLR",
+    "measurement_system": "metric",
+    "default_currency": "BYN",
+    "default_language": "be",
+    "languages": [
+      "be",
+      "ru"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Belgium",
     "iso_3166_2": "BE",
     "iso_3166_3": "BEL",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "nl",
     "languages": [
       "de",
       "fr",
@@ -222,6 +273,7 @@
     "iso_3166_3": "BLZ",
     "measurement_system": "metric",
     "default_currency": "BZD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -234,6 +286,7 @@
     "iso_3166_3": "BEN",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "fr",
     "languages": [
       "ff",
       "fr",
@@ -258,6 +311,7 @@
     "iso_3166_3": "BTN",
     "measurement_system": "metric",
     "default_currency": "INR",
+    "default_language": "dz",
     "languages": [
       "dz"
     ],
@@ -270,6 +324,7 @@
     "iso_3166_3": "BOL",
     "measurement_system": "metric",
     "default_currency": "BOB",
+    "default_language": "ay",
     "languages": [
       "ay",
       "es",
@@ -295,6 +350,7 @@
     "iso_3166_3": "BIH",
     "measurement_system": "metric",
     "default_currency": "BAM",
+    "default_language": "bs",
     "languages": [
       "bs",
       "hr",
@@ -309,6 +365,7 @@
     "iso_3166_3": "BWA",
     "measurement_system": "metric",
     "default_currency": "BWP",
+    "default_language": "en",
     "languages": [
       "en",
       "tn"
@@ -317,16 +374,35 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Bouvet Island",
+    "iso_3166_2": "BV",
+    "iso_3166_3": "BVT",
+    "measurement_system": "metric",
+    "default_currency": "NOK",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "Brazil",
     "iso_3166_2": "BR",
     "iso_3166_3": "BRA",
     "measurement_system": "metric",
     "default_currency": "BRL",
+    "default_language": "pt",
     "languages": [
       "pt"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "iso_3166_2": "IO",
+    "iso_3166_3": "IOT",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": []
   },
   {
     "name": "British Virgin Islands",
@@ -344,6 +420,7 @@
     "iso_3166_3": "BRN",
     "measurement_system": "metric",
     "default_currency": "BND",
+    "default_language": "ms",
     "languages": [
       "ms"
     ],
@@ -356,6 +433,7 @@
     "iso_3166_3": "BGR",
     "measurement_system": "metric",
     "default_currency": "BGN",
+    "default_language": "bg",
     "languages": [
       "bg"
     ],
@@ -368,6 +446,7 @@
     "iso_3166_3": "BFA",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "fr",
     "languages": [
       "ff",
       "fr"
@@ -376,11 +455,25 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Burundi",
+    "iso_3166_2": "BI",
+    "iso_3166_3": "BDI",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "fr",
+    "languages": [
+      "fr",
+      "rn"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Cabo Verde",
     "iso_3166_2": "CV",
     "iso_3166_3": "CPV",
     "measurement_system": "metric",
     "default_currency": "CVE",
+    "default_language": "pt",
     "languages": [
       "pt"
     ],
@@ -393,6 +486,7 @@
     "iso_3166_3": "KHM",
     "measurement_system": "metric",
     "default_currency": "KHR",
+    "default_language": "km",
     "languages": [
       "km"
     ],
@@ -405,6 +499,7 @@
     "iso_3166_3": "CMR",
     "measurement_system": "metric",
     "default_currency": "XAF",
+    "default_language": "en",
     "languages": [
       "en",
       "fr"
@@ -418,6 +513,7 @@
     "iso_3166_3": "CAN",
     "measurement_system": "metric",
     "default_currency": "CAD",
+    "default_language": "en",
     "languages": [
       "en",
       "fr"
@@ -443,6 +539,7 @@
     "iso_3166_3": "CAF",
     "measurement_system": "metric",
     "default_currency": "XAF",
+    "default_language": "fr",
     "languages": [
       "fr",
       "sg"
@@ -456,6 +553,7 @@
     "iso_3166_3": "TCD",
     "measurement_system": "metric",
     "default_currency": "XAF",
+    "default_language": "ar",
     "languages": [
       "ar",
       "fr"
@@ -469,6 +567,7 @@
     "iso_3166_3": "CHL",
     "measurement_system": "metric",
     "default_currency": "CLP",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -481,6 +580,7 @@
     "iso_3166_3": "CHN",
     "measurement_system": "metric",
     "default_currency": "CNY",
+    "default_language": "zh",
     "languages": [
       "zh"
     ],
@@ -490,11 +590,30 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Christmas Island",
+    "iso_3166_2": "CX",
+    "iso_3166_3": "CXR",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [],
+    "timezones": []
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "iso_3166_2": "CC",
+    "iso_3166_3": "CCK",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "Colombia",
     "iso_3166_2": "CO",
     "iso_3166_3": "COL",
     "measurement_system": "metric",
     "default_currency": "COP",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -507,6 +626,7 @@
     "iso_3166_3": "COM",
     "measurement_system": "metric",
     "default_currency": "KMF",
+    "default_language": "ar",
     "languages": [
       "ar",
       "fr"
@@ -520,6 +640,7 @@
     "iso_3166_3": "COG",
     "measurement_system": "metric",
     "default_currency": "XAF",
+    "default_language": "fr",
     "languages": [
       "fr",
       "kg",
@@ -544,6 +665,7 @@
     "iso_3166_3": "CRI",
     "measurement_system": "metric",
     "default_currency": "CRC",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -556,6 +678,7 @@
     "iso_3166_3": "HRV",
     "measurement_system": "metric",
     "default_currency": "HRK",
+    "default_language": "hr",
     "languages": [
       "hr",
       "it"
@@ -564,11 +687,24 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Cuba",
+    "iso_3166_2": "CU",
+    "iso_3166_3": "CUB",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "es",
+    "languages": [
+      "es"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Curaçao",
     "iso_3166_2": "CW",
     "iso_3166_3": "CUW",
     "measurement_system": "metric",
     "default_currency": "ANG",
+    "default_language": "nl",
     "languages": [
       "en",
       "nl"
@@ -582,6 +718,7 @@
     "iso_3166_3": "CYP",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "el",
     "languages": [
       "el",
       "tr"
@@ -595,6 +732,7 @@
     "iso_3166_3": "CZE",
     "measurement_system": "metric",
     "default_currency": "CZK",
+    "default_language": "cs",
     "languages": [
       "cs",
       "sk"
@@ -608,6 +746,7 @@
     "iso_3166_3": "CIV",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -620,8 +759,25 @@
     "iso_3166_3": "PRK",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "ko",
     "languages": [
       "ko"
+    ],
+    "timezones": []
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "iso_3166_2": "CD",
+    "iso_3166_3": "COD",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "fr",
+    "languages": [
+      "fr",
+      "kg",
+      "ln",
+      "lu",
+      "sw"
     ],
     "timezones": []
   },
@@ -631,6 +787,7 @@
     "iso_3166_3": "DNK",
     "measurement_system": "metric",
     "default_currency": "DKK",
+    "default_language": "da",
     "languages": [
       "da"
     ],
@@ -643,6 +800,7 @@
     "iso_3166_3": "DJI",
     "measurement_system": "metric",
     "default_currency": "DJF",
+    "default_language": "aa",
     "languages": [
       "aa",
       "ar",
@@ -658,6 +816,7 @@
     "iso_3166_3": "DMA",
     "measurement_system": "metric",
     "default_currency": "XCD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -670,6 +829,7 @@
     "iso_3166_3": "DOM",
     "measurement_system": "metric",
     "default_currency": "DOP",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -682,6 +842,7 @@
     "iso_3166_3": "ECU",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -694,6 +855,7 @@
     "iso_3166_3": "EGY",
     "measurement_system": "metric",
     "default_currency": "EGP",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -706,6 +868,7 @@
     "iso_3166_3": "SLV",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -718,6 +881,7 @@
     "iso_3166_3": "GNQ",
     "measurement_system": "metric",
     "default_currency": "XAF",
+    "default_language": "fr",
     "languages": [
       "es",
       "fr",
@@ -727,13 +891,42 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Eritrea",
+    "iso_3166_2": "ER",
+    "iso_3166_3": "ERI",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "ar",
+    "languages": [
+      "ar",
+      "en",
+      "ti"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Estonia",
     "iso_3166_2": "EE",
     "iso_3166_3": "EST",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "et",
     "languages": [
       "et"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Eswatini",
+    "iso_3166_2": "SZ",
+    "iso_3166_3": "SWZ",
+    "measurement_system": "metric",
+    "default_currency": "SZL",
+    "default_language": "en",
+    "languages": [
+      "en",
+      "ss"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
@@ -744,6 +937,7 @@
     "iso_3166_3": "ETH",
     "measurement_system": "metric",
     "default_currency": "ETB",
+    "default_language": "am",
     "languages": [
       "am"
     ],
@@ -766,6 +960,7 @@
     "iso_3166_3": "FRO",
     "measurement_system": "metric",
     "default_currency": "DKK",
+    "default_language": "da",
     "languages": [
       "da"
     ],
@@ -777,6 +972,7 @@
     "iso_3166_3": "FJI",
     "measurement_system": "metric",
     "default_currency": "FJD",
+    "default_language": "en",
     "languages": [
       "en",
       "fj",
@@ -792,6 +988,7 @@
     "iso_3166_3": "FIN",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fi",
     "languages": [
       "fi",
       "sv"
@@ -805,6 +1002,7 @@
     "iso_3166_3": "FRA",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -819,6 +1017,7 @@
     "iso_3166_3": "GUF",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -831,6 +1030,7 @@
     "iso_3166_3": "PYF",
     "measurement_system": "metric",
     "default_currency": "XPF",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -838,11 +1038,21 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "French Southern Territories",
+    "iso_3166_2": "TF",
+    "iso_3166_3": "ATF",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "Gabon",
     "iso_3166_2": "GA",
     "iso_3166_3": "GAB",
     "measurement_system": "metric",
     "default_currency": "XAF",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -855,6 +1065,7 @@
     "iso_3166_3": "GMB",
     "measurement_system": "metric",
     "default_currency": "GMD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -867,6 +1078,7 @@
     "iso_3166_3": "GEO",
     "measurement_system": "metric",
     "default_currency": "GEL",
+    "default_language": "ka",
     "languages": [
       "ka"
     ],
@@ -879,6 +1091,7 @@
     "iso_3166_3": "DEU",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "de",
     "languages": [
       "de"
     ],
@@ -891,6 +1104,7 @@
     "iso_3166_3": "GHA",
     "measurement_system": "metric",
     "default_currency": "GHS",
+    "default_language": "ak",
     "languages": [
       "ak",
       "ee",
@@ -915,6 +1129,7 @@
     "iso_3166_3": "GRC",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "el",
     "languages": [
       "el"
     ],
@@ -937,6 +1152,7 @@
     "iso_3166_3": "GRD",
     "measurement_system": "metric",
     "default_currency": "XCD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -949,6 +1165,7 @@
     "iso_3166_3": "GLP",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -971,6 +1188,7 @@
     "iso_3166_3": "GTM",
     "measurement_system": "metric",
     "default_currency": "GTQ",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -993,6 +1211,7 @@
     "iso_3166_3": "GIN",
     "measurement_system": "metric",
     "default_currency": "GNF",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1005,6 +1224,7 @@
     "iso_3166_3": "GNB",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "pt",
     "languages": [
       "pt"
     ],
@@ -1017,6 +1237,7 @@
     "iso_3166_3": "GUY",
     "measurement_system": "metric",
     "default_currency": "GYD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1029,6 +1250,7 @@
     "iso_3166_3": "HTI",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "fr",
     "languages": [
       "fr",
       "ht"
@@ -1037,11 +1259,21 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Heard Island and McDonald Islands",
+    "iso_3166_2": "HM",
+    "iso_3166_3": "HMD",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "Holy See",
     "iso_3166_2": "VA",
     "iso_3166_3": "VAT",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "it",
     "languages": [
       "it",
       "la"
@@ -1055,6 +1287,7 @@
     "iso_3166_3": "HND",
     "measurement_system": "metric",
     "default_currency": "HNL",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -1067,6 +1300,7 @@
     "iso_3166_3": "HKG",
     "measurement_system": "metric",
     "default_currency": "HKD",
+    "default_language": "zh",
     "languages": [
       "en",
       "zh"
@@ -1080,6 +1314,7 @@
     "iso_3166_3": "HUN",
     "measurement_system": "metric",
     "default_currency": "HUF",
+    "default_language": "hu",
     "languages": [
       "hu"
     ],
@@ -1092,6 +1327,7 @@
     "iso_3166_3": "ISL",
     "measurement_system": "metric",
     "default_currency": "ISK",
+    "default_language": "is",
     "languages": [
       "is"
     ],
@@ -1104,6 +1340,7 @@
     "iso_3166_3": "IND",
     "measurement_system": "metric",
     "default_currency": "INR",
+    "default_language": "bn",
     "languages": [
       "bn",
       "en",
@@ -1122,6 +1359,7 @@
     "iso_3166_3": "IDN",
     "measurement_system": "metric",
     "default_currency": "IDR",
+    "default_language": "id",
     "languages": [
       "id",
       "ms"
@@ -1130,11 +1368,37 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Iran (Islamic Republic of)",
+    "iso_3166_2": "IR",
+    "iso_3166_3": "IRN",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "fa",
+    "languages": [
+      "fa"
+    ],
+    "timezones": []
+  },
+  {
+    "name": "Iraq",
+    "iso_3166_2": "IQ",
+    "iso_3166_3": "IRQ",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "ar",
+    "languages": [
+      "ar",
+      "ku"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Ireland",
     "iso_3166_2": "IE",
     "iso_3166_3": "IRL",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "en",
     "languages": [
       "en",
       "ga"
@@ -1145,11 +1409,22 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Isle of Man",
+    "iso_3166_2": "IM",
+    "iso_3166_3": "IMN",
+    "measurement_system": "metric",
+    "default_currency": "GBP",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "Israel",
     "iso_3166_2": "IL",
     "iso_3166_3": "ISR",
     "measurement_system": "metric",
     "default_currency": "ILS",
+    "default_language": "ar",
     "languages": [
       "ar",
       "he"
@@ -1163,6 +1438,7 @@
     "iso_3166_3": "ITA",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "it",
     "languages": [
       "de",
       "fr",
@@ -1177,6 +1453,7 @@
     "iso_3166_3": "JAM",
     "measurement_system": "metric",
     "default_currency": "JMD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1189,6 +1466,7 @@
     "iso_3166_3": "JPN",
     "measurement_system": "metric",
     "default_currency": "JPY",
+    "default_language": "ja",
     "languages": [
       "ja"
     ],
@@ -1201,6 +1479,7 @@
     "iso_3166_3": "JEY",
     "measurement_system": "metric",
     "default_currency": "GBP",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1213,6 +1492,7 @@
     "iso_3166_3": "JOR",
     "measurement_system": "metric",
     "default_currency": "JOD",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1225,6 +1505,7 @@
     "iso_3166_3": "KAZ",
     "measurement_system": "metric",
     "default_currency": "KZT",
+    "default_language": "kk",
     "languages": [
       "kk",
       "ru"
@@ -1238,6 +1519,7 @@
     "iso_3166_3": "KEN",
     "measurement_system": "metric",
     "default_currency": "KES",
+    "default_language": "en",
     "languages": [
       "en",
       "sw"
@@ -1251,6 +1533,7 @@
     "iso_3166_3": "KIR",
     "measurement_system": "metric",
     "default_currency": "AUD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1263,6 +1546,7 @@
     "iso_3166_3": "KWT",
     "measurement_system": "metric",
     "default_currency": "KWD",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1275,6 +1559,7 @@
     "iso_3166_3": "KGZ",
     "measurement_system": "metric",
     "default_currency": "KGS",
+    "default_language": "ky",
     "languages": [
       "ky",
       "ru"
@@ -1288,6 +1573,7 @@
     "iso_3166_3": "LAO",
     "measurement_system": "metric",
     "default_currency": "LAK",
+    "default_language": "lo",
     "languages": [
       "lo"
     ],
@@ -1300,6 +1586,7 @@
     "iso_3166_3": "LVA",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "lv",
     "languages": [
       "lv"
     ],
@@ -1312,6 +1599,7 @@
     "iso_3166_3": "LBN",
     "measurement_system": "metric",
     "default_currency": "LBP",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1324,6 +1612,7 @@
     "iso_3166_3": "LSO",
     "measurement_system": "metric",
     "default_currency": "ZAR",
+    "default_language": "en",
     "languages": [
       "en",
       "st"
@@ -1332,11 +1621,24 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Liberia",
+    "iso_3166_2": "LR",
+    "iso_3166_3": "LBR",
+    "measurement_system": "imperial",
+    "default_currency": "EUR",
+    "default_language": "en",
+    "languages": [
+      "en"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Libya",
     "iso_3166_2": "LY",
     "iso_3166_3": "LBY",
     "measurement_system": "metric",
     "default_currency": "LYD",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1349,6 +1651,7 @@
     "iso_3166_3": "LIE",
     "measurement_system": "metric",
     "default_currency": "CHF",
+    "default_language": "de",
     "languages": [
       "de"
     ],
@@ -1361,6 +1664,7 @@
     "iso_3166_3": "LTU",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "lt",
     "languages": [
       "lt"
     ],
@@ -1373,6 +1677,7 @@
     "iso_3166_3": "LUX",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "de",
       "fr",
@@ -1387,6 +1692,7 @@
     "iso_3166_3": "MAC",
     "measurement_system": "metric",
     "default_currency": "MOP",
+    "default_language": "zh",
     "languages": [
       "pt",
       "zh"
@@ -1400,6 +1706,7 @@
     "iso_3166_3": "MDG",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr",
       "mg"
@@ -1412,6 +1719,7 @@
     "iso_3166_3": "MWI",
     "measurement_system": "metric",
     "default_currency": "MWK",
+    "default_language": "ny",
     "languages": [
       "en",
       "ny"
@@ -1425,6 +1733,7 @@
     "iso_3166_3": "MYS",
     "measurement_system": "metric",
     "default_currency": "MYR",
+    "default_language": "en",
     "languages": [
       "en",
       "ms",
@@ -1439,6 +1748,7 @@
     "iso_3166_3": "MDV",
     "measurement_system": "metric",
     "default_currency": "MVR",
+    "default_language": "dv",
     "languages": [
       "dv"
     ],
@@ -1451,6 +1761,7 @@
     "iso_3166_3": "MLI",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "bm",
     "languages": [
       "bm",
       "ff",
@@ -1465,6 +1776,7 @@
     "iso_3166_3": "MLT",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "en",
     "languages": [
       "en",
       "mt"
@@ -1478,6 +1790,7 @@
     "iso_3166_3": "MHL",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "en",
     "languages": [
       "en",
       "mh"
@@ -1491,6 +1804,7 @@
     "iso_3166_3": "MTQ",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1502,7 +1816,8 @@
     "iso_3166_2": "MR",
     "iso_3166_3": "MRT",
     "measurement_system": "metric",
-    "default_currency": "MRO",
+    "default_currency": "EUR",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1515,6 +1830,7 @@
     "iso_3166_3": "MUS",
     "measurement_system": "metric",
     "default_currency": "MUR",
+    "default_language": "en",
     "languages": [
       "en",
       "fr",
@@ -1529,6 +1845,7 @@
     "iso_3166_3": "MYT",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1541,6 +1858,7 @@
     "iso_3166_3": "MEX",
     "measurement_system": "metric",
     "default_currency": "MXN",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -1555,6 +1873,7 @@
     "iso_3166_3": "FSM",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1567,6 +1886,7 @@
     "iso_3166_3": "MCO",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1579,6 +1899,7 @@
     "iso_3166_3": "MNG",
     "measurement_system": "metric",
     "default_currency": "MNT",
+    "default_language": "mn",
     "languages": [
       "mn"
     ],
@@ -1611,6 +1932,7 @@
     "iso_3166_3": "MAR",
     "measurement_system": "metric",
     "default_currency": "MAD",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1623,8 +1945,21 @@
     "iso_3166_3": "MOZ",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "pt",
     "languages": [
       "pt"
+    ],
+    "timezones": []
+  },
+  {
+    "name": "Myanmar",
+    "iso_3166_2": "MM",
+    "iso_3166_3": "MMR",
+    "measurement_system": "imperial",
+    "default_currency": "EUR",
+    "default_language": "my",
+    "languages": [
+      "my"
     ],
     "timezones": []
   },
@@ -1634,6 +1969,7 @@
     "iso_3166_3": "NAM",
     "measurement_system": "metric",
     "default_currency": "NAD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1646,6 +1982,7 @@
     "iso_3166_3": "NRU",
     "measurement_system": "metric",
     "default_currency": "AUD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1658,6 +1995,7 @@
     "iso_3166_3": "NPL",
     "measurement_system": "metric",
     "default_currency": "NPR",
+    "default_language": "ne",
     "languages": [
       "ne"
     ],
@@ -1670,6 +2008,7 @@
     "iso_3166_3": "NLD",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "nl",
     "languages": [
       "nl"
     ],
@@ -1682,6 +2021,7 @@
     "iso_3166_3": "NCL",
     "measurement_system": "metric",
     "default_currency": "XPF",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1694,6 +2034,7 @@
     "iso_3166_3": "NZL",
     "measurement_system": "metric",
     "default_currency": "NZD",
+    "default_language": "en",
     "languages": [
       "en",
       "mi"
@@ -1707,6 +2048,7 @@
     "iso_3166_3": "NIC",
     "measurement_system": "metric",
     "default_currency": "NIO",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -1719,6 +2061,7 @@
     "iso_3166_3": "NER",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "ar",
     "languages": [
       "ar",
       "ff",
@@ -1735,6 +2078,7 @@
     "iso_3166_3": "NGA",
     "measurement_system": "metric",
     "default_currency": "NGN",
+    "default_language": "en",
     "languages": [
       "en",
       "ha",
@@ -1755,6 +2099,16 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Norfolk Island",
+    "iso_3166_2": "NF",
+    "iso_3166_3": "NFK",
+    "measurement_system": "metric",
+    "default_currency": "AUD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "Northern Mariana Islands",
     "iso_3166_2": "MP",
     "iso_3166_3": "MNP",
@@ -1770,6 +2124,7 @@
     "iso_3166_3": "NOR",
     "measurement_system": "metric",
     "default_currency": "NOK",
+    "default_language": "no",
     "languages": [
       "nb",
       "nn",
@@ -1784,6 +2139,7 @@
     "iso_3166_3": "OMN",
     "measurement_system": "metric",
     "default_currency": "OMR",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1796,6 +2152,7 @@
     "iso_3166_3": "PAK",
     "measurement_system": "metric",
     "default_currency": "PKR",
+    "default_language": "en",
     "languages": [
       "en",
       "ur"
@@ -1809,6 +2166,7 @@
     "iso_3166_3": "PLW",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -1821,6 +2179,7 @@
     "iso_3166_3": "PAN",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -1833,6 +2192,7 @@
     "iso_3166_3": "PNG",
     "measurement_system": "metric",
     "default_currency": "PGK",
+    "default_language": "en",
     "languages": [
       "en",
       "ho"
@@ -1846,6 +2206,7 @@
     "iso_3166_3": "PRY",
     "measurement_system": "metric",
     "default_currency": "PYG",
+    "default_language": "gn",
     "languages": [
       "es",
       "gn"
@@ -1859,6 +2220,7 @@
     "iso_3166_3": "PER",
     "measurement_system": "metric",
     "default_currency": "PEN",
+    "default_language": "ay",
     "languages": [
       "ay",
       "es",
@@ -1873,10 +2235,21 @@
     "iso_3166_3": "PHL",
     "measurement_system": "metric",
     "default_currency": "PHP",
+    "default_language": "en",
     "languages": [
       "en",
       "tl"
     ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Pitcairn",
+    "iso_3166_2": "PN",
+    "iso_3166_3": "PCN",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [],
     "timezones": [],
     "default_delivered_duty": "paid"
   },
@@ -1886,6 +2259,7 @@
     "iso_3166_3": "POL",
     "measurement_system": "metric",
     "default_currency": "PLN",
+    "default_language": "pl",
     "languages": [
       "pl"
     ],
@@ -1898,8 +2272,22 @@
     "iso_3166_3": "PRT",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "pt",
     "languages": [
       "pt"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Puerto Rico",
+    "iso_3166_2": "PR",
+    "iso_3166_3": "PRI",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "default_language": "es",
+    "languages": [
+      "es"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
@@ -1910,6 +2298,7 @@
     "iso_3166_3": "QAT",
     "measurement_system": "metric",
     "default_currency": "QAR",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -1922,6 +2311,7 @@
     "iso_3166_3": "KOR",
     "measurement_system": "metric",
     "default_currency": "KRW",
+    "default_language": "ko",
     "languages": [
       "ko"
     ],
@@ -1934,6 +2324,7 @@
     "iso_3166_3": "MDA",
     "measurement_system": "metric",
     "default_currency": "MDL",
+    "default_language": "ro",
     "languages": [
       "ro"
     ],
@@ -1946,6 +2337,7 @@
     "iso_3166_3": "ROU",
     "measurement_system": "metric",
     "default_currency": "RON",
+    "default_language": "ro",
     "languages": [
       "ro"
     ],
@@ -1958,6 +2350,7 @@
     "iso_3166_3": "RUS",
     "measurement_system": "metric",
     "default_currency": "RUB",
+    "default_language": "ru",
     "languages": [
       "ru"
     ],
@@ -1970,6 +2363,7 @@
     "iso_3166_3": "RWA",
     "measurement_system": "metric",
     "default_currency": "RWF",
+    "default_language": "en",
     "languages": [
       "en",
       "fr",
@@ -1984,6 +2378,7 @@
     "iso_3166_3": "REU",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -1996,6 +2391,7 @@
     "iso_3166_3": "BLM",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -2018,6 +2414,7 @@
     "iso_3166_3": "KNA",
     "measurement_system": "metric",
     "default_currency": "XCD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2030,6 +2427,7 @@
     "iso_3166_3": "LCA",
     "measurement_system": "metric",
     "default_currency": "XCD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2052,6 +2450,7 @@
     "iso_3166_3": "SPM",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fr",
     "languages": [
       "fr"
     ],
@@ -2064,6 +2463,7 @@
     "iso_3166_3": "VCT",
     "measurement_system": "metric",
     "default_currency": "XCD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2076,6 +2476,7 @@
     "iso_3166_3": "WSM",
     "measurement_system": "metric",
     "default_currency": "WST",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2088,6 +2489,7 @@
     "iso_3166_3": "SMR",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "it",
     "languages": [
       "it"
     ],
@@ -2099,7 +2501,8 @@
     "iso_3166_2": "ST",
     "iso_3166_3": "STP",
     "measurement_system": "metric",
-    "default_currency": "STD",
+    "default_currency": "EUR",
+    "default_language": "pt",
     "languages": [
       "pt"
     ],
@@ -2112,6 +2515,7 @@
     "iso_3166_3": "SAU",
     "measurement_system": "metric",
     "default_currency": "SAR",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -2124,6 +2528,7 @@
     "iso_3166_3": "SEN",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "fr",
     "languages": [
       "ff",
       "fr",
@@ -2138,6 +2543,7 @@
     "iso_3166_3": "SRB",
     "measurement_system": "metric",
     "default_currency": "RSD",
+    "default_language": "sr",
     "languages": [
       "sr"
     ],
@@ -2150,6 +2556,7 @@
     "iso_3166_3": "SYC",
     "measurement_system": "metric",
     "default_currency": "SCR",
+    "default_language": "en",
     "languages": [
       "en",
       "fr"
@@ -2163,6 +2570,7 @@
     "iso_3166_3": "SLE",
     "measurement_system": "metric",
     "default_currency": "SLL",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2175,6 +2583,7 @@
     "iso_3166_3": "SGP",
     "measurement_system": "metric",
     "default_currency": "SGD",
+    "default_language": "zh",
     "languages": [
       "en",
       "ms",
@@ -2190,6 +2599,7 @@
     "iso_3166_3": "SXM",
     "measurement_system": "metric",
     "default_currency": "ANG",
+    "default_language": "nl",
     "languages": [
       "en",
       "nl"
@@ -2203,6 +2613,7 @@
     "iso_3166_3": "SVK",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "cs",
     "languages": [
       "cs",
       "sk"
@@ -2216,6 +2627,7 @@
     "iso_3166_3": "SVN",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "it",
     "languages": [
       "it",
       "sl"
@@ -2229,6 +2641,7 @@
     "iso_3166_3": "SLB",
     "measurement_system": "metric",
     "default_currency": "SBD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2241,6 +2654,7 @@
     "iso_3166_3": "SOM",
     "measurement_system": "metric",
     "default_currency": "SOS",
+    "default_language": "ar",
     "languages": [
       "ar",
       "so"
@@ -2254,6 +2668,7 @@
     "iso_3166_3": "ZAF",
     "measurement_system": "metric",
     "default_currency": "ZAR",
+    "default_language": "af",
     "languages": [
       "af",
       "en",
@@ -2271,11 +2686,21 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "South Georgia and the South Sandwich Islands",
+    "iso_3166_2": "GS",
+    "iso_3166_3": "SGS",
+    "measurement_system": "metric",
+    "default_currency": "GBP",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "South Sudan",
     "iso_3166_2": "SS",
     "iso_3166_3": "SSD",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2287,6 +2712,7 @@
     "iso_3166_3": "ESP",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -2299,6 +2725,7 @@
     "iso_3166_3": "LKA",
     "measurement_system": "metric",
     "default_currency": "LKR",
+    "default_language": "en",
     "languages": [
       "en",
       "si",
@@ -2308,26 +2735,46 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "State of Palestine",
+    "iso_3166_2": "PS",
+    "iso_3166_3": "PSE",
+    "measurement_system": "metric",
+    "default_currency": "JOD",
+    "languages": [],
+    "timezones": []
+  },
+  {
+    "name": "Sudan",
+    "iso_3166_2": "SD",
+    "iso_3166_3": "SDN",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "ar",
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Suriname",
     "iso_3166_2": "SR",
     "iso_3166_3": "SUR",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "nl",
     "languages": [
       "nl"
     ],
     "timezones": []
   },
   {
-    "name": "Swaziland",
-    "iso_3166_2": "SZ",
-    "iso_3166_3": "SWZ",
+    "name": "Svalbard and Jan Mayen Islands",
+    "iso_3166_2": "SJ",
+    "iso_3166_3": "SJM",
     "measurement_system": "metric",
-    "default_currency": "SZL",
-    "languages": [
-      "en",
-      "ss"
-    ],
+    "default_currency": "NOK",
+    "languages": [],
     "timezones": [],
     "default_delivered_duty": "paid"
   },
@@ -2337,6 +2784,7 @@
     "iso_3166_3": "SWE",
     "measurement_system": "metric",
     "default_currency": "SEK",
+    "default_language": "sv",
     "languages": [
       "sv"
     ],
@@ -2349,6 +2797,7 @@
     "iso_3166_3": "CHE",
     "measurement_system": "metric",
     "default_currency": "CHF",
+    "default_language": "fr",
     "languages": [
       "de",
       "fr",
@@ -2359,11 +2808,24 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Syrian Arab Republic",
+    "iso_3166_2": "SY",
+    "iso_3166_3": "SYR",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "ar",
+    "languages": [
+      "ar"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Taiwan",
     "iso_3166_2": "TW",
     "iso_3166_3": "TWN",
     "measurement_system": "metric",
     "default_currency": "TWD",
+    "default_language": "zh",
     "languages": [
       "zh"
     ],
@@ -2376,6 +2838,7 @@
     "iso_3166_3": "TJK",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "fa",
     "languages": [
       "fa",
       "ru",
@@ -2389,6 +2852,7 @@
     "iso_3166_3": "THA",
     "measurement_system": "metric",
     "default_currency": "THB",
+    "default_language": "th",
     "languages": [
       "th"
     ],
@@ -2396,11 +2860,24 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "The former Yugoslav Republic of Macedonia",
+    "iso_3166_2": "MK",
+    "iso_3166_3": "MKD",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "mk",
+    "languages": [
+      "mk"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Timor-Leste",
     "iso_3166_2": "TL",
     "iso_3166_3": "TLS",
     "measurement_system": "metric",
     "default_currency": "USD",
+    "default_language": "pt",
     "languages": [
       "pt"
     ],
@@ -2413,10 +2890,21 @@
     "iso_3166_3": "TGO",
     "measurement_system": "metric",
     "default_currency": "XOF",
+    "default_language": "ee",
     "languages": [
       "ee",
       "fr"
     ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tokelau",
+    "iso_3166_2": "TK",
+    "iso_3166_3": "TKL",
+    "measurement_system": "metric",
+    "default_currency": "NZD",
+    "languages": [],
     "timezones": [],
     "default_delivered_duty": "paid"
   },
@@ -2426,6 +2914,7 @@
     "iso_3166_3": "TON",
     "measurement_system": "metric",
     "default_currency": "TOP",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2438,8 +2927,22 @@
     "iso_3166_3": "TTO",
     "measurement_system": "metric",
     "default_currency": "TTD",
+    "default_language": "en",
     "languages": [
       "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Tunisia",
+    "iso_3166_2": "TN",
+    "iso_3166_3": "TUN",
+    "measurement_system": "metric",
+    "default_currency": "TND",
+    "default_language": "ar",
+    "languages": [
+      "ar"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
@@ -2450,6 +2953,7 @@
     "iso_3166_3": "TUR",
     "measurement_system": "metric",
     "default_currency": "TRY",
+    "default_language": "tr",
     "languages": [
       "tr"
     ],
@@ -2462,6 +2966,7 @@
     "iso_3166_3": "TKM",
     "measurement_system": "metric",
     "default_currency": "EUR",
+    "default_language": "tk",
     "languages": [
       "tk"
     ],
@@ -2483,6 +2988,7 @@
     "iso_3166_3": "TUV",
     "measurement_system": "metric",
     "default_currency": "AUD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2495,6 +3001,7 @@
     "iso_3166_3": "UGA",
     "measurement_system": "metric",
     "default_currency": "UGX",
+    "default_language": "en",
     "languages": [
       "en",
       "sw"
@@ -2508,6 +3015,7 @@
     "iso_3166_3": "UKR",
     "measurement_system": "metric",
     "default_currency": "UAH",
+    "default_language": "uk",
     "languages": [
       "uk"
     ],
@@ -2520,6 +3028,7 @@
     "iso_3166_3": "ARE",
     "measurement_system": "metric",
     "default_currency": "AED",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -2532,6 +3041,7 @@
     "iso_3166_3": "GBR",
     "measurement_system": "metric",
     "default_currency": "GBP",
+    "default_language": "en",
     "languages": [
       "cy",
       "en"
@@ -2547,6 +3057,7 @@
     "iso_3166_3": "TZA",
     "measurement_system": "metric",
     "default_currency": "TZS",
+    "default_language": "en",
     "languages": [
       "en",
       "sw"
@@ -2555,11 +3066,21 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "United States Minor Outlying Islands",
+    "iso_3166_2": "UM",
+    "iso_3166_3": "UMI",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "United States of America",
     "iso_3166_2": "US",
     "iso_3166_3": "USA",
     "measurement_system": "imperial",
     "default_currency": "USD",
+    "default_language": "en",
     "languages": [
       "en"
     ],
@@ -2571,11 +3092,22 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "United States Virgin Islands",
+    "iso_3166_2": "VI",
+    "iso_3166_3": "VIR",
+    "measurement_system": "metric",
+    "default_currency": "USD",
+    "languages": [],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
     "name": "Uruguay",
     "iso_3166_2": "UY",
     "iso_3166_3": "URY",
     "measurement_system": "metric",
     "default_currency": "UYU",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -2588,6 +3120,7 @@
     "iso_3166_3": "UZB",
     "measurement_system": "metric",
     "default_currency": "UZS",
+    "default_language": "uz",
     "languages": [
       "uz"
     ],
@@ -2600,6 +3133,7 @@
     "iso_3166_3": "VUT",
     "measurement_system": "metric",
     "default_currency": "VUV",
+    "default_language": "bi",
     "languages": [
       "bi",
       "en",
@@ -2614,6 +3148,7 @@
     "iso_3166_3": "VEN",
     "measurement_system": "metric",
     "default_currency": "VEF",
+    "default_language": "es",
     "languages": [
       "es"
     ],
@@ -2626,6 +3161,7 @@
     "iso_3166_3": "VNM",
     "measurement_system": "metric",
     "default_currency": "VND",
+    "default_language": "vi",
     "languages": [
       "vi"
     ],
@@ -2638,8 +3174,22 @@
     "iso_3166_3": "WLF",
     "measurement_system": "metric",
     "default_currency": "XPF",
+    "default_language": "fr",
     "languages": [
       "fr"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Western Sahara",
+    "iso_3166_2": "EH",
+    "iso_3166_3": "ESH",
+    "measurement_system": "metric",
+    "default_currency": "MAD",
+    "default_language": "es",
+    "languages": [
+      "es"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"
@@ -2650,6 +3200,7 @@
     "iso_3166_3": "YEM",
     "measurement_system": "metric",
     "default_currency": "YER",
+    "default_language": "ar",
     "languages": [
       "ar"
     ],
@@ -2662,8 +3213,36 @@
     "iso_3166_3": "ZMB",
     "measurement_system": "metric",
     "default_currency": "ZMW",
+    "default_language": "en",
     "languages": [
       "en"
+    ],
+    "timezones": [],
+    "default_delivered_duty": "paid"
+  },
+  {
+    "name": "Zimbabwe",
+    "iso_3166_2": "ZW",
+    "iso_3166_3": "ZWE",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "en",
+    "languages": [
+      "en",
+      "nd",
+      "sn"
+    ],
+    "timezones": []
+  },
+  {
+    "name": "Åland Islands",
+    "iso_3166_2": "AX",
+    "iso_3166_3": "ALA",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "sv",
+    "languages": [
+      "sv"
     ],
     "timezones": [],
     "default_delivered_duty": "paid"

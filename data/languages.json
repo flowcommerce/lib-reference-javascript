@@ -53,6 +53,8 @@
       "DJI",
       "DZA",
       "EGY",
+      "ERI",
+      "IRQ",
       "ISR",
       "JOR",
       "KWT",
@@ -64,8 +66,11 @@
       "OMN",
       "QAT",
       "SAU",
+      "SDN",
       "SOM",
+      "SYR",
       "TCD",
+      "TUN",
       "YEM"
     ],
     "locales": [
@@ -128,7 +133,9 @@
   {
     "name": "Belarusian",
     "iso_639_2": "be",
-    "countries": [],
+    "countries": [
+      "BLR"
+    ],
     "locales": [
       "be-BY"
     ]
@@ -171,7 +178,9 @@
   {
     "name": "Burmese",
     "iso_639_2": "my",
-    "countries": [],
+    "countries": [
+      "MMR"
+    ],
     "locales": []
   },
   {
@@ -293,6 +302,7 @@
       "CMR",
       "CUW",
       "DMA",
+      "ERI",
       "FJI",
       "FSM",
       "GBR",
@@ -307,6 +317,7 @@
       "KEN",
       "KIR",
       "KNA",
+      "LBR",
       "LCA",
       "LKA",
       "LSO",
@@ -324,6 +335,7 @@
       "PLW",
       "PNG",
       "RWA",
+      "SDN",
       "SGP",
       "SLB",
       "SLE",
@@ -341,7 +353,8 @@
       "VUT",
       "WSM",
       "ZAF",
-      "ZMB"
+      "ZMB",
+      "ZWE"
     ],
     "locales": [
       "en-AU",
@@ -400,6 +413,7 @@
     "name": "French",
     "iso_639_2": "fr",
     "countries": [
+      "BDI",
       "BEL",
       "BEN",
       "BFA",
@@ -409,6 +423,7 @@
       "CHE",
       "CIV",
       "CMR",
+      "COD",
       "COG",
       "COM",
       "DJI",
@@ -677,7 +692,9 @@
   {
     "name": "Kirundi",
     "iso_639_2": "rn",
-    "countries": [],
+    "countries": [
+      "BDI"
+    ],
     "locales": []
   },
   {
@@ -685,6 +702,7 @@
     "iso_639_2": "kg",
     "countries": [
       "AGO",
+      "COD",
       "COG"
     ],
     "locales": []
@@ -703,7 +721,9 @@
   {
     "name": "Kurdish",
     "iso_639_2": "ku",
-    "countries": [],
+    "countries": [
+      "IRQ"
+    ],
     "locales": []
   },
   {
@@ -754,6 +774,7 @@
     "name": "Lingala",
     "iso_639_2": "ln",
     "countries": [
+      "COD",
       "COG"
     ],
     "locales": []
@@ -771,7 +792,9 @@
   {
     "name": "Luba-Katanga",
     "iso_639_2": "lu",
-    "countries": [],
+    "countries": [
+      "COD"
+    ],
     "locales": []
   },
   {
@@ -785,7 +808,9 @@
   {
     "name": "Macedonian",
     "iso_639_2": "mk",
-    "countries": [],
+    "countries": [
+      "MKD"
+    ],
     "locales": [
       "mk"
     ]
@@ -858,7 +883,8 @@
     "name": "Northern Ndebele",
     "iso_639_2": "nd",
     "countries": [
-      "ZAF"
+      "ZAF",
+      "ZWE"
     ],
     "locales": []
   },
@@ -903,13 +929,17 @@
   {
     "name": "Pashto",
     "iso_639_2": "ps",
-    "countries": [],
+    "countries": [
+      "AFG"
+    ],
     "locales": []
   },
   {
     "name": "Persian",
     "iso_639_2": "fa",
     "countries": [
+      "AFG",
+      "IRN",
       "TJK"
     ],
     "locales": [
@@ -978,6 +1008,7 @@
     "name": "Russian",
     "iso_639_2": "ru",
     "countries": [
+      "BLR",
       "KAZ",
       "KGZ",
       "RUS",
@@ -1010,7 +1041,9 @@
   {
     "name": "Shona",
     "iso_639_2": "sn",
-    "countries": [],
+    "countries": [
+      "ZWE"
+    ],
     "locales": []
   },
   {
@@ -1077,8 +1110,10 @@
       "CHL",
       "COL",
       "CRI",
+      "CUB",
       "DOM",
       "ECU",
+      "ESH",
       "ESP",
       "GNQ",
       "GTM",
@@ -1087,6 +1122,7 @@
       "NIC",
       "PAN",
       "PER",
+      "PRI",
       "PRY",
       "SLV",
       "URY",
@@ -1118,6 +1154,7 @@
     "name": "Swahili",
     "iso_639_2": "sw",
     "countries": [
+      "COD",
       "KEN",
       "TZA",
       "UGA"
@@ -1139,6 +1176,7 @@
     "name": "Swedish",
     "iso_639_2": "sv",
     "countries": [
+      "ALA",
       "FIN",
       "SWE"
     ],
@@ -1200,7 +1238,9 @@
   {
     "name": "Tigrinya",
     "iso_639_2": "ti",
-    "countries": [],
+    "countries": [
+      "ERI"
+    ],
     "locales": []
   },
   {

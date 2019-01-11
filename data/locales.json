@@ -30,6 +30,16 @@
     }
   },
   {
+    "id": "sq-MK",
+    "name": "Albanian - The former Yugoslav Republic of Macedonia",
+    "country": "MKD",
+    "language": "sq",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
     "id": "am",
     "name": "Amharic - Armenia",
     "country": "ARM",
@@ -230,9 +240,29 @@
     }
   },
   {
+    "id": "ar-TN",
+    "name": "Arabic - Tunisia",
+    "country": "TUN",
+    "language": "ar",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "ar-AE",
     "name": "Arabic - United Arab Emirates",
     "country": "ARE",
+    "language": "ar",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "ar-EH",
+    "name": "Arabic - Western Sahara",
+    "country": "ESH",
     "language": "ar",
     "numbers": {
       "decimal": ".",
@@ -670,9 +700,29 @@
     }
   },
   {
+    "id": "en-IO",
+    "name": "English - British Indian Ocean Territory",
+    "country": "IOT",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "en-VG",
     "name": "English - British Virgin Islands",
     "country": "VGB",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-BI",
+    "name": "English - Burundi",
+    "country": "BDI",
     "language": "en",
     "numbers": {
       "decimal": ".",
@@ -703,6 +753,26 @@
     "id": "en-KY",
     "name": "English - Cayman Islands",
     "country": "CYM",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-CX",
+    "name": "English - Christmas Island",
+    "country": "CXR",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-CC",
+    "name": "English - Cocos (Keeling) Islands",
+    "country": "CCK",
     "language": "en",
     "numbers": {
       "decimal": ".",
@@ -743,6 +813,16 @@
     "id": "en-DM",
     "name": "English - Dominica",
     "country": "DMA",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-SZ",
+    "name": "English - Eswatini",
+    "country": "SWZ",
     "language": "en",
     "numbers": {
       "decimal": ".",
@@ -900,6 +980,16 @@
     }
   },
   {
+    "id": "en-IM",
+    "name": "English - Isle of Man",
+    "country": "IMN",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "en-IL",
     "name": "English - Israel",
     "country": "ISR",
@@ -953,6 +1043,16 @@
     "id": "en-LS",
     "name": "English - Lesotho",
     "country": "LSO",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-LR",
+    "name": "English - Liberia",
+    "country": "LBR",
     "language": "en",
     "numbers": {
       "decimal": ".",
@@ -1110,6 +1210,16 @@
     }
   },
   {
+    "id": "en-NF",
+    "name": "English - Norfolk Island",
+    "country": "NFK",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "en-MP",
     "name": "English - Northern Mariana Islands",
     "country": "MNP",
@@ -1153,6 +1263,26 @@
     "id": "en-PH",
     "name": "English - Philippines",
     "country": "PHL",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-PN",
+    "name": "English - Pitcairn",
+    "country": "PCN",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-PR",
+    "name": "English - Puerto Rico",
+    "country": "PRI",
     "language": "en",
     "numbers": {
       "decimal": ".",
@@ -1290,16 +1420,6 @@
     }
   },
   {
-    "id": "en-SZ",
-    "name": "English - Swaziland",
-    "country": "SWZ",
-    "language": "en",
-    "numbers": {
-      "decimal": ".",
-      "group": ","
-    }
-  },
-  {
     "id": "en-SE",
     "name": "English - Sweden",
     "country": "SWE",
@@ -1317,6 +1437,16 @@
     "numbers": {
       "decimal": ",",
       "group": "."
+    }
+  },
+  {
+    "id": "en-TK",
+    "name": "English - Tokelau",
+    "country": "TKL",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
     }
   },
   {
@@ -1400,6 +1530,26 @@
     }
   },
   {
+    "id": "en-UM",
+    "name": "English - United States Minor Outlying Islands",
+    "country": "UMI",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-VI",
+    "name": "English - United States Virgin Islands",
+    "country": "VIR",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "en-VU",
     "name": "English - Vanuatu",
     "country": "VUT",
@@ -1413,6 +1563,16 @@
     "id": "en-ZM",
     "name": "English - Zambia",
     "country": "ZMB",
+    "language": "en",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "en-ZW",
+    "name": "English - Zimbabwe",
+    "country": "ZWE",
     "language": "en",
     "numbers": {
       "decimal": ".",
@@ -1500,6 +1660,16 @@
     }
   },
   {
+    "id": "fr-BI",
+    "name": "French - Burundi",
+    "country": "BDI",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
     "id": "fr-CM",
     "name": "French - Cameroon",
     "country": "CMR",
@@ -1563,6 +1733,16 @@
     "id": "fr-CI",
     "name": "French - Côte d'Ivoire",
     "country": "CIV",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
+    "id": "fr-CD",
+    "name": "French - Democratic Republic of the Congo",
+    "country": "COD",
     "language": "fr",
     "numbers": {
       "decimal": ",",
@@ -1853,6 +2033,16 @@
     "id": "fr-TG",
     "name": "French - Togo",
     "country": "TGO",
+    "language": "fr",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
+    "id": "fr-TN",
+    "name": "French - Tunisia",
+    "country": "TUN",
     "language": "fr",
     "numbers": {
       "decimal": ",",
@@ -2170,9 +2360,29 @@
     }
   },
   {
+    "id": "rn-BI",
+    "name": "Kirundi - Burundi",
+    "country": "BDI",
+    "language": "rn",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "ko-KP",
     "name": "Korean - Democratic People's Republic of Korea",
     "country": "PRK",
+    "language": "ko",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "ko-KR",
+    "name": "Korean - Korea",
+    "country": "KOR",
     "language": "ko",
     "numbers": {
       "decimal": ".",
@@ -2264,6 +2474,16 @@
     "name": "Luxembourgish - Lebanon",
     "country": "LBN",
     "language": "lb",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
+    "id": "mk",
+    "name": "Macedonian (FYROM)",
+    "country": "MKD",
+    "language": "mk",
     "numbers": {
       "decimal": ",",
       "group": "."
@@ -2364,6 +2584,16 @@
     "name": "Norwegian (Nynorsk) - Norway",
     "country": "NOR",
     "language": "nn",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
+    "id": "nb-SJ",
+    "name": "Norwegian Bokmål - Svalbard and Jan Mayen Islands",
+    "country": "SJM",
+    "language": "nb",
     "numbers": {
       "decimal": ",",
       "group": " "
@@ -2557,6 +2787,16 @@
     "numbers": {
       "decimal": ".",
       "group": "’"
+    }
+  },
+  {
+    "id": "ru-BY",
+    "name": "Russian - Belarus",
+    "country": "BLR",
+    "language": "ru",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
     }
   },
   {
@@ -2780,6 +3020,16 @@
     }
   },
   {
+    "id": "es-CU",
+    "name": "Spanish - Cuba",
+    "country": "CUB",
+    "language": "es",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "es-DO",
     "name": "Spanish - Dominican Republic",
     "country": "DOM",
@@ -2900,6 +3150,16 @@
     }
   },
   {
+    "id": "es-PR",
+    "name": "Spanish - Puerto Rico",
+    "country": "PRI",
+    "language": "es",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "es",
     "name": "Spanish - Spain",
     "country": "ESP",
@@ -2934,6 +3194,16 @@
     "name": "Spanish - Venezuela",
     "country": "VEN",
     "language": "es",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
+    "id": "sw-CD",
+    "name": "Swahili - Democratic Republic of the Congo",
+    "country": "COD",
+    "language": "sw",
     "numbers": {
       "decimal": ",",
       "group": "."
@@ -3000,6 +3270,16 @@
     }
   },
   {
+    "id": "sv-AX",
+    "name": "Swedish - Åland Islands",
+    "country": "ALA",
+    "language": "sv",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
+    }
+  },
+  {
     "id": "ta-MY",
     "name": "Tamil - Malaysia",
     "country": "MYS",
@@ -3050,6 +3330,16 @@
     }
   },
   {
+    "id": "ti-ER",
+    "name": "Tigrinya - Eritrea",
+    "country": "ERI",
+    "language": "ti",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "tr-CY",
     "name": "Turkish - Cyprus",
     "country": "CYP",
@@ -3070,9 +3360,9 @@
     }
   },
   {
-    "id": "tk-TM",
-    "name": "Turkmen - Turkmenistan",
-    "country": "TKM",
+    "id": "tk",
+    "name": "Turkmen - Tokelau",
+    "country": "TKL",
     "language": "tk",
     "numbers": {
       "decimal": ",",
@@ -3110,9 +3400,9 @@
     }
   },
   {
-    "id": "vi-VN",
-    "name": "Vietnamese - Vietnam",
-    "country": "VNM",
+    "id": "vi",
+    "name": "Vietnamese - United States Virgin Islands",
+    "country": "VIR",
     "language": "vi",
     "numbers": {
       "decimal": ",",
