@@ -856,7 +856,8 @@
     "symbols": {
       "primary": "NT$",
       "narrow": "$"
-    }
+    },
+    "default_locale": "zh-TW"
   },
   {
     "name": "New Turkish Lira",
@@ -1166,7 +1167,8 @@
     "symbols": {
       "primary": "SEK",
       "narrow": "kr"
-    }
+    },
+    "default_locale": "sv-SE"
   },
   {
     "name": "Swiss Franc",
@@ -1306,7 +1308,8 @@
     "symbols": {
       "primary": "₫",
       "narrow": "₫"
-    }
+    },
+    "default_locale": "vi-VN"
   },
   {
     "name": "Yemeni Rial",

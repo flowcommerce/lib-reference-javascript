@@ -460,6 +460,16 @@
     }
   },
   {
+    "id": "zh-TW",
+    "name": "Chinese - Taiwan",
+    "country": "TWN",
+    "language": "zh",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "hr-BA",
     "name": "Croatian - Bosnia and Herzegovina",
     "country": "BIH",
@@ -3250,9 +3260,9 @@
     }
   },
   {
-    "id": "sv",
-    "name": "Swedish - El Salvador",
-    "country": "SLV",
+    "id": "sv-FI",
+    "name": "Swedish - Finland",
+    "country": "FIN",
     "language": "sv",
     "numbers": {
       "decimal": ",",
@@ -3260,9 +3270,9 @@
     }
   },
   {
-    "id": "sv-FI",
-    "name": "Swedish - Finland",
-    "country": "FIN",
+    "id": "sv-SE",
+    "name": "Swedish - Sweden",
+    "country": "SWE",
     "language": "sv",
     "numbers": {
       "decimal": ",",
@@ -3400,9 +3410,9 @@
     }
   },
   {
-    "id": "vi",
-    "name": "Vietnamese - United States Virgin Islands",
-    "country": "VIR",
+    "id": "vi-VN",
+    "name": "Vietnamese - Vietnam",
+    "country": "VNM",
     "language": "vi",
     "numbers": {
       "decimal": ",",
