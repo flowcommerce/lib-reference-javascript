@@ -56,10 +56,13 @@ function createAccountingConfig(locale, options) {
  */
 export function currency(amount, locale, options = {}) {
   const accountingConfig = createAccountingConfig(locale, options);
+
   if (accountingConfig) {
     const formatFunctions = getFormatterFunctions(options.label_formatters);
-    return formatFunctions.reduce((result, func) =>
-      func(result), accounting.formatMoney(amount, accountingConfig));
+    return formatFunctions.reduce(
+      (result, func) => func(result),
+      accounting.formatMoney(amount, accountingConfig),
+    );
   }
 
   return amount;
