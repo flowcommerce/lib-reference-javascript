@@ -301,7 +301,8 @@
     "symbols": {
       "primary": "CZK",
       "narrow": "Kč"
-    }
+    },
+    "default_locale": "cs-CZ"
   },
   {
     "name": "Danish Krone",
@@ -374,7 +375,8 @@
     "number_decimals": 2,
     "symbols": {
       "primary": "ETB"
-    }
+    },
+    "default_locale": "am-ET"
   },
   {
     "name": "Euro",
@@ -706,7 +708,8 @@
     "number_decimals": 2,
     "symbols": {
       "primary": "MVR"
-    }
+    },
+    "default_locale": "dv-MV"
   },
   {
     "name": "Mauritania Ouguiya",
@@ -789,7 +792,8 @@
     "symbols": {
       "primary": "NPR",
       "narrow": "Rs"
-    }
+    },
+    "default_locale": "ne-NP"
   },
   {
     "name": "New Belarusian Ruble",
@@ -1046,7 +1050,8 @@
     "number_decimals": 2,
     "symbols": {
       "primary": "RSD"
-    }
+    },
+    "default_locale": "sr-RS"
   },
   {
     "name": "Seychelles Rupee",

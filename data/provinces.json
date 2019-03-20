@@ -1,0 +1,5663 @@
+[
+  {
+    "id": "AUS-ACT",
+    "iso_3166_2": "ACT",
+    "name": "Australian Capital Territory",
+    "country": "AUS",
+    "province_type": "territory",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Australian Capital Territory"
+      }
+    ]
+  },
+  {
+    "id": "AUS-NSW",
+    "iso_3166_2": "NSW",
+    "name": "New South Wales",
+    "country": "AUS",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "New South Wales"
+      }
+    ]
+  },
+  {
+    "id": "AUS-NT",
+    "iso_3166_2": "NT",
+    "name": "Northern Territory",
+    "country": "AUS",
+    "province_type": "territory",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Northern Territory"
+      }
+    ]
+  },
+  {
+    "id": "AUS-QLD",
+    "iso_3166_2": "QLD",
+    "name": "Queensland",
+    "country": "AUS",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Queensland"
+      }
+    ]
+  },
+  {
+    "id": "AUS-SA",
+    "iso_3166_2": "SA",
+    "name": "South Australia",
+    "country": "AUS",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "South Australia"
+      }
+    ]
+  },
+  {
+    "id": "AUS-TAS",
+    "iso_3166_2": "TAS",
+    "name": "Tasmania",
+    "country": "AUS",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tasmania"
+      }
+    ]
+  },
+  {
+    "id": "AUS-VIC",
+    "iso_3166_2": "VIC",
+    "name": "Victoria",
+    "country": "AUS",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Victoria"
+      }
+    ]
+  },
+  {
+    "id": "AUS-WA",
+    "iso_3166_2": "WA",
+    "name": "Western Australia",
+    "country": "AUS",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Western Australia"
+      }
+    ]
+  },
+  {
+    "id": "CAN-AB",
+    "iso_3166_2": "AB",
+    "name": "Alberta",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Alberta"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Alberta"
+      }
+    ]
+  },
+  {
+    "id": "CAN-BC",
+    "iso_3166_2": "BC",
+    "name": "British Columbia",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "British Columbia"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Colombie-Britannique"
+      }
+    ]
+  },
+  {
+    "id": "CAN-MB",
+    "iso_3166_2": "MB",
+    "name": "Manitoba",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Manitoba"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Manitoba"
+      }
+    ]
+  },
+  {
+    "id": "CAN-NB",
+    "iso_3166_2": "NB",
+    "name": "New Brunswick",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "New Brunswick"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Nouveau-Brunswick"
+      }
+    ]
+  },
+  {
+    "id": "CAN-NL",
+    "iso_3166_2": "NL",
+    "name": "Newfoundland and Labrador",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Newfoundland and Labrador"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Terre-Neuve-et-Labrador"
+      }
+    ]
+  },
+  {
+    "id": "CAN-NS",
+    "iso_3166_2": "NS",
+    "name": "Nova Scotia",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Nova Scotia"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Nouvelle-Écosse"
+      }
+    ]
+  },
+  {
+    "id": "CAN-NT",
+    "iso_3166_2": "NT",
+    "name": "Northwest Territories",
+    "country": "CAN",
+    "province_type": "territory",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Northwest Territories"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Territoires du Nord-Ouest"
+      }
+    ]
+  },
+  {
+    "id": "CAN-NU",
+    "iso_3166_2": "NU",
+    "name": "Nunavut",
+    "country": "CAN",
+    "province_type": "territory",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Nunavut"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Nunavut"
+      }
+    ]
+  },
+  {
+    "id": "CAN-ON",
+    "iso_3166_2": "ON",
+    "name": "Ontario",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ontario"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Ontario"
+      }
+    ]
+  },
+  {
+    "id": "CAN-PE",
+    "iso_3166_2": "PE",
+    "name": "Prince Edward Island",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Prince Edward Island"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Île-du-Prince-Édouard"
+      }
+    ]
+  },
+  {
+    "id": "CAN-QC",
+    "iso_3166_2": "QC",
+    "name": "Quebec",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Quebec"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Québec"
+      }
+    ]
+  },
+  {
+    "id": "CAN-SK",
+    "iso_3166_2": "SK",
+    "name": "Saskatchewan",
+    "country": "CAN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Saskatchewan"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Saskatchewan"
+      }
+    ]
+  },
+  {
+    "id": "CAN-YT",
+    "iso_3166_2": "YT",
+    "name": "Yukon",
+    "country": "CAN",
+    "province_type": "territory",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Yukon"
+      },
+      {
+        "locale": {
+          "id": "fr-CA",
+          "name": "French - Canada",
+          "country": "CAN",
+          "language": "fr",
+          "numbers": {
+            "decimal": ",",
+            "group": " "
+          }
+        },
+        "name": "Yukon"
+      }
+    ]
+  },
+  {
+    "id": "CHN-11",
+    "iso_3166_2": "11",
+    "name": "Beijing",
+    "country": "CHN",
+    "province_type": "municipality",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Beijing"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "北京市"
+      }
+    ]
+  },
+  {
+    "id": "CHN-12",
+    "iso_3166_2": "12",
+    "name": "Tianjin",
+    "country": "CHN",
+    "province_type": "municipality",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tianjin"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "天津市"
+      }
+    ]
+  },
+  {
+    "id": "CHN-13",
+    "iso_3166_2": "13",
+    "name": "Hebei",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hebei"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "河北省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-14",
+    "iso_3166_2": "14",
+    "name": "Shanxi",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shanxi"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "山西省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-15",
+    "iso_3166_2": "15",
+    "name": "Nei Mongol",
+    "country": "CHN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Inner Mongolia"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "内蒙古自治区"
+      }
+    ]
+  },
+  {
+    "id": "CHN-21",
+    "iso_3166_2": "21",
+    "name": "Liaoning",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Liaoning"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "辽宁省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-22",
+    "iso_3166_2": "22",
+    "name": "Jilin",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Jilin"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "吉林省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-23",
+    "iso_3166_2": "23",
+    "name": "Heilongjiang",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Heilongjiang"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "黑龙江省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-31",
+    "iso_3166_2": "31",
+    "name": "Shanghai",
+    "country": "CHN",
+    "province_type": "municipality",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shanghai"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "上海市"
+      }
+    ]
+  },
+  {
+    "id": "CHN-32",
+    "iso_3166_2": "32",
+    "name": "Jiangsu",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Jiangsu"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "江苏省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-33",
+    "iso_3166_2": "33",
+    "name": "Zhejiang",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Zhejiang"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "浙江省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-34",
+    "iso_3166_2": "34",
+    "name": "Anhui",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Anhui"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "安徽省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-35",
+    "iso_3166_2": "35",
+    "name": "Fujian",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Fujian"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "福建省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-36",
+    "iso_3166_2": "36",
+    "name": "Jiangxi",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Jiangxi"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "江西省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-37",
+    "iso_3166_2": "37",
+    "name": "Shandong",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shandong"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "山东省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-41",
+    "iso_3166_2": "41",
+    "name": "Henan",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Henan"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "河南省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-42",
+    "iso_3166_2": "42",
+    "name": "Hubei",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hubei"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "湖北省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-43",
+    "iso_3166_2": "43",
+    "name": "Hunan",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hunan"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "湖南省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-44",
+    "iso_3166_2": "44",
+    "name": "Guangdong",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Guangdong"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "广东省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-45",
+    "iso_3166_2": "45",
+    "name": "Guangxi",
+    "country": "CHN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Guangxi"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "广西壮族自治区"
+      }
+    ]
+  },
+  {
+    "id": "CHN-46",
+    "iso_3166_2": "46",
+    "name": "Hainan",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hainan"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "海南省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-50",
+    "iso_3166_2": "50",
+    "name": "Chongqing",
+    "country": "CHN",
+    "province_type": "municipality",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Chongqing"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "重庆市"
+      }
+    ]
+  },
+  {
+    "id": "CHN-51",
+    "iso_3166_2": "51",
+    "name": "Sichuan",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Sichuan"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "四川省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-52",
+    "iso_3166_2": "52",
+    "name": "Guizhou",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Guizhou"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "贵州省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-53",
+    "iso_3166_2": "53",
+    "name": "Yunnan",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Yunnan"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "云南省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-54",
+    "iso_3166_2": "54",
+    "name": "Xizang",
+    "country": "CHN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tibet"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "西藏"
+      }
+    ]
+  },
+  {
+    "id": "CHN-61",
+    "iso_3166_2": "61",
+    "name": "Shaanxi",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shaanxi"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "陕西省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-62",
+    "iso_3166_2": "62",
+    "name": "Gansu",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Gansu"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "甘肃省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-63",
+    "iso_3166_2": "63",
+    "name": "Qinghai",
+    "country": "CHN",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Qinghai"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "青海省"
+      }
+    ]
+  },
+  {
+    "id": "CHN-64",
+    "iso_3166_2": "64",
+    "name": "Ningxia",
+    "country": "CHN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ningxia"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "宁夏回族自治区"
+      }
+    ]
+  },
+  {
+    "id": "CHN-65",
+    "iso_3166_2": "65",
+    "name": "Xinjiang",
+    "country": "CHN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Xinjiang"
+      },
+      {
+        "locale": {
+          "id": "zh-CN",
+          "name": "Chinese - China",
+          "country": "CHN",
+          "language": "zh",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "新疆维吾尔自治区"
+      }
+    ]
+  },
+  {
+    "id": "ESP-A",
+    "iso_3166_2": "A",
+    "name": "Alicante",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Alicante"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Alicante"
+      }
+    ]
+  },
+  {
+    "id": "ESP-AB",
+    "iso_3166_2": "AB",
+    "name": "Albacete",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Albacete"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Albacete"
+      }
+    ]
+  },
+  {
+    "id": "ESP-AL",
+    "iso_3166_2": "AL",
+    "name": "Almería",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Almeria"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Almería"
+      }
+    ]
+  },
+  {
+    "id": "ESP-AV",
+    "iso_3166_2": "AV",
+    "name": "Ávila",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Avila"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Ávila"
+      }
+    ]
+  },
+  {
+    "id": "ESP-B",
+    "iso_3166_2": "B",
+    "name": "Barcelona",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Barcelona"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Barcelona"
+      }
+    ]
+  },
+  {
+    "id": "ESP-BA",
+    "iso_3166_2": "BA",
+    "name": "Badajoz",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Badajoz"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Badajoz"
+      }
+    ]
+  },
+  {
+    "id": "ESP-BI",
+    "iso_3166_2": "BI",
+    "name": "Biskaia",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Biskaia"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Biskaia"
+      }
+    ]
+  },
+  {
+    "id": "ESP-BU",
+    "iso_3166_2": "BU",
+    "name": "Burgos",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Burgos"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Burgos"
+      }
+    ]
+  },
+  {
+    "id": "ESP-C",
+    "iso_3166_2": "C",
+    "name": "A Coruña",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "A Coruña"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "A Coruña"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CA",
+    "iso_3166_2": "CA",
+    "name": "Cádiz",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Cadiz"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Cádiz"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CC",
+    "iso_3166_2": "CC",
+    "name": "Cáceres",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Caceres"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Cáceres"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CE",
+    "iso_3166_2": "CE",
+    "name": "Ceuta",
+    "country": "ESP",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ceuta"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Ceuta"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CI",
+    "iso_3166_2": "CI",
+    "name": "Canary Islands",
+    "country": "ESP",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Canary Islands"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Canary Islands"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CO",
+    "iso_3166_2": "CO",
+    "name": "Córdoba",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Cordoba"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Córdoba"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CR",
+    "iso_3166_2": "CR",
+    "name": "Ciudad Real",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ciudad Real"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Ciudad Real"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CS",
+    "iso_3166_2": "CS",
+    "name": "Castellón",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Castellon"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Castellón"
+      }
+    ]
+  },
+  {
+    "id": "ESP-CU",
+    "iso_3166_2": "CU",
+    "name": "Cuenca",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Cuenca"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Cuenca"
+      }
+    ]
+  },
+  {
+    "id": "ESP-GC",
+    "iso_3166_2": "GC",
+    "name": "Las Palmas",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Las Palmas"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Las Palmas"
+      }
+    ]
+  },
+  {
+    "id": "ESP-GI",
+    "iso_3166_2": "GI",
+    "name": "Girona",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Girona"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Girona"
+      }
+    ]
+  },
+  {
+    "id": "ESP-GR",
+    "iso_3166_2": "GR",
+    "name": "Granada",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Granada"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Granada"
+      }
+    ]
+  },
+  {
+    "id": "ESP-GU",
+    "iso_3166_2": "GU",
+    "name": "Guadalajara",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Guadalajara"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Guadalajara"
+      }
+    ]
+  },
+  {
+    "id": "ESP-H",
+    "iso_3166_2": "H",
+    "name": "Huelva",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Huelva"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Huelva"
+      }
+    ]
+  },
+  {
+    "id": "ESP-HU",
+    "iso_3166_2": "HU",
+    "name": "Huesca",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Huesca"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Huesca"
+      }
+    ]
+  },
+  {
+    "id": "ESP-J",
+    "iso_3166_2": "J",
+    "name": "Jaén",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Jaen"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Jaén"
+      }
+    ]
+  },
+  {
+    "id": "ESP-L",
+    "iso_3166_2": "L",
+    "name": "Lleida",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Lleida"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Lleida"
+      }
+    ]
+  },
+  {
+    "id": "ESP-LE",
+    "iso_3166_2": "LE",
+    "name": "León",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Leon"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "León"
+      }
+    ]
+  },
+  {
+    "id": "ESP-LO",
+    "iso_3166_2": "LO",
+    "name": "La Rioja",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "La Rioja"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "La Rioja"
+      }
+    ]
+  },
+  {
+    "id": "ESP-LU",
+    "iso_3166_2": "LU",
+    "name": "Lugo",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Lugo"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Lugo"
+      }
+    ]
+  },
+  {
+    "id": "ESP-M",
+    "iso_3166_2": "M",
+    "name": "Madrid",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Madrid"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Madrid"
+      }
+    ]
+  },
+  {
+    "id": "ESP-MA",
+    "iso_3166_2": "MA",
+    "name": "Málaga",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Malaga"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Málaga"
+      }
+    ]
+  },
+  {
+    "id": "ESP-ML",
+    "iso_3166_2": "ML",
+    "name": "Melilla",
+    "country": "ESP",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Melilla"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Melilla"
+      }
+    ]
+  },
+  {
+    "id": "ESP-MU",
+    "iso_3166_2": "MU",
+    "name": "Murcia",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Murcia"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Murcia"
+      }
+    ]
+  },
+  {
+    "id": "ESP-NA",
+    "iso_3166_2": "NA",
+    "name": "Navarra",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Navarra"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Navarra"
+      }
+    ]
+  },
+  {
+    "id": "ESP-O",
+    "iso_3166_2": "O",
+    "name": "Asturias",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Asturias"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Asturias"
+      }
+    ]
+  },
+  {
+    "id": "ESP-OR",
+    "iso_3166_2": "OR",
+    "name": "Ourense",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ourense"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Ourense"
+      }
+    ]
+  },
+  {
+    "id": "ESP-P",
+    "iso_3166_2": "P",
+    "name": "Palencia",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Palencia"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Palencia"
+      }
+    ]
+  },
+  {
+    "id": "ESP-PM",
+    "iso_3166_2": "PM",
+    "name": "Balears",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Balears"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Balears"
+      }
+    ]
+  },
+  {
+    "id": "ESP-PO",
+    "iso_3166_2": "PO",
+    "name": "Pontevedra",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Pontevedra"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Pontevedra"
+      }
+    ]
+  },
+  {
+    "id": "ESP-S",
+    "iso_3166_2": "S",
+    "name": "Cantabria",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Cantabria"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Cantabria"
+      }
+    ]
+  },
+  {
+    "id": "ESP-SA",
+    "iso_3166_2": "SA",
+    "name": "Salamanca",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Salamanca"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Salamanca"
+      }
+    ]
+  },
+  {
+    "id": "ESP-SE",
+    "iso_3166_2": "SE",
+    "name": "Sevilla",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Sevilla"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Sevilla"
+      }
+    ]
+  },
+  {
+    "id": "ESP-SG",
+    "iso_3166_2": "SG",
+    "name": "Segovia",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Segovia"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Segovia"
+      }
+    ]
+  },
+  {
+    "id": "ESP-SO",
+    "iso_3166_2": "SO",
+    "name": "Soria",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Soria"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Soria"
+      }
+    ]
+  },
+  {
+    "id": "ESP-SS",
+    "iso_3166_2": "SS",
+    "name": "Gipuzkoa",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Gipuzkoa"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Gipuzkoa"
+      }
+    ]
+  },
+  {
+    "id": "ESP-T",
+    "iso_3166_2": "T",
+    "name": "Tarragona",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tarragona"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Tarragona"
+      }
+    ]
+  },
+  {
+    "id": "ESP-TE",
+    "iso_3166_2": "TE",
+    "name": "Teruel",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Teruel"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Teruel"
+      }
+    ]
+  },
+  {
+    "id": "ESP-TF",
+    "iso_3166_2": "TF",
+    "name": "Santa Cruz de Tenerife",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Santa Cruz de Tenerife"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Santa Cruz de Tenerife"
+      }
+    ]
+  },
+  {
+    "id": "ESP-TO",
+    "iso_3166_2": "TO",
+    "name": "Toledo",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Toledo"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Toledo"
+      }
+    ]
+  },
+  {
+    "id": "ESP-V",
+    "iso_3166_2": "V",
+    "name": "València",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Valencia"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Valencia"
+      }
+    ]
+  },
+  {
+    "id": "ESP-VA",
+    "iso_3166_2": "VA",
+    "name": "Valladolid",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Valladolid"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Valladolid"
+      }
+    ]
+  },
+  {
+    "id": "ESP-VI",
+    "iso_3166_2": "VI",
+    "name": "Álava",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Alava"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Álava"
+      }
+    ]
+  },
+  {
+    "id": "ESP-Z",
+    "iso_3166_2": "Z",
+    "name": "Zaragoza",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Zaragoza"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Zaragoza"
+      }
+    ]
+  },
+  {
+    "id": "ESP-ZA",
+    "iso_3166_2": "ZA",
+    "name": "Zamora",
+    "country": "ESP",
+    "province_type": "province",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Zamora"
+      },
+      {
+        "locale": {
+          "id": "es",
+          "name": "Spanish - Spain",
+          "country": "ESP",
+          "language": "es",
+          "numbers": {
+            "decimal": ",",
+            "group": "."
+          }
+        },
+        "name": "Zamora"
+      }
+    ]
+  },
+  {
+    "id": "JPN-01",
+    "iso_3166_2": "01",
+    "name": "Hokkaido",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hokkaido"
+      }
+    ]
+  },
+  {
+    "id": "JPN-02",
+    "iso_3166_2": "02",
+    "name": "Aomori",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-03",
+    "iso_3166_2": "03",
+    "name": "Iwate",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-04",
+    "iso_3166_2": "04",
+    "name": "Miyagi",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-05",
+    "iso_3166_2": "05",
+    "name": "Akita",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-06",
+    "iso_3166_2": "06",
+    "name": "Yamagata",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-07",
+    "iso_3166_2": "07",
+    "name": "Fukushima",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Fukushima"
+      }
+    ]
+  },
+  {
+    "id": "JPN-08",
+    "iso_3166_2": "08",
+    "name": "Ibaraki",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-09",
+    "iso_3166_2": "09",
+    "name": "Tochigi",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tochigi"
+      }
+    ]
+  },
+  {
+    "id": "JPN-10",
+    "iso_3166_2": "10",
+    "name": "Gunma",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-11",
+    "iso_3166_2": "11",
+    "name": "Saitama",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-12",
+    "iso_3166_2": "12",
+    "name": "Chiba",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Chiba"
+      }
+    ]
+  },
+  {
+    "id": "JPN-13",
+    "iso_3166_2": "13",
+    "name": "Tokyo",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tokyo"
+      }
+    ]
+  },
+  {
+    "id": "JPN-14",
+    "iso_3166_2": "14",
+    "name": "Kanagawa",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-15",
+    "iso_3166_2": "15",
+    "name": "Niigata",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-16",
+    "iso_3166_2": "16",
+    "name": "Toyama",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-17",
+    "iso_3166_2": "17",
+    "name": "Ishikawa",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ishikawa"
+      }
+    ]
+  },
+  {
+    "id": "JPN-18",
+    "iso_3166_2": "18",
+    "name": "Fukui",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Fukui"
+      }
+    ]
+  },
+  {
+    "id": "JPN-19",
+    "iso_3166_2": "19",
+    "name": "Yamanashi",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Yamanashi"
+      }
+    ]
+  },
+  {
+    "id": "JPN-20",
+    "iso_3166_2": "20",
+    "name": "Nagano",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-21",
+    "iso_3166_2": "21",
+    "name": "Gifu",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Gifu"
+      }
+    ]
+  },
+  {
+    "id": "JPN-22",
+    "iso_3166_2": "22",
+    "name": "Shizuoka",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shizuoka"
+      }
+    ]
+  },
+  {
+    "id": "JPN-23",
+    "iso_3166_2": "23",
+    "name": "Aichi",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Aichi"
+      }
+    ]
+  },
+  {
+    "id": "JPN-24",
+    "iso_3166_2": "24",
+    "name": "Mie",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-25",
+    "iso_3166_2": "25",
+    "name": "Shiga",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shiga"
+      }
+    ]
+  },
+  {
+    "id": "JPN-26",
+    "iso_3166_2": "26",
+    "name": "Kyoto",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Kyoto"
+      }
+    ]
+  },
+  {
+    "id": "JPN-27",
+    "iso_3166_2": "27",
+    "name": "Osaka",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Osaka"
+      }
+    ]
+  },
+  {
+    "id": "JPN-28",
+    "iso_3166_2": "28",
+    "name": "Hy�go[Hyogo]",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hyogo"
+      }
+    ]
+  },
+  {
+    "id": "JPN-29",
+    "iso_3166_2": "29",
+    "name": "Nara",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-30",
+    "iso_3166_2": "30",
+    "name": "Wakayama",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-31",
+    "iso_3166_2": "31",
+    "name": "Tottori",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-32",
+    "iso_3166_2": "32",
+    "name": "Shimane",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Shimane"
+      }
+    ]
+  },
+  {
+    "id": "JPN-33",
+    "iso_3166_2": "33",
+    "name": "Okayama",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-34",
+    "iso_3166_2": "34",
+    "name": "Hiroshima",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hiroshima"
+      }
+    ]
+  },
+  {
+    "id": "JPN-35",
+    "iso_3166_2": "35",
+    "name": "Yamaguchi",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Yamaguchi"
+      }
+    ]
+  },
+  {
+    "id": "JPN-36",
+    "iso_3166_2": "36",
+    "name": "Tokushima",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tokushima"
+      }
+    ]
+  },
+  {
+    "id": "JPN-37",
+    "iso_3166_2": "37",
+    "name": "Kagawa",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-38",
+    "iso_3166_2": "38",
+    "name": "Ehime",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-39",
+    "iso_3166_2": "39",
+    "name": "Kochi",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Kochi"
+      }
+    ]
+  },
+  {
+    "id": "JPN-40",
+    "iso_3166_2": "40",
+    "name": "Fukuoka",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Fukuoka"
+      }
+    ]
+  },
+  {
+    "id": "JPN-41",
+    "iso_3166_2": "41",
+    "name": "Saga",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-42",
+    "iso_3166_2": "42",
+    "name": "Nagasaki",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-43",
+    "iso_3166_2": "43",
+    "name": "Kumamoto",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-44",
+    "iso_3166_2": "44",
+    "name": "Oita",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Oita"
+      }
+    ]
+  },
+  {
+    "id": "JPN-45",
+    "iso_3166_2": "45",
+    "name": "Miyazaki",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "JPN-46",
+    "iso_3166_2": "46",
+    "name": "Kagoshima",
+    "country": "JPN",
+    "province_type": "other",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Kagoshima"
+      }
+    ]
+  },
+  {
+    "id": "JPN-47",
+    "iso_3166_2": "47",
+    "name": "Okinawa",
+    "country": "JPN",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-AB",
+    "iso_3166_2": "AB",
+    "name": "Alba",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-AG",
+    "iso_3166_2": "AG",
+    "name": "Argeș",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-AR",
+    "iso_3166_2": "AR",
+    "name": "Arad",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-B",
+    "iso_3166_2": "B",
+    "name": "București",
+    "country": "ROU",
+    "province_type": "municipality"
+  },
+  {
+    "id": "ROU-BC",
+    "iso_3166_2": "BC",
+    "name": "Bacău",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-BH",
+    "iso_3166_2": "BH",
+    "name": "Bihor",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-BN",
+    "iso_3166_2": "BN",
+    "name": "Bistrița-Năsăud",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-BR",
+    "iso_3166_2": "BR",
+    "name": "Brăila",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-BT",
+    "iso_3166_2": "BT",
+    "name": "Botoșani",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-BV",
+    "iso_3166_2": "BV",
+    "name": "Brașov",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-BZ",
+    "iso_3166_2": "BZ",
+    "name": "Buzău",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-CJ",
+    "iso_3166_2": "CJ",
+    "name": "Cluj",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-CL",
+    "iso_3166_2": "CL",
+    "name": "Călărași",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-CS",
+    "iso_3166_2": "CS",
+    "name": "Caraș-Severin",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-CT",
+    "iso_3166_2": "CT",
+    "name": "Constanța",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-CV",
+    "iso_3166_2": "CV",
+    "name": "Covasna",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-DB",
+    "iso_3166_2": "DB",
+    "name": "Dâmbovița",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-DJ",
+    "iso_3166_2": "DJ",
+    "name": "Dolj",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-GJ",
+    "iso_3166_2": "GJ",
+    "name": "Gorj",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-GL",
+    "iso_3166_2": "GL",
+    "name": "Galați",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-GR",
+    "iso_3166_2": "GR",
+    "name": "Giurgiu",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-HD",
+    "iso_3166_2": "HD",
+    "name": "Hunedoara",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-HR",
+    "iso_3166_2": "HR",
+    "name": "Harghita",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-IF",
+    "iso_3166_2": "IF",
+    "name": "Ilfov",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-IL",
+    "iso_3166_2": "IL",
+    "name": "Ialomița",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-IS",
+    "iso_3166_2": "IS",
+    "name": "Iași",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-MH",
+    "iso_3166_2": "MH",
+    "name": "Mehedinți",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-MM",
+    "iso_3166_2": "MM",
+    "name": "Maramureș",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-MS",
+    "iso_3166_2": "MS",
+    "name": "Mureș",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-NT",
+    "iso_3166_2": "NT",
+    "name": "Neamț",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-OT",
+    "iso_3166_2": "OT",
+    "name": "Olt",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-PH",
+    "iso_3166_2": "PH",
+    "name": "Prahova",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-SB",
+    "iso_3166_2": "SB",
+    "name": "Sibiu",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-SJ",
+    "iso_3166_2": "SJ",
+    "name": "Sălaj",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-SM",
+    "iso_3166_2": "SM",
+    "name": "Satu Mare",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-SV",
+    "iso_3166_2": "SV",
+    "name": "Suceava",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-TL",
+    "iso_3166_2": "TL",
+    "name": "Tulcea",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-TM",
+    "iso_3166_2": "TM",
+    "name": "Timiș",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-TR",
+    "iso_3166_2": "TR",
+    "name": "Teleorman",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-VL",
+    "iso_3166_2": "VL",
+    "name": "Vâlcea",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-VN",
+    "iso_3166_2": "VN",
+    "name": "Vrancea",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "ROU-VS",
+    "iso_3166_2": "VS",
+    "name": "Vaslui",
+    "country": "ROU",
+    "province_type": "other"
+  },
+  {
+    "id": "USA-AK",
+    "iso_3166_2": "AK",
+    "name": "Alaska",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Alaska"
+      }
+    ]
+  },
+  {
+    "id": "USA-AL",
+    "iso_3166_2": "AL",
+    "name": "Alabama",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Alabama"
+      }
+    ]
+  },
+  {
+    "id": "USA-AR",
+    "iso_3166_2": "AR",
+    "name": "Arkansas",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Arkansas"
+      }
+    ]
+  },
+  {
+    "id": "USA-AZ",
+    "iso_3166_2": "AZ",
+    "name": "Arizona",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Arizona"
+      }
+    ]
+  },
+  {
+    "id": "USA-CA",
+    "iso_3166_2": "CA",
+    "name": "California",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "California"
+      }
+    ]
+  },
+  {
+    "id": "USA-CO",
+    "iso_3166_2": "CO",
+    "name": "Colorado",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Colorado"
+      }
+    ]
+  },
+  {
+    "id": "USA-CT",
+    "iso_3166_2": "CT",
+    "name": "Connecticut",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Connecticut"
+      }
+    ]
+  },
+  {
+    "id": "USA-DC",
+    "iso_3166_2": "DC",
+    "name": "District of Columbia",
+    "country": "USA",
+    "province_type": "district",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Washington DC"
+      }
+    ]
+  },
+  {
+    "id": "USA-DE",
+    "iso_3166_2": "DE",
+    "name": "Delaware",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Delaware"
+      }
+    ]
+  },
+  {
+    "id": "USA-FL",
+    "iso_3166_2": "FL",
+    "name": "Florida",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Florida"
+      }
+    ]
+  },
+  {
+    "id": "USA-GA",
+    "iso_3166_2": "GA",
+    "name": "Georgia",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Georgia"
+      }
+    ]
+  },
+  {
+    "id": "USA-HI",
+    "iso_3166_2": "HI",
+    "name": "Hawaii",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Hawaii"
+      }
+    ]
+  },
+  {
+    "id": "USA-IA",
+    "iso_3166_2": "IA",
+    "name": "Iowa",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Iowa"
+      }
+    ]
+  },
+  {
+    "id": "USA-ID",
+    "iso_3166_2": "ID",
+    "name": "Idaho",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Idaho"
+      }
+    ]
+  },
+  {
+    "id": "USA-IL",
+    "iso_3166_2": "IL",
+    "name": "Illinois",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Illinois"
+      }
+    ]
+  },
+  {
+    "id": "USA-IN",
+    "iso_3166_2": "IN",
+    "name": "Indiana",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Indiana"
+      }
+    ]
+  },
+  {
+    "id": "USA-KS",
+    "iso_3166_2": "KS",
+    "name": "Kansas",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Kansas"
+      }
+    ]
+  },
+  {
+    "id": "USA-KY",
+    "iso_3166_2": "KY",
+    "name": "Kentucky",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Kentucky"
+      }
+    ]
+  },
+  {
+    "id": "USA-LA",
+    "iso_3166_2": "LA",
+    "name": "Louisiana",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Louisiana"
+      }
+    ]
+  },
+  {
+    "id": "USA-MA",
+    "iso_3166_2": "MA",
+    "name": "Massachusetts",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Massachusetts"
+      }
+    ]
+  },
+  {
+    "id": "USA-MD",
+    "iso_3166_2": "MD",
+    "name": "Maryland",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Maryland"
+      }
+    ]
+  },
+  {
+    "id": "USA-ME",
+    "iso_3166_2": "ME",
+    "name": "Maine",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Maine"
+      }
+    ]
+  },
+  {
+    "id": "USA-MI",
+    "iso_3166_2": "MI",
+    "name": "Michigan",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Michigan"
+      }
+    ]
+  },
+  {
+    "id": "USA-MN",
+    "iso_3166_2": "MN",
+    "name": "Minnesota",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Minnesota"
+      }
+    ]
+  },
+  {
+    "id": "USA-MO",
+    "iso_3166_2": "MO",
+    "name": "Missouri",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Missouri"
+      }
+    ]
+  },
+  {
+    "id": "USA-MS",
+    "iso_3166_2": "MS",
+    "name": "Mississippi",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Mississippi"
+      }
+    ]
+  },
+  {
+    "id": "USA-MT",
+    "iso_3166_2": "MT",
+    "name": "Montana",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Montana"
+      }
+    ]
+  },
+  {
+    "id": "USA-NC",
+    "iso_3166_2": "NC",
+    "name": "North Carolina",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "North Carolina"
+      }
+    ]
+  },
+  {
+    "id": "USA-ND",
+    "iso_3166_2": "ND",
+    "name": "North Dakota",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "North Dakota"
+      }
+    ]
+  },
+  {
+    "id": "USA-NE",
+    "iso_3166_2": "NE",
+    "name": "Nebraska",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Nebraska"
+      }
+    ]
+  },
+  {
+    "id": "USA-NH",
+    "iso_3166_2": "NH",
+    "name": "New Hampshire",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "New Hampshire"
+      }
+    ]
+  },
+  {
+    "id": "USA-NJ",
+    "iso_3166_2": "NJ",
+    "name": "New Jersey",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "New Jersey"
+      }
+    ]
+  },
+  {
+    "id": "USA-NM",
+    "iso_3166_2": "NM",
+    "name": "New Mexico",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "New Mexico"
+      }
+    ]
+  },
+  {
+    "id": "USA-NV",
+    "iso_3166_2": "NV",
+    "name": "Nevada",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Nevada"
+      }
+    ]
+  },
+  {
+    "id": "USA-NY",
+    "iso_3166_2": "NY",
+    "name": "New York",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "New York"
+      }
+    ]
+  },
+  {
+    "id": "USA-OH",
+    "iso_3166_2": "OH",
+    "name": "Ohio",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Ohio"
+      }
+    ]
+  },
+  {
+    "id": "USA-OK",
+    "iso_3166_2": "OK",
+    "name": "Oklahoma",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Oklahoma"
+      }
+    ]
+  },
+  {
+    "id": "USA-OR",
+    "iso_3166_2": "OR",
+    "name": "Oregon",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Oregon"
+      }
+    ]
+  },
+  {
+    "id": "USA-PA",
+    "iso_3166_2": "PA",
+    "name": "Pennsylvania",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Pennsylvania"
+      }
+    ]
+  },
+  {
+    "id": "USA-RI",
+    "iso_3166_2": "RI",
+    "name": "Rhode Island",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Rhode Island"
+      }
+    ]
+  },
+  {
+    "id": "USA-SC",
+    "iso_3166_2": "SC",
+    "name": "South Carolina",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "South Carolina"
+      }
+    ]
+  },
+  {
+    "id": "USA-SD",
+    "iso_3166_2": "SD",
+    "name": "South Dakota",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "South Dakota"
+      }
+    ]
+  },
+  {
+    "id": "USA-TN",
+    "iso_3166_2": "TN",
+    "name": "Tennessee",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Tennessee"
+      }
+    ]
+  },
+  {
+    "id": "USA-TX",
+    "iso_3166_2": "TX",
+    "name": "Texas",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Texas"
+      }
+    ]
+  },
+  {
+    "id": "USA-UT",
+    "iso_3166_2": "UT",
+    "name": "Utah",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Utah"
+      }
+    ]
+  },
+  {
+    "id": "USA-VA",
+    "iso_3166_2": "VA",
+    "name": "Virginia",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Virginia"
+      }
+    ]
+  },
+  {
+    "id": "USA-VT",
+    "iso_3166_2": "VT",
+    "name": "Vermont",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Vermont"
+      }
+    ]
+  },
+  {
+    "id": "USA-WA",
+    "iso_3166_2": "WA",
+    "name": "Washington",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Washington"
+      }
+    ]
+  },
+  {
+    "id": "USA-WI",
+    "iso_3166_2": "WI",
+    "name": "Wisconsin",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Wisconsin"
+      }
+    ]
+  },
+  {
+    "id": "USA-WV",
+    "iso_3166_2": "WV",
+    "name": "West Virginia",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "West Virginia"
+      }
+    ]
+  },
+  {
+    "id": "USA-WY",
+    "iso_3166_2": "WY",
+    "name": "Wyoming",
+    "country": "USA",
+    "province_type": "state",
+    "translations": [
+      {
+        "locale": {
+          "id": "en-US",
+          "name": "English - United States",
+          "country": "USA",
+          "language": "en",
+          "numbers": {
+            "decimal": ".",
+            "group": ","
+          }
+        },
+        "name": "Wyoming"
+      }
+    ]
+  }
+]
