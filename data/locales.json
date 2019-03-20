@@ -50,6 +50,16 @@
     }
   },
   {
+    "id": "am-ET",
+    "name": "Amharic - Ethiopia",
+    "country": "ETH",
+    "language": "am",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "ar-DZ",
     "name": "Arabic - Algeria",
     "country": "DZA",
@@ -490,6 +500,16 @@
     }
   },
   {
+    "id": "cs-CZ",
+    "name": "Czech - Czechia",
+    "country": "CZE",
+    "language": "cs",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
     "id": "da-DK",
     "name": "Danish - Denmark",
     "country": "DNK",
@@ -517,6 +537,16 @@
     "numbers": {
       "decimal": ",",
       "group": "."
+    }
+  },
+  {
+    "id": "dv-MV",
+    "name": "Divehi - Maldives",
+    "country": "MDV",
+    "language": "dv",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
     }
   },
   {
@@ -563,6 +593,16 @@
     "id": "nl-SX",
     "name": "Dutch - Sint Maarten",
     "country": "SXM",
+    "language": "nl",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
+    "id": "nl-SR",
+    "name": "Dutch - Suriname",
+    "country": "SUR",
     "language": "nl",
     "numbers": {
       "decimal": ",",
@@ -1590,6 +1630,16 @@
     }
   },
   {
+    "id": "et-EE",
+    "name": "Estonian - Estonia",
+    "country": "EST",
+    "language": "et",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "et",
     "name": "Estonian - Ethiopia",
     "country": "ETH",
@@ -2420,6 +2470,16 @@
     }
   },
   {
+    "id": "lv-LV",
+    "name": "Latvian - Latvia",
+    "country": "LVA",
+    "language": "lv",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "lv",
     "name": "Latvian - Latvia",
     "country": "LVA",
@@ -2454,6 +2514,16 @@
     "name": "Lingala - Congo",
     "country": "COG",
     "language": "ln",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
+    "id": "lt-LT",
+    "name": "Lithuanian - Lithuania",
+    "country": "LTU",
+    "language": "lt",
     "numbers": {
       "decimal": ",",
       "group": "."
@@ -2570,6 +2640,16 @@
     }
   },
   {
+    "id": "ne-NP",
+    "name": "Nepali - Nepal",
+    "country": "NPL",
+    "language": "ne",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
     "id": "ne",
     "name": "Nepali - Niger",
     "country": "NER",
@@ -2614,6 +2694,16 @@
     "name": "Panjabi - Panama",
     "country": "PAN",
     "language": "pa",
+    "numbers": {
+      "decimal": ".",
+      "group": ","
+    }
+  },
+  {
+    "id": "fa-TJ",
+    "name": "Persian - Tajikistan",
+    "country": "TJK",
+    "language": "fa",
     "numbers": {
       "decimal": ".",
       "group": ","
@@ -2883,6 +2973,16 @@
     "id": "sr-ME",
     "name": "Serbian - Montenegro",
     "country": "MNE",
+    "language": "sr",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
+    }
+  },
+  {
+    "id": "sr-RS",
+    "name": "Serbian - Serbia",
+    "country": "SRB",
     "language": "sr",
     "numbers": {
       "decimal": ",",
@@ -3377,6 +3477,16 @@
     "numbers": {
       "decimal": ",",
       "group": " "
+    }
+  },
+  {
+    "id": "tk-TM",
+    "name": "Turkmen - Turkmenistan",
+    "country": "TKM",
+    "language": "tk",
+    "numbers": {
+      "decimal": ",",
+      "group": "."
     }
   },
   {

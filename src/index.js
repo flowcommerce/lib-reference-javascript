@@ -4,5 +4,6 @@ export * as currencies from './currencies';
 export * as format from './format';
 export * as languages from './languages';
 export * as paymentMethods from './payment-methods';
+export * as provinces from './provinces';
 export * as regions from './regions';
 export * as timezones from './timezones';

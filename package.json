@@ -21,6 +21,7 @@
     "download:languages": "curl -s -o data/languages.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/languages.json",
     "download:locales": "curl -s -o data/locales.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/locales.json",
     "download:payment-methods": "curl -s -o data/payment-methods.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/payment-methods.json",
+    "download:provinces": "curl -s -o data/provinces.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/provinces.json",
     "download:regions": "curl -s -o data/regions.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/regions.json",
     "download:timezones": "curl -s -o data/timezones.json https://raw.githubusercontent.com/flowcommerce/json-reference/master/data/final/timezones.json",
     "fix": "eslint . --fix",
