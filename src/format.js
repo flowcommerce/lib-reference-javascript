@@ -41,6 +41,7 @@ function createAccountingConfig(locale, options) {
   return {
     ...formatConfig,
     symbol: symbolOpt,
+    thousand: formatConfig.group,
   };
 }
 
