@@ -29,6 +29,11 @@ describe('format', () => {
 
     expect(currency(1200.00, 'en-AU', options)).to.equal('$1,200');
     expect(currency(2000.00, 'en-AU', options)).to.equal('$2,000');
-    expect(currency(1200.00, 'de', options)).to.equal('€1,200');
+    expect(currency(1200.00, 'de', options)).to.equal('€1.200');
+  });
+
+  it('REGRESSION: it should format based on es-AR locale', () => {
+    const result = currency(16409, 'es-AR');
+    expect(result).to.equal('ARS16.409,00');
   });
 });

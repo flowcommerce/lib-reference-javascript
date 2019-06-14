@@ -39,6 +39,10 @@ function createAccountingConfig(locale, options) {
   const symbolOpt = formatConfig.symbol[options.symbol] || formatConfig.symbol.primary;
 
   return {
+    // This is a correction for the wrong `formatConfig` coming from json-reference
+    // Intentionally left above the spread to automatically prefer the `thousand` propery
+    // if it eventually comes from `currency-format.v2.json`.
+    thousand: formatConfig.group,
     ...formatConfig,
     symbol: symbolOpt,
   };
