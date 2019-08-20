@@ -426,6 +426,7 @@
       "LAK",
       "LBP",
       "LKR",
+      "MMK",
       "MNT",
       "MOP",
       "MVR",
@@ -3258,7 +3259,7 @@
       "MMR"
     ],
     "currencies": [
-      "EUR"
+      "MMK"
     ],
     "languages": [
       "my"
@@ -5425,6 +5426,7 @@
       "LYD",
       "MAD",
       "MDL",
+      "MMK",
       "MNT",
       "MOP",
       "MUR",

@@ -1956,7 +1956,7 @@
     "iso_3166_2": "MM",
     "iso_3166_3": "MMR",
     "measurement_system": "imperial",
-    "default_currency": "EUR",
+    "default_currency": "MMK",
     "default_language": "my",
     "languages": [
       "my"
