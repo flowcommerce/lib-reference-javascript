@@ -29,6 +29,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "am-ET": {
+    "symbol": {
+      "primary": "ETB",
+      "narrow": "ETB"
+    },
+    "decimal": ".",
+    "group": ",",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "ar": {
     "symbol": {
       "primary": "ARS",
@@ -379,6 +389,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "cs-CZ": {
+    "symbol": {
+      "primary": "CZK",
+      "narrow": "Kč"
+    },
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "cy": {
     "symbol": {
       "primary": "€",
@@ -486,6 +506,16 @@
     },
     "decimal": ",",
     "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "dv-MV": {
+    "symbol": {
+      "primary": "MVR",
+      "narrow": "MVR"
+    },
+    "decimal": ".",
+    "group": ",",
     "precision": 2,
     "format": "%s%v"
   },
@@ -1789,6 +1819,26 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "et-EE": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ".",
+    "group": ",",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "fa-TJ": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ".",
+    "group": ",",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "ff-CM": {
     "symbol": {
       "primary": "FCFA",
@@ -2559,6 +2609,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "lt-LT": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "lu": {
     "symbol": {
       "primary": "€",
@@ -2576,6 +2636,16 @@
     },
     "decimal": ",",
     "group": " ",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "lv-LV": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ".",
+    "group": ",",
     "precision": 2,
     "format": "%s%v"
   },
@@ -2699,6 +2769,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "ne-NP": {
+    "symbol": {
+      "primary": "NPR",
+      "narrow": "Rs"
+    },
+    "decimal": ".",
+    "group": ",",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "nl": {
     "symbol": {
       "primary": "€",
@@ -2743,6 +2823,16 @@
     "symbol": {
       "primary": "ANG",
       "narrow": "ANG"
+    },
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "nl-SR": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
     },
     "decimal": ",",
     "group": ".",
@@ -3149,6 +3239,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "sq-XK": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ",",
+    "group": " ",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "sr-BA": {
     "symbol": {
       "primary": "BAM",
@@ -3169,13 +3269,23 @@
     "precision": 2,
     "format": "%s%v"
   },
-  "sv": {
+  "sr-RS": {
     "symbol": {
-      "primary": "US$",
-      "narrow": "$"
+      "primary": "RSD",
+      "narrow": "RSD"
     },
     "decimal": ",",
-    "group": " ",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "sr-XK": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ",",
+    "group": ".",
     "precision": 2,
     "format": "%s%v"
   },
@@ -3193,6 +3303,16 @@
     "symbol": {
       "primary": "€",
       "narrow": "€"
+    },
+    "decimal": ",",
+    "group": " ",
+    "precision": 2,
+    "format": "%s%v"
+  },
+  "sv-SE": {
+    "symbol": {
+      "primary": "SEK",
+      "narrow": "kr"
     },
     "decimal": ",",
     "group": " ",
@@ -3319,6 +3439,16 @@
     "precision": 2,
     "format": "%s%v"
   },
+  "tk-TM": {
+    "symbol": {
+      "primary": "€",
+      "narrow": "€"
+    },
+    "decimal": ",",
+    "group": ".",
+    "precision": 2,
+    "format": "%s%v"
+  },
   "tr": {
     "symbol": {
       "primary": "TRY",
@@ -3369,14 +3499,14 @@
     "precision": 2,
     "format": "%s%v"
   },
-  "vi": {
+  "vi-VN": {
     "symbol": {
-      "primary": "US$",
-      "narrow": "$"
+      "primary": "₫",
+      "narrow": "₫"
     },
     "decimal": ",",
     "group": ".",
-    "precision": 2,
+    "precision": 0,
     "format": "%s%v"
   },
   "yo-BJ": {
@@ -3427,6 +3557,16 @@
     "decimal": ".",
     "group": ",",
     "precision": 2,
+    "format": "%s%v"
+  },
+  "zh-TW": {
+    "symbol": {
+      "primary": "NT$",
+      "narrow": "$"
+    },
+    "decimal": ".",
+    "group": ",",
+    "precision": 0,
     "format": "%s%v"
   },
   "zu-ZA": {

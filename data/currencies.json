@@ -183,7 +183,7 @@
   {
     "name": "Burmese Kyat",
     "iso_4217_3": "MMK",
-    "number_decimals": 0,
+    "number_decimals": 2,
     "symbols": {
       "primary": "MMK",
       "narrow": "K"
