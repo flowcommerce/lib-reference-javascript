@@ -22,7 +22,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "afterpay",
@@ -47,7 +48,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "alipay",
@@ -72,7 +74,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "american_express",
@@ -97,6 +100,9 @@
     },
     "regions": [
       "world"
+    ],
+    "capabilities": [
+      "credit"
     ]
   },
   {
@@ -122,7 +128,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "bankTransfer_IBAN",
@@ -147,7 +154,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "bitcoin",
@@ -172,7 +180,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "bitpay",
@@ -197,7 +206,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "cartes_bancaires",
@@ -222,6 +232,9 @@
     },
     "regions": [
       "fra"
+    ],
+    "capabilities": [
+      "credit"
     ]
   },
   {
@@ -247,6 +260,10 @@
     },
     "regions": [
       "chn"
+    ],
+    "capabilities": [
+      "credit",
+      "debit"
     ]
   },
   {
@@ -272,7 +289,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "dankort",
@@ -297,6 +315,9 @@
     },
     "regions": [
       "europe"
+    ],
+    "capabilities": [
+      "debit"
     ]
   },
   {
@@ -323,6 +344,9 @@
     "regions": [
       "europe",
       "north-america"
+    ],
+    "capabilities": [
+      "credit"
     ]
   },
   {
@@ -348,7 +372,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "discover",
@@ -374,6 +399,9 @@
     "regions": [
       "europe",
       "north-america"
+    ],
+    "capabilities": [
+      "credit"
     ]
   },
   {
@@ -399,7 +427,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "dragonpay_ebanking",
@@ -424,7 +453,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "dragonpay_gcash",
@@ -449,7 +479,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "dragonpay_otc_banking",
@@ -474,7 +505,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "ebanking_FI",
@@ -499,7 +531,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "giropay",
@@ -524,7 +557,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "google_pay",
@@ -549,7 +583,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "ideal",
@@ -574,7 +609,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "interac",
@@ -599,7 +635,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "jcb",
@@ -624,6 +661,10 @@
     },
     "regions": [
       "jpn"
+    ],
+    "capabilities": [
+      "credit",
+      "debit"
     ]
   },
   {
@@ -649,7 +690,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "kcp_creditcard",
@@ -674,7 +716,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "kcp_payco",
@@ -699,7 +742,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "klarna",
@@ -724,7 +768,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "maestro",
@@ -750,6 +795,9 @@
     "regions": [
       "europe",
       "north-america"
+    ],
+    "capabilities": [
+      "debit"
     ]
   },
   {
@@ -775,6 +823,10 @@
     },
     "regions": [
       "world"
+    ],
+    "capabilities": [
+      "credit",
+      "debit"
     ]
   },
   {
@@ -800,7 +852,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "multibanco",
@@ -825,7 +878,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "paypal",
@@ -850,7 +904,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "qiwiwallet",
@@ -875,7 +930,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "sepadirectdebit",
@@ -900,7 +956,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "trustly",
@@ -925,7 +982,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "trustpay",
@@ -950,7 +1008,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "unionpay",
@@ -975,7 +1034,8 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   },
   {
     "id": "visa",
@@ -1000,6 +1060,10 @@
     },
     "regions": [
       "world"
+    ],
+    "capabilities": [
+      "credit",
+      "debit"
     ]
   },
   {
@@ -1025,6 +1089,7 @@
     },
     "regions": [
       "world"
-    ]
+    ],
+    "capabilities": []
   }
 ]

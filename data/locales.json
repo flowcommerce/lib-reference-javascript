@@ -30,16 +30,6 @@
     }
   },
   {
-    "id": "sq-XK",
-    "name": "Albanian - Kosovo",
-    "country": "RKS",
-    "language": "sq",
-    "numbers": {
-      "decimal": ",",
-      "group": " "
-    }
-  },
-  {
     "id": "sq-MK",
     "name": "Albanian - The former Yugoslav Republic of Macedonia",
     "country": "MKD",
@@ -2480,16 +2470,6 @@
     }
   },
   {
-    "id": "lv",
-    "name": "Latvian - Latvia",
-    "country": "LVA",
-    "language": "lv",
-    "numbers": {
-      "decimal": ",",
-      "group": " "
-    }
-  },
-  {
     "id": "lv-LV",
     "name": "Latvian - Latvia",
     "country": "LVA",
@@ -2497,6 +2477,16 @@
     "numbers": {
       "decimal": ".",
       "group": ","
+    }
+  },
+  {
+    "id": "lv",
+    "name": "Latvian - Latvia",
+    "country": "LVA",
+    "language": "lv",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
     }
   },
   {
@@ -2530,16 +2520,6 @@
     }
   },
   {
-    "id": "lt",
-    "name": "Lithuanian - Lithuania",
-    "country": "LTU",
-    "language": "lt",
-    "numbers": {
-      "decimal": ",",
-      "group": " "
-    }
-  },
-  {
     "id": "lt-LT",
     "name": "Lithuanian - Lithuania",
     "country": "LTU",
@@ -2547,6 +2527,16 @@
     "numbers": {
       "decimal": ",",
       "group": "."
+    }
+  },
+  {
+    "id": "lt",
+    "name": "Lithuanian - Lithuania",
+    "country": "LTU",
+    "language": "lt",
+    "numbers": {
+      "decimal": ",",
+      "group": " "
     }
   },
   {
@@ -2973,16 +2963,6 @@
     "id": "sr-BA",
     "name": "Serbian - Bosnia and Herzegovina",
     "country": "BIH",
-    "language": "sr",
-    "numbers": {
-      "decimal": ",",
-      "group": "."
-    }
-  },
-  {
-    "id": "sr-XK",
-    "name": "Serbian - Kosovo",
-    "country": "RKS",
     "language": "sr",
     "numbers": {
       "decimal": ",",

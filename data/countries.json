@@ -1541,15 +1541,6 @@
     "default_delivered_duty": "paid"
   },
   {
-    "name": "Kosovo",
-    "iso_3166_2": "XK",
-    "iso_3166_3": "RKS",
-    "measurement_system": "metric",
-    "default_currency": "EUR",
-    "languages": [],
-    "timezones": []
-  },
-  {
     "name": "Kuwait",
     "iso_3166_2": "KW",
     "iso_3166_3": "KWT",
@@ -3156,7 +3147,7 @@
     "iso_3166_2": "VE",
     "iso_3166_3": "VEN",
     "measurement_system": "metric",
-    "default_currency": "VEF",
+    "default_currency": "VES",
     "default_language": "es",
     "languages": [
       "es"

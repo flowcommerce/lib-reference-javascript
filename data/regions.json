@@ -389,7 +389,6 @@
       "PRK",
       "PSE",
       "QAT",
-      "RKS",
       "SAU",
       "SGP",
       "SYR",
@@ -1720,7 +1719,6 @@
       "SVN",
       "ESP",
       "SWE",
-      "GBR",
       "ISL",
       "LIE",
       "NOR"
@@ -1731,7 +1729,6 @@
       "CZK",
       "DKK",
       "EUR",
-      "GBP",
       "HRK",
       "HUF",
       "ISK",
@@ -1743,7 +1740,6 @@
     "languages": [
       "bg",
       "cs",
-      "cy",
       "da",
       "de",
       "el",
@@ -1811,15 +1807,13 @@
       "SVK",
       "SVN",
       "ESP",
-      "SWE",
-      "GBR"
+      "SWE"
     ],
     "currencies": [
       "BGN",
       "CZK",
       "DKK",
       "EUR",
-      "GBP",
       "HRK",
       "HUF",
       "PLN",
@@ -1829,7 +1823,6 @@
     "languages": [
       "bg",
       "cs",
-      "cy",
       "da",
       "de",
       "el",
@@ -2708,21 +2701,6 @@
     "languages": [
       "en"
     ],
-    "measurement_systems": [
-      "metric"
-    ],
-    "timezones": []
-  },
-  {
-    "id": "rks",
-    "name": "Kosovo",
-    "countries": [
-      "RKS"
-    ],
-    "currencies": [
-      "EUR"
-    ],
-    "languages": [],
     "measurement_systems": [
       "metric"
     ],
@@ -4412,7 +4390,7 @@
       "PYG",
       "USD",
       "UYU",
-      "VEF"
+      "VES"
     ],
     "languages": [
       "ay",
@@ -5054,7 +5032,7 @@
       "VEN"
     ],
     "currencies": [
-      "VEF"
+      "VES"
     ],
     "languages": [
       "es"
@@ -5307,7 +5285,6 @@
       "PYF",
       "QAT",
       "REU",
-      "RKS",
       "ROU",
       "RUS",
       "RWA",
@@ -5490,7 +5467,7 @@
       "USD",
       "UYU",
       "UZS",
-      "VEF",
+      "VES",
       "VND",
       "VUV",
       "WST",

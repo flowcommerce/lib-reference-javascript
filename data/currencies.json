@@ -1306,12 +1306,20 @@
     "default_locale": "en-VU"
   },
   {
-    "name": "Venezuelan Bolívar",
+    "name": "Venezuelan Bolívar Fuerte",
     "iso_4217_3": "VEF",
     "number_decimals": 2,
     "symbols": {
       "primary": "VEF",
       "narrow": "Bs"
+    }
+  },
+  {
+    "name": "Venezuelan Bolívar Soberano",
+    "iso_4217_3": "VES",
+    "number_decimals": 0,
+    "symbols": {
+      "primary": "VES"
     },
     "default_locale": "es-VE"
   },
