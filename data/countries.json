@@ -677,7 +677,7 @@
     "iso_3166_2": "HR",
     "iso_3166_3": "HRV",
     "measurement_system": "metric",
-    "default_currency": "HRK",
+    "default_currency": "EUR",
     "default_language": "hr",
     "languages": [
       "hr",

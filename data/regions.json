@@ -1208,7 +1208,7 @@
       "HRV"
     ],
     "currencies": [
-      "HRK"
+      "EUR"
     ],
     "languages": [
       "hr",
@@ -1868,6 +1868,7 @@
       "FRA",
       "DEU",
       "GRC",
+      "HRV",
       "IRL",
       "ITA",
       "LVA",
@@ -1893,6 +1894,7 @@
       "fi",
       "fr",
       "ga",
+      "hr",
       "it",
       "lb",
       "lt",
