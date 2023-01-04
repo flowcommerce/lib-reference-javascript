@@ -324,7 +324,7 @@
     "iso_3166_3": "BOL",
     "measurement_system": "metric",
     "default_currency": "BOB",
-    "default_language": "ay",
+    "default_language": "es",
     "languages": [
       "ay",
       "es",
@@ -677,7 +677,7 @@
     "iso_3166_2": "HR",
     "iso_3166_3": "HRV",
     "measurement_system": "metric",
-    "default_currency": "HRK",
+    "default_currency": "EUR",
     "default_language": "hr",
     "languages": [
       "hr",
@@ -1541,6 +1541,15 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "Kosovo",
+    "iso_3166_2": "XK",
+    "iso_3166_3": "RKS",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "languages": [],
+    "timezones": []
+  },
+  {
     "name": "Kuwait",
     "iso_3166_2": "KW",
     "iso_3166_3": "KWT",
@@ -2109,6 +2118,18 @@
     "default_delivered_duty": "paid"
   },
   {
+    "name": "North Macedonia",
+    "iso_3166_2": "MK",
+    "iso_3166_3": "MKD",
+    "measurement_system": "metric",
+    "default_currency": "EUR",
+    "default_language": "mk",
+    "languages": [
+      "mk"
+    ],
+    "timezones": []
+  },
+  {
     "name": "Northern Mariana Islands",
     "iso_3166_2": "MP",
     "iso_3166_3": "MNP",
@@ -2206,7 +2227,7 @@
     "iso_3166_3": "PRY",
     "measurement_system": "metric",
     "default_currency": "PYG",
-    "default_language": "gn",
+    "default_language": "es",
     "languages": [
       "es",
       "gn"
@@ -2220,7 +2241,7 @@
     "iso_3166_3": "PER",
     "measurement_system": "metric",
     "default_currency": "PEN",
-    "default_language": "ay",
+    "default_language": "es",
     "languages": [
       "ay",
       "es",
@@ -2860,18 +2881,6 @@
     "default_delivered_duty": "paid"
   },
   {
-    "name": "The former Yugoslav Republic of Macedonia",
-    "iso_3166_2": "MK",
-    "iso_3166_3": "MKD",
-    "measurement_system": "metric",
-    "default_currency": "EUR",
-    "default_language": "mk",
-    "languages": [
-      "mk"
-    ],
-    "timezones": []
-  },
-  {
     "name": "Timor-Leste",
     "iso_3166_2": "TL",
     "iso_3166_3": "TLS",
@@ -3147,7 +3156,7 @@
     "iso_3166_2": "VE",
     "iso_3166_3": "VEN",
     "measurement_system": "metric",
-    "default_currency": "VES",
+    "default_currency": "VEF",
     "default_language": "es",
     "languages": [
       "es"

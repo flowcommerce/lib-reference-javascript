@@ -389,6 +389,7 @@
       "PRK",
       "PSE",
       "QAT",
+      "RKS",
       "SAU",
       "SGP",
       "SYR",
@@ -1208,7 +1209,7 @@
       "HRV"
     ],
     "currencies": [
-      "HRK"
+      "EUR"
     ],
     "languages": [
       "hr",
@@ -1868,6 +1869,7 @@
       "FRA",
       "DEU",
       "GRC",
+      "HRV",
       "IRL",
       "ITA",
       "LVA",
@@ -1893,6 +1895,7 @@
       "fi",
       "fr",
       "ga",
+      "hr",
       "it",
       "lb",
       "lt",
@@ -2701,6 +2704,21 @@
     "languages": [
       "en"
     ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
+  },
+  {
+    "id": "rks",
+    "name": "Kosovo",
+    "countries": [
+      "RKS"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [],
     "measurement_systems": [
       "metric"
     ],
@@ -3540,6 +3558,23 @@
       "Canada/Eastern",
       "Mexico/General"
     ]
+  },
+  {
+    "id": "mkd",
+    "name": "North Macedonia",
+    "countries": [
+      "MKD"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "languages": [
+      "mk"
+    ],
+    "measurement_systems": [
+      "metric"
+    ],
+    "timezones": []
   },
   {
     "id": "mnp",
@@ -4390,7 +4425,7 @@
       "PYG",
       "USD",
       "UYU",
-      "VES"
+      "VEF"
     ],
     "languages": [
       "ay",
@@ -4641,23 +4676,6 @@
     ],
     "languages": [
       "th"
-    ],
-    "measurement_systems": [
-      "metric"
-    ],
-    "timezones": []
-  },
-  {
-    "id": "mkd",
-    "name": "The former Yugoslav Republic of Macedonia",
-    "countries": [
-      "MKD"
-    ],
-    "currencies": [
-      "EUR"
-    ],
-    "languages": [
-      "mk"
     ],
     "measurement_systems": [
       "metric"
@@ -5032,7 +5050,7 @@
       "VEN"
     ],
     "currencies": [
-      "VES"
+      "VEF"
     ],
     "languages": [
       "es"
@@ -5285,6 +5303,7 @@
       "PYF",
       "QAT",
       "REU",
+      "RKS",
       "ROU",
       "RUS",
       "RWA",
@@ -5467,7 +5486,7 @@
       "USD",
       "UYU",
       "UZS",
-      "VES",
+      "VEF",
       "VND",
       "VUV",
       "WST",

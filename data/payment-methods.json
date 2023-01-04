@@ -132,6 +132,32 @@
     "capabilities": []
   },
   {
+    "id": "bancontact",
+    "type": "online",
+    "name": "Bancontact",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bancontact/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bancontact/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/bancontact/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ],
+    "capabilities": []
+  },
+  {
     "id": "bankTransfer_IBAN",
     "type": "online",
     "name": "International Bank Transfer (IBAN)",
@@ -236,6 +262,32 @@
     "capabilities": [
       "credit"
     ]
+  },
+  {
+    "id": "cash_on_delivery",
+    "type": "online",
+    "name": "Cash on Delivery",
+    "images": {
+      "small": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/cash_on_delivery/30/original.png",
+        "width": 65,
+        "height": 41
+      },
+      "medium": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/cash_on_delivery/60/original.png",
+        "width": 100,
+        "height": 60
+      },
+      "large": {
+        "url": "https://flowcdn.io/util/logos/payment-methods/cash_on_delivery/120/original.png",
+        "width": 256,
+        "height": 256
+      }
+    },
+    "regions": [
+      "world"
+    ],
+    "capabilities": []
   },
   {
     "id": "china_union_pay",
