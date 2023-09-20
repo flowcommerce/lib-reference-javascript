@@ -524,7 +524,7 @@
   {
     "name": "Iceland Krona",
     "iso_4217_3": "ISK",
-    "number_decimals": 2,
+    "number_decimals": 0,
     "symbols": {
       "primary": "ISK",
       "narrow": "kr"
