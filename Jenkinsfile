@@ -38,6 +38,7 @@ pipeline {
       steps {
         container('nodejs') {
           script {
+            sh(script: 'npm ci')
             sh(script: 'npm run lint')
             sh(script: 'npm run test')
           }
