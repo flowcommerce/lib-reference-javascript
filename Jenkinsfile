@@ -38,9 +38,9 @@ pipeline {
       steps {
         container('nodejs') {
           script {
-            sh "sleep 600"
-            sh(script: 'npm run lint')
-            sh "sleep 600"
+            // sh "sleep 600"
+            // sh(script: 'npm run lint')
+            // sh "sleep 600"
             sh(script: 'npm run test')
           }
         }
