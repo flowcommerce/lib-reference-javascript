@@ -39,6 +39,7 @@ pipeline {
         container('nodejs') {
           script {
             sh(script: 'npm run lint')
+            sh "sleep 600"
             sh(script: 'npm run test')
           }
         }
