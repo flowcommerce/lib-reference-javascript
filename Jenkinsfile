@@ -12,7 +12,7 @@ pipeline {
       inheritFrom 'default'
 
       containerTemplates([
-        containerTemplate(name: 'nodejs', image: "flowdocker/node12_builder:0.2.27", resourceRequestCpu: '1', resourceRequestMemory: '4Gi', command: 'cat', ttyEnabled: true, runAsUser: '1000'),
+        containerTemplate(name: 'nodejs', image: "flowdocker/node16_builder", resourceRequestCpu: '1', resourceRequestMemory: '4Gi', command: 'cat', ttyEnabled: true, runAsUser: '1000'),
       ])
     }
   }
