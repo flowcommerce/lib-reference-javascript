@@ -34,7 +34,6 @@ pipeline {
     }
 
     stage('Lint') {
-    //   when { not { branch 'main' } }
       environment {
         NPM_TOKEN = credentials('jenkins-npm-automation-token')
       }
