@@ -1244,7 +1244,7 @@
       "CUW"
     ],
     "currencies": [
-      "ANG"
+      "ANG", "XCG"
     ],
     "languages": [
       "en",
@@ -3538,7 +3538,8 @@
       "NIO",
       "TTD",
       "USD",
-      "XCD"
+      "XCD",
+      "XCG"
     ],
     "languages": [
       "en",
@@ -4284,7 +4285,7 @@
       "SXM"
     ],
     "currencies": [
-      "ANG"
+      "ANG", "XCG"
     ],
     "languages": [
       "en",
@@ -5492,6 +5493,7 @@
       "WST",
       "XAF",
       "XCD",
+      "XCG",
       "XOF",
       "XPF",
       "YER",
